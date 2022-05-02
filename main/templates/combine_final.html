@@ -1,0 +1,24 @@
+{% block content %}
+    {% include 'nav.html' %}
+
+    <div class="container">
+        <div class="form-label">
+            <label for="jobs-file">Vacancy/Jobs File:</label>
+        </div>
+        <div>
+            <input type="file" name="jobs-file" id="jobs-file" accept=".csv"/>
+        </div>
+        <h4>.</h4><br>
+        <div class="form-label">
+            <label for="email-file">'People with email' File:</label>
+        </div>
+        <br>
+        <div>
+            <input type="file" name="email-file" id="email-file" accept=".csv"/>
+        </div>
+        <br>
+
+    <button onclick="combine_data()">Submit</button>
+    </div>
+<script type="text/javascript" src="/static/JS/combine.js"></script>
+{% endblock %}

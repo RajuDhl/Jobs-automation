@@ -1,0 +1,827 @@
+
+SDET
+Agile  Remote
+Agile company logo
+ Contract
+ Posted 19 days ago - Updated moments ago
+SDET - 100% Remote Pay Rate: $60/Hour Our client is seeking to hire an SDET on their team in Atlanta, Georgia. For this project, the client is looking for someone that can help them make progress on automation coverage to help minimize the manual testing needed. Here's what our ideal candidate has: Automation QA testing experience in the web and client server environments. Has experience in writing test cases, test plans, structured test methodology, use cases. Development experience in test
+Easy Apply
+SDET
+O2 Technologies  Remote
+O2 Technologies company logo
+ Contract
+ Posted 7 days ago - Updated 1 day ago
+Skills and Experience: Required Skills: ETL API BATCH TESTING DATA ANALYSIS INFORMATICA 7 plus years in QA 5 plus years working ETL
+Easy Apply
+Get personalized job recommendations today!
+A Dice profile with customized IntelliSearch™ Alerts is the most effective way for you to discover the best tech jobs, tailored to your experience!
+SDET
+Raas Infotek LLC  Remote
+Raas Infotek LLC company logo
+ Contract
+ Posted 6 days ago
+Job Title: SDET Location: TX, United States Visa: Any Employment Type: W2 Responsibilities: 6 - 9 years of professional SDET experience with 3+ of those involving in iOS Native Automation using XCUI suite.Verifiable experience as a Subject Matter Expert using Swift, XCode IDE, XCUITest framework in a large, enterprise environment, preferably as part of a team of QA engineersSolid understanding of Agile methodologyDesign, develop and maintain a suite of automation tests, write and execute tes
+Easy Apply
+SDET
+Raas Infotek LLC  Remote
+Raas Infotek LLC company logo
+ Contract
+ Posted 23 hours ago
+Position- SDET Required Skills- Experience applying different software testing techniques, such as equivalence class partitioning, boundary value testing, pairwise testing, etc.Experience with SOA and distributed systems.Experience testing web services is a plus.Extensive professional hands-on experience as a Software Development Engineer in Test (SDET)Proficient in, at least, one modern programming language such as Java, C, C++, C#, or PythonExperience writing test plans, test automation and te
+Easy Apply
+SDET
+VC5 Consulting  Remote
+VC5 Consulting company logo
+ Full-time
+ Posted 22 days ago - Updated 1 day ago
+The ideal candidate will have: Hands-on experience implementing and extending Cypress.io. based test automation and integrating the framework with our continuous integration and delivery infrastructure.Experience testing in a Microsoft .NET environment using ASP, C#, Angular, SQL ServerExperience working in an Atlassian stack environment with Jira, Bitbucket Pipelines, Xray, Cucumber and AWS CodePipelineExcellent communication skills and a passion for continuous learningExperience in HCM, Payrol
+Easy Apply
+SDET
+SQA Group  Remote
+SQA Group company logo
+ Contract
+ Posted 60+ days ago - Updated 6 days ago
+SQA Group is a tech and advisory services firm helping drive experience transformation through the application of advanced analytics, emerging tech, and digital velocity solutions. For more than two decades, we’ve helped our clients emerge as the Experience Pacesetters, the ones harnessing the power of human ingenuity and technological innovation to thrive in this ever-evolving landscape. Our client, a property and casualty insurance company, is seeking an experienced SDET with strong C# program
+Easy Apply
+SDET Engineer
+My3Tech  Remote
+My3Tech company logo
+ Full-time
+ Posted moments ago
+SDET Engineer 100% Remote FULL TIME Mandatory skills - Jenkins , Automation , SQL/NoSQL , GUI/Web Services/APIs is must, GIT,HTML, XML, JSON, CSS, JIRA, Agile Skills: 5+ years of experience in automated testing Telecom Billing Application (plus) Experience in testing GUI/Web Services/APIs is must Experience of relational databases and SQL/NoSQL is plus. Good knowledge of web technologies such as HTML, XML, JSON, CSS. Experience in process automation is a must. Familiarity with entire software
+Easy Apply
+SDET with Appium
+Veear  Remote or Seattle, WA, USA
+Veear company logo
+ Contract, Third Party
+ Posted 1 day ago - Updated 16 hours ago
+Title: SDET with Appium Duration: Long Term Contract Location: Seattle, WA (Initial Remote) Job Description: 3-10 years of QA experience, with good communication skills.4+ years of experience developing end-to-end testing frameworks for web, mobile, and web services2-4 years of experience in AppiumStrong programming and skills. Preferred : Java, Maven, NodeJS (JavaScript, Typescript)Automation Frameworks/IDEs Preferred: Selenium, TestNG, Rest Assured, Appium, WebdriverIO, Cypress, Protractor,
+Easy Apply
+SDET (software development engineer in test)
+Pactera Edge  Remote
+Pactera Edge company logo
+ Full-time
+ Posted 8 days ago - Updated 7 days ago
+SDET Work Location: Redmond, WA BASIC QUALIFICATIONS • BA/BS degree or equivalent experience (higher-level degree a Plus). • 1-3 years of working experience in software/hardware testing • Familiar with basic PowerShell command • Ability to quickly learn new skills and drive completion of business goals • Good troubleshooting skills • Lead potential, who is very self-motivated, loves difficult challenges and is goal-driven • Good written, verbal English communication skills Preferred Qualificati
+Easy Apply
+QA API Automation and SDET Engineer -Internal project
+Allwyn Corporation  Remote
+Allwyn Corporation company logo
+ Contract, Third Party
+ Posted 1 hour ago
+Hi Greetings Allwyn Corp is looking for QA /SDET our internal project in Washington, DC Title : QA API Automation AND SDET Engineer Duration : Long term contract Location : Washington, DC Remote job Responsibilities include: Automation QA with hands-on experience in automation Selenium/Cucumber/TestNG/Appium Functional testing experience Develop test plans, test cases, test scripts and test reports on multiple projects of varying size. Perform testing on various software systems. Validate tha
+Easy Apply
+Sr. SDET
+Palnar  Remote
+Palnar company logo
+ Contract
+ Posted 1 day ago - Updated 20 hours ago
+Location: Remote Worker - Remote but must be in the US and must work east coast hours. Duration: ~12 months- extension or conversion Line of business: EDML- Enterprise Data Machine Learning. Project: Aggressive timelines to automate multiple currently manual tests. A mixture of Backend/API and UI testing that they are automating. So, someone needs to be an automation specialist, but also able to "code to test". Must Haves: Automation specialist with Selenium, Java, Cyprus, NodeJS. Nice to haves
+Easy Apply
+SDET (Appium)
+Pyramid Consulting, Inc.  Remote
+Pyramid Consulting, Inc. company logo
+ Contract
+ Posted 18 days ago - Updated 7 days ago
+Immediate need for a talented QA - Test Automation Engineer or Leading convenience store Company. This is a 9+ Months Contract opportunity with long-term potential and is located in Irving, TX. Please review the job description below. Job id- 22-01565 100% Remote Job Description Senior level Quality Assurance Engineer with plenty of Automation experience. Must have Mobile app experience (Appium). Skills required- Appium, Selenium, Agile / Scrum, Java “MUST HAVE” SPECIFIC KNOWLEDGE AND SKILL
+Easy Apply
+SDET
+Digital Intelligence Systems, LLC  Remote
+Digital Intelligence Systems, LLC company logo
+ Full-time
+ Posted 8 days ago - Updated moments ago
+Responsibilities:Software Developer Engineer in Test are skilled resources with a strong quality foundation and intermediate programming skills that not only serve as testers but as developers for test automation. SDET will shift focus from manual to test automation. Partner with product & engineering/scrum teams to review requirements, build automation, and teach engineers how to maintain tests in BDD/TDD format Devise the comprehensive test strategy for a new product and ensure it is executed
+Easy Apply
+Urgent openings for Automation Engineer/SDET - C2C - LONG TERM PROJECT - ONSITE IN St Louis, MO
+Cyma Systems Inc  Remote or St. Louis, MO, USA
+Cyma Systems Inc company logo
+ Contract, Third Party
+ Posted 15 days ago - Updated 15 days ago
+Urgent openings for Automation Engineer/SDET : C2C : LONG TERM PROJECT : Location: St Louis, MO Hands on Java/Rest API testing experience, should be able to code JavaTest automation, Ops gating, Integration Testing etcRest Assured and Framework development experience
+Easy Apply
+SDET
+Qentelli  Remote
+Qentelli company logo
+ Full-time
+ Posted 21 days ago
+Title: SDET Location: Remote Duration: 12+ Months Hiring for SDET for our project at Qentelli. Skills: JAVA/ Selenium
+Easy Apply
+Software Development Engineer in Test (SDET)
+Will-N-Able  Remote
+Will-N-Able company logo
+ Contract
+ Posted 22 days ago - Updated 1 day ago
+Our client is looking to hire a Software Development Engineer in Test (SDET). Work will be 100% remote. And client would like to hire the consultant after 3 months on contract. Client is unable to sponsor H1-B visas at this time. Description Estimate, design, build, test and deliver high quality code. Develop and test fully functional components. Troubleshoot and resolve application issues including performance. Collaborate with team members to define requirements, solution architecture, and d
+Easy Apply
+Sr. SDET
+Baanyan Software Services, Inc.  Remote
+Baanyan Software Services, Inc. company logo
+ Contract
+ Posted 22 hours ago
+Job Role: Sr. SDET Location: Remote 100% Duration: 12+ months Job Description: Programming experience with Core JavaAutomation Skills with Cucumber BDD & TestNGWeb Services testing experience with Automation & ManualDatabase testing experience with relational & non-relational databasesPerformance testing ExperienceExperience with JMeterCI/CD ExperienceNice to have: Experience with Messaging Queues like Rabbit MQExposure to Splunk and ability to write Splunk queriesInformatica ExperienceShell scr
+Easy Apply
+SDET
+Virtusa Corporation  Remote
+Virtusa Corporation company logo
+ Full-time
+ Posted 34 days ago - Updated 15 days ago
+Looking for a QAE with 6- 8 years’ experienceGood in Automation and Selenium Good in JavascriptGood in SQLAzure cloud ExposureExperience in JIRAExperience in creating test cases, Test execution and Bug reportingBasic knowledge on understanding the C#/Python logicsExperience in Automation using Selenium or PythonExperience in Data Base testing using huge data (Data compare using MS excel/MS access)
+Easy Apply
+SDET
+Skill On Tap  Remote
+Skill On Tap company logo
+ Third Party, Contract
+ Posted 44 days ago - Updated moments ago
+Experience in building automation framework Able to read and write code in Java Very strong in REST API and Backend Automation Able to estimate, plan and execute testing cycles Detailed knowledge on testing types (Functional, Regression, BVT, Cross browser etc) Creating test cases, logging defects via defect tracking tool Good communication skills and should be able to interact with Developer and PM Able to work independently or with a little guidance Experience working in Agile methodology Use
+Easy Apply
+REMOTE QA Automation Engineer / SR. SDET
+Platinum Resource Group  Remote
+Platinum Resource Group company logo
+ Contract
+ Posted 22 days ago - Updated moments ago
+REMOTE - QA Automation Engineer / SR. SDET Location; Remote, US JOB DESCRIPTION As a Senior SDET, you ll play a key role in our client s growth and long-term success by being a change agent and technologist who is focused on quality engineering solutions that result in measurable customer value. You will fill an existing role that sits on a team of 25 people in RSD QA division. Your colleagues will include QA Analysts and QA Engineers with expertise in business capabilities, test analysis and de
+Easy Apply
+SDET - 3
+Everest Consultants, Inc  Remote or Seattle, WA, USA
+Everest Consultants, Inc company logo
+ Full-time
+ Posted 20 days ago - Updated moments ago
+Title: SDET - C# or Java (100% remote work) Duration: Permanent role with great benefits Location: Remote US - PDT Core HoursNOTE - This will be 60% automation and 40% manual testingThe Quality Assurance Engineer is responsible for improving the quality of software releases through automation processes and tools enhancements. Working in an agile development environment, the QA Engineer will develop and apply customized testing methodologies to show measurable improvements to the released softwa
+Easy Apply
+SDET with Python and Linux
+Spectra Group  Remote
+Spectra Group company logo
+ Contract, Third Party
+ Posted 6 days ago
+Individual will run automated tests written in python, grab logs, debug, and report bugs. · Individual will need to run tests in different environments in order to narrow down test, infrastructure, and product issues · Individual will also build out hardware rigs to test Google assistant based products · Individual will need to debug network issues, general resource issues: cpu usage, memory usage, timing usage, etc. · Knowledge and skills requests: o Linux command line understanding, specif
+Easy Apply
+SDET III
+Rezult Group, Inc  Remote
+Rezult Group, Inc company logo
+ Full-time
+ Posted 1 day ago
+Rezult Group continues to make great strides toward enhancing the technology services community nationwide. We are consistently looking for qualified professionals to join us in achieving success. Currently we are searching for a Software Development Engineer in Test (SDET ) to fulfill an immediate vacancy. This Individual Will Be Responsible For: This person will be working on the payment platform. (web/ mobile platform built on AWS with microservices, Node, React.js).They will be responsibl
+Easy Apply
+Sr. Software Engineer /SDET Lead + C#
+ZEN3 INFOSOLUTIONS AMERICA INC  Remote
+ZEN3 INFOSOLUTIONS AMERICA INC company logo
+ Full-time
+ Posted 56 days ago - Updated 28 days ago
+Role: Sr. Software engineer/SDET Lead Client: Microsoft/Remote Hire: W2 Job Description: Experience of leading or managing onsite/Offshore team Good with writing code using C# or .net (Any coding language) Experience in Powershell scripting. Working experience or Knowledge with Cloud technologies like Azure or AWS. Knowledge of Operating Systems Good to Have: Expertise with (REST) API design and development Knowledge of in WTT, Windows debugging using windbg or similar tools Interested candi
+Easy Apply
+8 Positions - Software Development Engineering in Test (SDET) , Richardson. Texas , Long Term
+United Software Group  Remote
+United Software Group company logo
+ Third Party, Contract
+ Posted 28 days ago - Updated moments ago
+Hi, This is Siva from USG. I hope you are doing great. We have an urgent requirement with one of our client for a Software Development Engineering in Test (SDET) / 8 Positions. Please go through the requirement and get back to me ASAP Role Software Development Engineering in Test (SDET) / 8 Positions Work Location Richardson. Texas Duration Long Term Total experience in required skill (years) 2+ Years Roles and responsibility We're Looking For a Great Team Player Who o Has the ability to un
+Easy Apply
+SDET
+Kforce Technology Staffing  Remote or Miami, FL, USA
+Kforce Technology Staffing company logo
+ Contract
+ Posted 60+ days ago - Updated 1 hour ago
+RESPONSIBILITIES: Kforce has a client seeking a SDET for remote work in Miami, FL (Florida). Responsibilities: * In this role, the SDET will participate in scrum & product planning and be responsible for all phases and types of testing, for right-sized testing, including but not limited to strategies, requirements, planning, management, execution and reporting * Drive the building of test strategies & methodologies, automation and site monitoring focused on infrastructure and high availability
+[REMOTE in CO] Senior Software Engineer in Test (SDET) - Java, Automation
+Technology Navigators  Remote
+Technology Navigators company logo
+ Full-time
+ Posted 40 days ago - Updated 22 hours ago
+No sponsorship available. No third-party candidates. This is a 100% REMOTE opportunity, however, applicants must reside within Texas, Colorado, or Florida or be willing to relocate to one of the aforementioned states. Created by long-time pioneers in the FinTech industry, this high-performance start-up company is stirring up some big buzz around its innovative financial technology platform. Our client’s proprietary solutions remove legacy roadblocks and enable companies of all sizes to benefit
+Easy Apply
+SDET
+Kforce Technology Staffing  Remote or Davie, FL, USA
+Kforce Technology Staffing company logo
+ Contract
+ Posted 60+ days ago - Updated 1 hour ago
+RESPONSIBILITIES: Kforce has a client seeking a SDET in Miami, FL (Florida) for a remote role. Responsibilities: * The SDET will lead design and development of end to end automated regression and performance test scripts * Work closely with development teams to ensure the effectiveness and quality of the components and systems developed * Test for a range of projects from and enhancements to strategic initiatives * Develop, maintain and execute test cases, ensuring the quality and stability of
+Software Development Engineer in Test (SDET)
+Signature Consultants  Remote
+Signature Consultants company logo
+ Contract
+ Posted 27 days ago - Updated moments ago
+Job Summary: Signature Consultants is seeking a Automation QA for an opportunity with a client located in Sandy Springs, GA. Our client is looking for the ideal candidate that can build custom test automation framework in Java. This opportunity will focus more on testing back-end code and API centric. Requirements: Prefer 5-6+ years in Quality Assurance Testing with expertise building automation framework Must have the ability to develop and customize testing framework from scratch with Java cod
+Easy Apply
+SDET Engineer
+Allwyn Corporation  Remote
+Allwyn Corporation company logo
+ Contract, Third Party
+ Posted 60+ days ago - Updated 1 hour ago
+Position: SDETLocation: Washington, DCDuration: Long Term Job Description: Software Development Engineer in Test (SDET) is responsible for supporting the planning, design and execution of system testing on simple to complex implementations. The test engineer works collaboratively within the IT department and business units to execute and validate test cases based upon system requirements.Responsibilities include:Automation QA with hands-on experience in automation Selenium/Cucumber/TestNG/Appiu
+Easy Apply
+Direct client Position: Sr. SDET/Automation QA Engineer/ Developer || Plano ,TX / McLean ,VA ( Open for 100% Remote)_MS
+Pyramid Consulting, Inc.  Remote or McLean, VA, USA
+Pyramid Consulting, Inc. company logo
+ Contract, Third Party
+ Posted 60+ days ago - Updated 1 hour ago
+Immediate need for a talented Sr. SDET/Automation QA Engineer/ Developer with experience of Selenium, Automation , Java, Cypress , AWS and CI/CD This is a 12+ Months contract opportunity with long-term potential and Location is Plano ,TX / McLean ,VA( 100% Remote also fine) Please review the job description below. Job ID: 22-00110 Key Requirements and Technology Experience: Solid Testing/QA/SDET: Solid testing backgroundSeleniumJava/node.jsCypress (highly pref.)CI/CD- JenkinsAWSOur client is
+Easy Apply
+Software Development In Test SDET - SDET, Python Developer
+SESC  Remote or McLean, VA, USA
+SESC company logo
+ Full-time
+ Posted 1 hour ago
+SESC is adding to our team! We are seeking a Software Developer In Test who also has Python Development experience Title: SDET with Python Development experience Type: W2 With Benefits or W2 hourly - No C2C Location: McLean, VA (remote until further notice) Job Description Sr SDET - Python Developer to test complex analytics software. Model, implement and test business rules in complex analytics software involving machine learning and data analysis algorithms. Use standard methodologies in softw
+Easy Apply
+SDET C# .NET Engineer
+AlphaPoint  Remote
+AlphaPoint company logo
+ Full-time
+ Posted 34 days ago - Updated 27 days ago
+AlphaPoint is seeking a talented Software Development Engineer in Test who will continue to build out our set of automated integration and acceptance tests. This role plays a vital part in efficiently delivering high quality and highly efficient software applications to customers and users. It is imperative that this person be a detail oriented critical thinker and problem solver. Responsibilities: Writing automated integration and user acceptance tests.Create and/or use existing load testing to
+Software Engineer in Test/ SDET Engineer
+CyberSN  Remote
+CyberSN company logo
+ Full-time
+ Posted 49 days ago - Updated 14 days ago
+Title: SDET Engineer Location: Remote (Pittsburgh, PA or East Coast preferred) Employment: Full-time Degree required: Yes About the role: CyberSN is the leader in talent solutions for cybersecurity talent needs. Our talent matching platform is revolutionizing how we identify and match professionals to cybersecurity jobs. We are seeking a Software Development/Design Engineer in Test to join our development team and contribute to the evolution of this platform. You will be joining a team of so
+Easy Apply
+Software Development Engineer in Test - SDET
+Inspire Recruitment Inc.  Remote
+Inspire Recruitment Inc. company logo
+ Full-time
+ Posted 57 days ago - Updated 1 day ago
+This is a 100% Remote Position. Our client, a rapidly growing fintech company is looking for a Software Development Engineer in Test (SDET) to join their expanding engineering team. Though headquartered in Austin, TX you will be joining a distributed team of 250+. As an SDET on a pragmatic and agile team, you will build upon our growing line of products, broaden the functionality of our core product and expand into new products as well. The overall impact of this role will be to evolve the way t
+SDET Tester / SDET Engineer
+TechHuman  Remote
+TechHuman company logo
+ Contract
+ Posted 35 days ago - Updated 1 day ago
+SDET Tester / SDET Engineer Location: 100% Remote (Dallas, TX preferred) Duration: 6+ month contract to hire Pay Rate Range: $50-85/hr (conversion salary range: 120-145k) The SDET Tester will require strong knowledge/experience with hands on coding (50% of the role will be coding). The ideal incumbent will provide technical leadership and direction of automated testing (testing the functional framework, api interfaces, ux, performance testing, load testing, etc.). Requirements: 2+ years of e
+Easy Apply
+React/Redux/Javascript Automation Engineer/SDET
+Xoriant Corporation  Remote
+Xoriant Corporation company logo
+ Contract
+ Posted 60+ days ago - Updated 7 hours ago
+React/Redux/Javascript Automation Engineer/SDET Qualifications: Bachelor’s degree in Computer Science or related field or equivalent combination of industry-related professional experience and education Jest, Enzyme, Mocha, and Puppeteer Jenkins, Docker, and AWS exposure 5+ years of working experience Working knowledge of Selenium WDIO, Selenium GridHub, ES6, React/Redux/Redux-Saga, Babel, Yarn, NPM, and WebPack Working experience in software development and/or testing Working experience in
+Easy Apply
+SDET on W2 or 1099
+Yes We Group LLC  Remote
+Yes We Group LLC company logo
+ Contract
+ Posted 60+ days ago - Updated 1 day ago
+SDET Location : Dallas, TX ( Remote until covid eases out completely) Duration 12+ Months Require a candidate on W2 or 1099 Mandatory Skills SDET Strong on Selenium Strong on Java Rest Soap UI Extensive QA automation experience with a mindset of shift left. Must has good experience working in Selenium, Rest Assured Must has experience working on Automation framework development specially POM from scratch using open-source automation tools like Selenium Must has very good knowledge in auto
+Easy Apply
+Senior SDET - Lead
+Tan Check Consolidated Inc.  Remote
+Tan Check Consolidated Inc. company logo
+ Contract, Third Party
+ Posted 1 hour ago - Updated 1 hour ago
+Senior SDET - Lead Type: Contract. W2 or C2C Length: 10+ months Location: Remote (USA) Experience: Minimum 8+ years of software test automation with a focus on building and maintaining test automation frameworks. The Senior Software Development Engineer in Test provides:Testing services that mitigate the risk of software defects and increase the quality, effectiveness, and efficiency of Clients’ software solutions. Leads the end-to-end quality of projects within the Company’s Application and
+Easy Apply
+Sr. SDET / Software Development Engineer in Test ---- 100 % REMOTE role
+Zillion Technologies  Remote
+Zillion Technologies company logo
+ Contract, Third Party
+ Posted 1 day ago - Updated moments ago
+THIS IS A DIRECT CLIENT REQUIREMENT ! Those authorized to work without sponsorship are encouraged to apply please. Reach Shaily Sharma - 9084874334 Email: shaily(at)zilliontechnologies(dot)com // 9084874334 Sr. Software Development Engineer in Test (SDET) Location : REMOTE role Duration : 12 months plus extensions longterm Direct Banking Client In Digital Labs, Digital Delivery team develops innovative member and team member experiences that leverage the latest technologies in open source and t
+Easy Apply
+SDET (Must do Ruby Coding)
+Infinics, Inc  Remote
+Infinics, Inc company logo
+ Third Party
+ Posted 17 hours ago
+Job Title: SDET EngineerLocation: RemoteDuration: Long term Experience with Ruby.Design, build and execute automated tests by creating scripts that run testing functions automaticallyDesign, implement and maintain automated test suites and test environmentAnalyze product, system, and feature designs for flaws and improvementsIncrease our automated test coverage and improve our release quality and velocityWrite and maintain documentation for automated processes including test plans, test procedur
+Easy Apply
+Urgent Req- Open for C2C- Long Term Remote- Sr. SDET with Python/Behave Framework Exp
+Software Technology Inc  Remote
+Software Technology Inc company logo
+ Full-time, Third Party, Contract
+ Posted 2 days ago - Updated moments ago
+Hi All, My name is Poornachandra Rao and I am a Technical Recruiter at STI Org. I am reaching out to you on an exciting job opportunity with one of our clients Remote Position Job Title : Sr. SDET with Python/Behave Framework Exp Duration : Long term Please see below for the main skills we are looking for here: Python Behave framework ETL/ELT Strong knowledge of DB's is key relationships etc Oracle/DB2/Postgres/Dynamo SQL Snowflake exposure welcomed/preferred Thanks and Regards Poornachand
+Easy Apply
+Sr. Software Development Engineer in Test (SDET)
+BayOne Solutions  Remote
+BayOne Solutions company logo
+ Full-time
+ Posted 4 days ago
+Title: Sr. Software Development Engineer in Test (SDET) Location: Dallas, TX (REMOTE ) Duration: Full time Role Overview: We are looking for a team member who is passionate about Product Testing/Automation, has a strong interest in cyber security and data protection, and wants to join our collaborative team as a SDET to help drive the high quality of our consumer product family. About the Role: You will work closely with the development teams to create manual and automated test strategies.
+Easy Apply
+Software Development Engineer in Test (SDET) (Remote)
+Sparksoft  Remote
+Sparksoft company logo
+ Full-time
+ Posted 1 day ago - Updated 11 hours ago
+Job Title: Software Development Engineer in Test (SDET) Remote Job Type: Full-time with Sparksoft Responsibilities: Participate in requirements / design walkthroughs, collaborative internal and external test planning sessions Analyze business requirements, user stories, and technical specification documentsDesign and develop automation code, scripts, utilities, data generators, API testing solutions, and other programmatic test tools as required to execute tests.Investigate and debug test fail
+Associate Software Engineer - SDET
+Oscar Technology  Remote
+Oscar Technology company logo
+ Contract
+ Posted 8 days ago - Updated moments ago
+Associate Software Engineer - SDET - C#, SQL, web based development, automation testing - 100% remote - up to $50/hr W2 C2H The Role Looking for recent grads, within past four years, with around 2 years or web based development experience and some automation testing experience. You will be part of the Test Automation Team and responsible for designing, implementing and executing automated test scripts with high quality and in a timely manner. The Skills and qualities 2yrs web based development
+Easy Apply
+SQA Analyst - Azure Databricks and Oracle - SDET
+ICST, LLC  Remote
+ICST, LLC company logo
+ Third Party
+ Posted moments ago
+Skills Required: Must have 5+ years of experience in software testing and quality assurance Minimum 3 years of experience in the SQA Test Analyst position, preferred Minimum 3 years of experience with enterprise database management system (e.g., Oracle, SQL Server), preferred Minimum 1 year of experience with Azure Databricks and Azure Dev Ops, preferred Minimum 1 year of experience testing Cloud (e.g., Azure, AWS) based technologies, preferred Experience executing all quality assurance (QA) and
+Easy Apply
+Software Developer Engineer Test (SDET) - 100% Remote(Chicago, IL)
+SPECTRAFORCE TECHNOLOGIES Inc.  Remote
+SPECTRAFORCE TECHNOLOGIES Inc. company logo
+ Contract, Third Party
+ Posted 8 days ago
+Hello, Hope all is well! I am a recruiter for Spectraforce Technologies, a leading global staffing firm with a broad range of clients and industries. I have recently come across to your information and wanted to touch base with you regarding Software Developer Engineer Test (SDET) have available for one of my clients. The position is located a 100% Remote(Chicago, IL) sounds like an opportunity you may be interested in, I would love to connect with you over a call to further discuss the role and
+Easy Apply
+SDET in ETL
+O2 Technologies  Remote
+O2 Technologies company logo
+ Contract
+ Posted 22 hours ago
+Job Description: 7 plus years in QA5 plus years working ETLServed as a lead on large programsProactive mindset and self-drivenInsurance or financial domain experience.Needs ETL and automation experienceDesign Test Strategy, Test Plans and Automation for QA of ETL functionalities implemented across variety of custom scripts, jobs, and packaged solutionsPerform partial E2E validations of the ETL scenarios with multiple test scenarios and test dataReplicate production ETL failure scenarios & triage
+Easy Apply
+SDET/ QA Automation Tester
+SmartIT Frame  Remote
+SmartIT Frame company logo
+ Full-time
+ Posted 9 days ago - Updated moments ago
+Job Title: SDET/ QA Automation Tester 100% Remote Full Time Permanent JD: Strong Automation skills on windows, API, Web and Backend automation. Expertise in Java, Selenium Experience in different Automation Framework Expertise in SQL's oracle preferable Good in communication. About Smart IT Frame: Smart IT Frame Consulting handles the staffing and management of part or all of the recruitment process for our customers wishing to outsource their staffing requirements. From job profiling, provi
+Easy Apply
+SDET-Azure DevOps
+C2S Technologies Inc  Remote
+C2S Technologies Inc company logo
+ Contract, Third Party
+ Posted 7 days ago
+Job Title: SDET Job Location: Olympia, WA Duration: 18 months NOTE: Must 10+ Years of experience Advanced applications testing, develop and maintain automated tests to include integration, performance, security, functional, user interface and unit test. Centralize and standardize code for reuse. Maintain test applications and tools.Identify, file and report application defects, system issues, functions, objects, attributes, and components within the scope of work activities using Azure Dev O
+Easy Apply
+Android SDET
+Marlabs, Inc  Remote or New York, NY, USA
+Marlabs, Inc company logo
+ Contract, Third Party
+ Posted 1 day ago - Updated 1 hour ago
+please send resumes to latha.menon(AT)marlabs.com BS in Computer Science or equivalent experienceQuality Experience - 6+ years of professional software QA/QE experience (with 4+ of those involving automation work)Experience with Mobile ecosystem including Eclipse and Espresso test framework2-3 years of Java programming3-5 years of Object Oriented Programming conceptsTooling - Thorough understanding of tooling (GIT, branching/merging, build systems, CI technologies like Jenkins)Mobile App Test A
+Easy Apply
+Software Develpment and QA -SDET ( Remote - SQL, Java or Python scripting etc)
+Stellar Consulting Group LLC  Remote
+Stellar Consulting Group LLC company logo
+ Contract, Third Party
+ Posted 4 days ago - Updated 1 hour ago
+Description: Location: Remote Type: Temp to Perm Equipment: Maximus to provide Background: Can start as soon as MedScan clears Interview Process: Video conferencing at all levels Required Skills - Candidates must have skills below or the candidate will be rejected • 8+ years’ experience in automation of functional test case, with a minimum of 3 yrs experience in mid-large sized complex project with minimal supervision. • Plan, estimate, design and develop automation test scripts based on existi
+Easy Apply
+REMOTE - SDET/ Web or Mobile Applications Development Experience
+Qcentum Technologies  Remote or Alameda, CA, USA
+Qcentum Technologies company logo
+ Contract
+ Posted 5 days ago - Updated 2 days ago
+This is a REMOTE opportunity with travel once in a while to client location. Client Location - Alameda, CA Remote work - Looking for candidates in the PST time Zone We have a requirement with our client . The JD is mentioned below. Request you to kindly confirm your interest based on which we can further proceed . Your immediate response would be highly appreciated. This requirement is on W2 or C2C (if you have incorporation and insurance) Responsibilities: Must have a background in white and
+Easy Apply
+SDET (Strong Java programming)
+Fervorly  Remote
+F
+ Contract, Third Party
+ Posted 5 days ago - Updated 1 hour ago
+Strong coding experience in Java programming languageExperience testing Web Services to cover functional status responses and business logicExperience writing test automation for UI through standard tools, Selenium, Cucumber, ProtractorExperience developing automated tests within a java test automation frameworkStrong test case development, test planning and execution experienceFamiliar working in a mature CI/CD environment with a test early pattern.Hands-on experience working in agile software
+Easy Apply
+JAVA/JAVASCRIPT SDET
+Sripen  Remote
+Sripen company logo
+ Contract
+ Posted 14 days ago
+Project Description: Creates and maintains automated test cases, executes test suites, reviews and diagnoses reported bugs, and ensures overall system quality prior to a customer release.Designs, develops, maintains, and troubleshoots automated suites of tests through continuous integration for value added feedback.Works with the engineering teams to derive testing requirements throughout the development cycle.Reproduces, debugs, and isolates problems and verify fixes.Works closely with software
+Easy Apply
+Data Validation Tester (SDET)
+The Oakleaf Group, LLC  Remote
+The Oakleaf Group, LLC company logo
+ Contract
+ Posted 14 days ago - Updated 5 days ago
+The Oakleaf Group is a premier advisory/consulting firm with expertise in risk management and financial modeling for the mortgage and banking industries. We serve publicly traded and privately held banks and non-bank mortgage firms, government agencies, law firms, insurance companies, institutional asset managers, and hedge funds. We differentiate ourselves through our approach to client relationships. We begin with the belief that each client relationship will be permanent and ongoing, spanning
+Easy Apply
+SDET- Backend
+Harmer Consultants, Inc.  Remote
+Harmer Consultants, Inc. company logo
+ Contract, Third Party
+ Posted 11 days ago
+About Harmer Consultants, Inc: Harmer Consultants is a Chicago-based provider of diversified professional information technology (IT) recruiting services. Backed by devoted, experienced Partners and an exceptional reputation, Harmer prides itself on connecting people who are empowered by growing meaningful professional relationships for contract, contract-to-hire, and project-based assignments. Our highly skilled, professional recruiters have developed extensive networks within the business comm
+Easy Apply
+Sr. SDET Engineer - Denver, CO Quincy, MA Raleigh, NC Reston, VA Atlanta, GA Chicago, IL Purchase, NY, CO, United States
+Intelliswift Software Inc  Remote
+Intelliswift Software Inc company logo
+ Full-time
+ Posted 18 days ago - Updated 18 days ago
+Job Title: SDET Location: Denver, CO / Quincy, MA / Raleigh, NC / Reston, VA / Atlanta, GA / Chicago, IL / Purchase, NY (Onsite 2 Days a Week) Duration: Fulltime / Direct Hire Must Have: Must Have Python programming, Java background (Rest Assured, Selenium, Behave) but more developing frameworkWill write lower-level test layer and will be able to test (like Unit test, but upstream) Required Skills: 5-7 years’ experience as a QA Automation Engineer.Write code to test code mindset with automat
+Easy Apply
+SDET (.Net/C#)
+SPECTRAFORCE TECHNOLOGIES Inc.  Remote
+SPECTRAFORCE TECHNOLOGIES Inc. company logo
+ Contract
+ Posted 20 days ago - Updated 8 days ago
+Job Title: SDET (.Net/C#) Duration: 12 Months Location: Westlake TX, Candidates in DFW preferred, but could be opened to remote The SDET role will be responsible to test Web API calls and services developed by Estates Processing System team.This role requires solid C#, .Net, Nunit, Selenium and testing tools experience along with thorough understanding of QA automation and performance test frameworks.The candidate must have good QA process knowledge, Jira, Confluence and Spec Flow experience is
+Easy Apply
+Software Developer in Test - SDET (hybrid in Lansing, MI)
+FlexIT Global  Remote
+FlexIT Global company logo
+ Contract
+ Posted 19 days ago - Updated 1 day ago
+Software Developer in Test - SDET 100% remote or hybrid - Lansing, MI W2 or C2C $55-$65 In this role, you will provide technical expertise for UI and web service functional and automation testing. You will be working with cross-functional teams to create world-class technical solutions, infusing quality through testing within the software development process to benefit the organization. You will be interacting closely with Developers, Technical Leads, PMOs, and QA Leadership. Java conceptsRest S
+Easy Apply
+Sr. Software Developer in Test (SDET)
+Starz Entertainment  Remote
+Starz Entertainment company logo
+ Full-time
+ Posted 18 days ago
+Summary of PositionThe Senior Software Developer in Test works as a project team member to jointly deliver high quality applications on time and budget.This role is responsible for writing and executing both manual and automated tests.This individual will work with customers to comprehend functionality and subsequently generate re-usable functional and regression test suites within the web, service, and API spaces.This individual will perform tasks that will include test planning, manual testing
+Senior SDET
+Spyglass Partners LLC  Remote
+Spyglass Partners LLC company logo
+ Contract
+ Posted 18 days ago
+Responsibilities of the role: Create, maintain, and execute test plan, test cases to ensure the quality of new featuresDevelop and implement standard methodologies for in-house automation, automated testing, multi-functional end-to-end testing, including device testing, and performance testing.Author Python/Pytest automation in support of regression validation of the Dragos platformExecute test cases and validate the solution end-to-end and document the test results, performance, and convergence
+Easy Apply
+QA SDET
+Imreliant, LLC  Remote
+I
+ Contract, Third Party
+ Posted 19 days ago
+QA Database tester /Health first /100% Remote Long term role Must have hands-on knowledge or experience with databasetesting/automation which is a much-needed skill for this role. Below is the JD, we have slightly modified it, please look for the blue ones as they are key expectations for the role. Experience/exposure on working on large volume data environment with hands on exposure to data testing through automationExperience with test automation for data testing, API testing, batch process t
+Easy Apply
+SDET/Test Automation Engineer
+Estrobees Technology Inc  Remote or Dallas, TX, USA
+Estrobees Technology Inc company logo
+ Contract
+ Posted 22 days ago - Updated moments ago
+Estrobees is a technical staffing company in the US aiming to place the right candidates to meet clients business objectives promising growth for candidates and companies. Estrobees' employees can spend their entire career at Estrobees doing challenging, rewarding work and reach their desired level of achievement and responsibility. We offer the opportunity to move up, without the obligation to move out of a position where one excels. We are committed to our employee's success; however, they def
+Easy Apply
+Sr. Automation Engineer with SDET - 100% Remote - Contract 2 Hire
+ITBMS Inc.  Remote
+ITBMS Inc. company logo
+ Contract
+ Posted 32 days ago - Updated 4 days ago
+Sr. Automation Engineer with SDET 100% Remote Contract to Hire (C2H) Job Description Implementing automated testing solutions and frameworks that increase testing efficiencies and reduce cycle times. They are also responsible for developing and maintaining test automation frameworks, standards and coding guidelines based on industry best practices. Primary Duties and Responsibilities: Standardize test automation processes across multiple IT teamsBuild a robust and scalable automation framework
+Easy Apply
+SDET / QE
+UST  Remote
+UST company logo
+ Full-time
+ Posted 28 days ago
+Responsibilities: Own the complete testing framework and work with lead engineers closely to add any testsRun Benchmark / Load tests for servicesSuggest the team for better testing coverage, tools , frameworkShould be part of Agile process of Sprint Planning and DemoShould be able to work with cross platform teamsMust Have: 3-5 years of experience in Node.jsExperience in configuring testing framework for Acceptance Test, Component Test, Unit Test etc. for backend development.Experience and knowl
+Easy Apply
+Software Development Engineer in Test (SDET)
+Zycron, Inc.  Remote
+Zycron, Inc. company logo
+ Contract
+ Posted 39 days ago - Updated 21 days ago
+Currently, BGSF Inc. d/b/a Zycron is seeking a Software Development Engineer in Test (SDET) to join our team and work directly on client projects. This is contract to hire position that may be worked remotely. The SDET oversees all aspects of the application testing activities for a given effort. Testing will be conducted using automation first approach. May assist project team with high-level design and/or integration considerations. General Responsibilities: Build new automation test scrip
+Easy Apply
+[REMOTE in FL] Senior Software Developer in Test (SDET) - Java, Test Automation
+Technology Navigators  Remote
+Technology Navigators company logo
+ Full-time
+ Posted 40 days ago - Updated 22 hours ago
+No sponsorship available. No third-party candidates. This is a 100% REMOTE opportunity, however, applicants must reside within Texas, Colorado, or Florida or be willing to relocate to one of the aforementioned states. Created by long-time pioneers in the FinTech industry, this high-performance start-up company is stirring up some big buzz around its innovative financial technology platform. Our client’s proprietary solutions remove legacy roadblocks and enable companies of all sizes to benefit
+Easy Apply
+[REMOTE in TX] Senior Software Developer in Test (SDET) - Java, Test Automation
+Technology Navigators  Remote
+Technology Navigators company logo
+ Full-time
+ Posted 40 days ago - Updated 22 hours ago
+No sponsorship available. No third-party candidates. This is a 100% REMOTE opportunity, however, applicants must reside within Texas, Colorado, or Florida or be willing to relocate to one of the aforementioned states. Created by long-time pioneers in the FinTech industry, this high-performance start-up company is stirring up some big buzz around its innovative financial technology platform. Our client’s proprietary solutions remove legacy roadblocks and enable companies of all sizes to benefit
+Easy Apply
+SDET Case program
+Quantum Vision LLC  Remote or Rockville, MD, USA
+Quantum Vision LLC company logo
+ Third Party, Contract
+ Posted 42 days ago - Updated 1 day ago
+SDET opening for CASE program Actually pasting here: Please note - Computer Science related Degree - Must. At a high level: 1.Java is main language of preference . 2.UI automation(protractor/cypress/playwright) and API automation experience is a must 3.JS/TS experience is preferred 4.Experience with writing sql queries 5.Also having performance testing experience is a plus 6.Five years of experience or more with software development/testing is preferred Interview Format: 45 mins of codi
+Easy Apply
+Senior SDET
+Silver Xis, Inc.  Remote
+Silver Xis, Inc. company logo
+ Full-time
+ Posted 49 days ago - Updated 23 hours ago
+Senior or Mid-level SDET (Software Development Engineer in Test)/ Web Applications Alameda, CA. Local to Bay Area preferred will consider remote support Long term Contract or C2H(6 months) Responsibilities: Must have a background in white and black-box testing, and test automation of web-basedapplications.Run tests of applications implemented on web platforms/ browsers.Identify, record, document thoroughly and track defects. During testing, analyze defects inorder to assure quality and improv
+Easy Apply
+Sr. SDET (Big Data/Algorithms)
+Hiyamee  Remote or Millersville, MD, USA
+H
+ Contract
+ Posted 49 days ago - Updated 4 days ago
+Looking for experience with very large data environments as mentioned in the description. Rate is wide open as this team looks for the experience first and foremost. Any visa works for this role. Sr. SDET (Big Data/Algorithms) 100% REMOTE (Client is in MD) 1 8 + months Rate: DOE Start Dtae: 3/28/22 Requirements Heavy Algorithm work 200 Billion + events per day very large environement Batch Processes Strong Java development background Proven data testing around Big Data , Spark, Scala, Python St
+Easy Apply
+QA Automation Engineer SDET
+Empower Professionals  Remote
+Empower Professionals company logo
+ Contract, Third Party
+ Posted 60+ days ago - Updated moments ago
+Role: Quality Engineer / QA Automation/ SDET Location: Remote Duration: 12+ Months Top skills: Java cucumber API testing Requirements: Strong experience in Selenium framework to automation testing, Experience in using the following aspects of:Java programming experience with OOPs conceptExperience with CICD using tools like Jenkins, Maven and GithubExperience building and using REST APIs, testing API, PostmanAPI testing tool, Karate framework, REST assure java library
+Easy Apply
+Software Developer in Test - SDET (Remote)
+accesso  Remote
+accesso company logo
+ Full-time
+ Posted 60+ days ago - Updated 2 hours ago
+Position Overview: We are seeking an experienced Software Developer in Test (SDET) to join our Quality Engineering team. As an SDET, you will use your skills to enable our customer to drive personalization, recommendations and commerce for the physical world, in real-time. You will be responsible for owning our test suites, improving our tools and processes, and empowering development teams to move faster, with higher confidence. Responsibilities: Improve the coverage and reliability of our aut
+Software Developer in Test - SDET (UI - Remote)
+accesso  Remote
+accesso company logo
+ Full-time
+ Posted 60+ days ago - Updated 2 hours ago
+Position Overview: We are seeking an experienced Software Developer in Test (SDET) to join our Quality Engineering team. As an SDET, you will use your skills to enable our customer to drive personalization, recommendations and commerce for the physical world, in real-time. You will be responsible for owning our test suites, improving our tools and processes, and empowering development teams to move faster, with higher confidence. We are unable to partner on a Corp-to-Corp (C2C) basis for this ro
+SDET Engineer
+Photon Infotech  Remote
+Photon Infotech company logo
+ Contract, Third Party
+ Posted 60+ days ago - Updated 1 day ago
+Direct Client - Wells Fargo Note: Need candidate with strong Appium and Mobile testing experience Role: SDET Engineer Location: NY/NJ/ NC/MN/AZ/CA Job Description: 8+ years’ experienceManual and Automation QA Experience in BDD, Cucumber, Java & AppiumFin Tech / Banking experience nice to have but not mandatedCandidate should be able to demonstrate example of QA for Apps in AppStore
+Easy Apply
+SDET/QA
+Amazech Solutions  Remote
+Amazech Solutions company logo
+ Contract
+ Posted 60+ days ago - Updated 8 days ago
+We are looking for SDET to work out of Remote. Basic Qualifications Computer Science fundamentals in object-oriented design5+ years of Software QA experience with strong knowledge of QA methodology and tools.Build scripts to automate critical tests - at least one Programming or scripting language: C++, .Net etc.Experience with Selenium or other automation frameworkHave experience in defining test strategy spanning across multiple systems, writing test plans, test automationHave experience owni
+Easy Apply
+Android Automation Developer
+Marlabs, Inc  Remote or Dallas, TX, USA
+Marlabs, Inc company logo
+ Contract, Third Party
+ Posted 2 days ago - Updated moments ago
+Android Automation Developer Location – DFW, Atlanta, DC, NY, or NY Duration: 18 Months Client Note - Basically a junior Android Developer that is comfortable with SDET-type work on the Automation side, or an Automation Developer with 4-5+ years of Android-specific Automation work. BS in Computer Science or equivalent experience Quality Experience – 6+ years of professional software QA/QE experience (with 4+ of those involving automation work)Experience with Mobile ecosystem including Ecli
+Easy Apply
+Software Development Engineer in Test (SDET)
+Micro Focus  Remote
+Micro Focus company logo
+ Full-time
+ Posted 60+ days ago - Updated 2 hours ago
+Software Development Engineer in Test (SDET) Job Description: This is a home office based position (remote) anywhere in the U.S. or Canada. We are seeking a Software Development Engineer in Test (SDET) on the Cloud Security Transformation hub (TH) engineering team for ArcSight (SIEM). This role will be working in a part of the team developing new features delivering the power of the TH end-point protection platform for Docker and other container implementations in popular container environmen
+Test Automation Developer (SDET)
+Systems Technology Group Inc. (STG)  Remote or Dearborn, MI, USA
+Systems Technology Group Inc. (STG) company logo
+ Full-time
+ Posted 60+ days ago - Updated 4 days ago
+Title: Test Automation Developer (SDET) Description: STG is a fast growing $160m Digital Transformation services company providing Fortune 500 companies with Digital Transformation, Mobility, Analytics and Cloud Integration services in both information technology and engineering product lines. STG has a 98% repeat business rate from existing clients and have achieved industry awards and recognition for our services. Crain’s Detroit Business named STG to Michigan’s Fastest Growing Companies
+Easy Apply
+Software Development Engineer in Test
+SanMar  Remote
+SanMar company logo
+ Full-time
+ Posted 21 hours ago
+Join Our Family, Build Your Career! ABOUT US: SanMar Corporation has been family-owned since 1971. Based in Issaquah, WA, we are an award-winning, national supplier of 21 retail, private label and mill brands. We supply apparel and accessories to screen printers, embroiderers, promotional products distributors, athletic dealers, industrial launderers and more -- whether they are outfitting a Fortune 500 corporation or the local bowling team. SanMar's success and growth can be attributed to one t
+QA Manager - Presales
+Miracle Software Systems, Inc.  Remote or Atlanta, GA, USA
+Miracle Software Systems, Inc. company logo
+ Full-time
+ Posted 8 days ago
+Miracle Software Systems, Inc. is looking for a "QA Manager - Presales" to work for Fulltime with Miracle Software Systems, Below is the detailed job description: Position Tittle: QA Technical Manager Duration: Full time with Miracle Software Location: Novi, MI (or) Atlanta, GA Skill required: Program and Delivery Management, Agile Transformation, Enterprise Strategies and Roadmap Implementation, QA and QE, ALM, HP QTP/UFT, Load Runner, SDET, TDD, BDD, ATDD, Selenium, JIRA, Performance Testing a
+Easy Apply
+Javascript SDET / UI Automation Engineer
+Xoriant Corporation  Remote
+Xoriant Corporation company logo
+ Contract, Third Party
+ Posted 60+ days ago - Updated 1 day ago
+Position Title: Javascript SDET / UI Automation Engineer Location: 100% REMOTE Duration: 12 Months Contract with possibility of extension. Note from Manager: Need strong Javascript/Typescript SDETs.Preferably experience in React.JS for Front End Dev, and NodeJS for Backend.(but dont let that limit the pool)As usual looking for primarily AWS, but all clouds are acceptable.Experience with Serverless frameworks in cloud a plus. Job Description: JavaScript, with strong unit testing experience.Pro
+Easy Apply
+SDET / Software TEST Engineer( Java + REST / automation )
+Xoriant Corporation  Remote or New Hyde Park, NY, USA
+Xoriant Corporation company logo
+ Contract, Third Party
+ Posted 60+ days ago - Updated moments ago
+Desired Skills & Experience Qualifications: 4+ years of experience delivering highly engaging user experiences, or combined combination of education and experienceSignificant experience (3+ years) with Java Experience with test automation including unit testing and UI testing as well as incorporation of test automation into the build pipelineBA/BS degree in Computer Science or related software engineering field, or equivalent practical experienceAutomation testing experience against Java code,
+Easy Apply
+Senior Software Engineer in Automation
+Will-N-Able  Remote
+Will-N-Able company logo
+ Contract
+ Posted 22 days ago - Updated 1 day ago
+Our client is seeking a Senior Software Engineer in Automation Work will be 100% remote. Client would like to hire the consultant as a full time employee after 3 months on contract. Client is unable to sponsor H1-B at this time. Job Description Accountable ownership for delivery for a complex sub system and component or some modules of large or medium scale software product. Integrate software components across teams and systems into a fully functional software solution. Run integration tests
+Easy Apply
+QA Automation - Cypress
+DVG Tech Solutions LLC  Remote
+DVG Tech Solutions LLC company logo
+ Contract, Third Party
+ Posted 28 days ago
+Position: SDET Automation Engineer – Cypress Location: Dallas, TX Required Skills: Overall automation experience of 6 yearsStrong hands-on experience of designing and developing automation frameworks for UI and Services, leveraging Java, Typescript and open source technology stack.Strong understanding of software/testing methodologies such as TDD and BDD.Must be hands on technology and able to troubleshoot critical issues in design or codeHands on experience with Selenium, REST Assured, Cypre
+Easy Apply
+Remote Principal SDET - Automation
+Kforce Technology Staffing  Remote or San Diego, CA, USA
+Kforce Technology Staffing company logo
+ Full-time
+ Posted 60+ days ago - Updated 1 hour ago
+RESPONSIBILITIES: Kforce is seeking a remote Principal SDET - Software Engineer Automation for our client in San Diego, CA. The Principal SDET plays an active leadership role in the development, modification, and testing of software units per corporate software process documents, and independently identifies opportunities in software process, discusses with peers, and implements proposals to address gaps. The Principal SDET contributes and creates to software architecture, and creates, designs,
+Senior ETL (SDET) Tester
+Mindlance  Remote
+Mindlance company logo
+ Contract
+ Posted 60+ days ago - Updated 17 hours ago
+Qualifications: 3+ years of experience using modern ETL tools i.e. (SSRS, SSIS, Informatica, Data Stage etc.).3+ years of experience testing data services.5+ years of SQL experience (candidate should be able to write and decode complex sql statements, sql views and stored procedures).3+ years of experience debugging Stored Procedures/ Table Value Functions.Good working knowledge of DataWarehouse and ETL concepts is required.Attention to detail, time management and a keen eye for data quality is
+Easy Apply
+SDET (Software Development Engineer in Test)
+Digipulse Technologies, Inc  Remote or Smithfield, RI, USA
+Digipulse Technologies, Inc company logo
+ Contract
+ Posted 60+ days ago - Updated 20 hours ago
+DIRECT CLIENT REQUIREMENT Software Engineer in Test Remote / Smithfield, RI Must Have Skills 1.)Extensive Experience with Java/JEE and JavaScript. 2.)Experience with Selenium using Java or JavaScript, and Cucumber BDD framework. 3.)Service testing experience preferably with Karate and/or REST Assured frameworks Please send across your resume with expected rate/salary, current location, work authorization and availability to Poonam Singh at or call me at 609.489.5259
+Easy Apply
+.Net Developer with Automation Testing
+Intone Networks Inc.  Remote or West Lake Hills, TX, USA
+Intone Networks Inc. company logo
+ Full-time, Contract
+ Posted 49 days ago - Updated moments ago
+Position: .Net Developer with Automation Testing Location : Westlake, TX (Post Covid) Fulltime Technical Skills: Must have at least 5+ years of hands-on experience in developing API using; - C#, .NetCore, WebAPI, WebServices - Unit testing using Jasmine, Karma - Automation Testing experience and writing test cases. - JIRA, Bamboo, Bitbucket - Experience in Micro UI and Micro Services will be an advantage - Any experience in cloud computing like AWS, Azure, Pivotal will be an added advanta
+Easy Apply
+Hot C2C opening for Salesforce Tester - Remote role
+Piplnow  Remote
+Piplnow company logo
+ Third Party
+ Posted 6 days ago - Updated 6 days ago
+Hi, Hope you are doing well. I have an urgent C2C opening for Salesforce SDET (QA)- Remote Our client is looking to fill this role immediately. Do share your updated resume, filled consultant details, filled Skill matrix, visa and DL copy asap. Skills Years of experience Salesforce Quality Automation Mobile Testing API Testing SQL, data validation C# scripting (or) any other object-oriented programming language Microsoft Visual Studio or any other IDE TFS or any other source code repository Cons
+Easy Apply
+QA Engineer( Manual with some automation)
+Digipulse Technologies, Inc  Remote
+Digipulse Technologies, Inc company logo
+ Full-time
+ Posted 22 days ago - Updated 21 days ago
+HELLO EVERYONE, PLEASE FIND BELOW IMMEDIATE REQUIREMENT. Location: NH, NC, or TX (REMOTE TO START) Skills needed: - Functional UI(Selenium) & API Automation(RestAssured or Karate) - CI/CD - Web Services testing - ** Just to add we don’t need SDET profiles – manual testing engineers with automation experience should suffice. Interview: 1 round for 1 hour Regards, Pooja Kakarla IT Recruiter 811 Church Road, Suite # 169 Cherry Hill, New Jersey-08002 Ph: Fax: Email: pooja@digipulsetech.c
+Easy Apply
+Remote Lead SDET
+Kforce Technology Staffing  Remote or San Francisco, CA, USA
+Kforce Technology Staffing company logo
+ Full-time
+ Posted 60+ days ago - Updated 1 hour ago
+RESPONSIBILITIES: Kforce is seeking a Remote Lead SDET for a client in San Francisco, CA. Summary: The Lead Software Development Engineer in Test (SDET) will lead complex projects, propose novel ideas and perspectives, and who is always looking for a better way of doing things. The QA team at works on web UI, API, and load testing automation. Currently, it is leading an ambitious project to create a group of light weight and efficient libraries to be used in diverse projects, like automation fr
+SDET Engineer/ Software Development Engineer in Test
+Binding Minds, Inc.  Remote or San Jose, CA, USA
+Binding Minds, Inc. company logo
+ Third Party, Contract
+ Posted 60+ days ago - Updated 2 hours ago
+Job Title: Java QE/SDET Location: San Jose, CA (Remote) Job Type: Contract Duration: 15-18 Months Backend automation using Java on Breeze framework Front end automation using testing selenium and webdriver IO. Testing and certification of major features and releases in Buyer experience domain. Set up and maintenance of ECD pipelines and establishing code coverage Fixing automation failures and improving pass rate API testing (SOAP/RESTful & manual/automated) Java, Selenium and automation a
+Easy Apply
+QA Tester
+Matlen Silver  Remote or Newark, DE, USA
+Matlen Silver company logo
+ Contract
+ Posted 23 hours ago - Updated moments ago
+I have an immediate QA Tester opportunity for a large project for a major US bank. This QA Tester will perform SIT, End to end testing on applications and technologies. The work will be on the back end and they will need this person to be strong in Unix commands, MQ messaging validations, Putty, write sql scripts from scratch. Top Skills: SQL Unix UI Automation Middleware functionality Functional testing Job Description: Key individual contributor to Quality Assurance Project teams and/or
+Easy Apply
+Automation Test Developer
+SynergisticIT  Remote
+SynergisticIT company logo
+ Contract
+ Posted 54 days ago - Updated 28 days ago
+Our direct client, a Fortune 100 financial services company, is in need of a Test Automation Developer. The successful candidate will code/develop automated tests alongside front-end and back-end developers while they build out new features. Proven technical experience with Javascript, CodeceptJS and/or Codeception, is required. NOTE: You must be prepared to take a on-line Javascript test during the initial video interview with the client. Responsibilities Analyze new development and change r
+Easy Apply
+Senior Mobile Software Development Engineer in Test
+AREVO Group, Inc  Remote
+AREVO Group, Inc company logo
+ Full-time
+ Posted 15 days ago - Updated 13 days ago
+The Quality Engineering team thrives in an environment where collaboration and openness are valued. Our client's focus is being the voice of quality from the engagement of product owners, developers, and designers to build better software by improving speed, efficiency, and collaboration during the development lifecycle. As a Senior Software Development Engineer in Test (SDET) Native Apps, you'll be focused on creating automated tests for native products within their Product's Customer Experienc
+Easy Apply
+DevOps - SDET Tester (REMOTE)
+Elan Partners  Remote
+Elan Partners company logo
+ Contract
+ Posted 60+ days ago - Updated 4 days ago
+Title: DevOps – SDET Tester (REMOTE) We are looking for someone who has a strong technical capacity to architect a devops solution for automation repositories and framework solution with accelerators built in to develop selenium test scripts, establish and drive active peer-review program and enable team members to automate tests with the strategic vision needed to drive processes and advocate for automated testing. Contract to hire No sponsorship Required Skills: Apache POI API, Log4j and
+Easy Apply
+SrEngnr-SoftwareQA
+CompuGain LLC  Remote or Reston, VA, USA
+CompuGain LLC company logo
+ Contract
+ Posted 26 days ago - Updated moments ago
+CompuGain is an Information Technology and Business Consulting firm providing project-based solutions, software solutions, and professional staffing services. - "Those authorized to work in the United States are encouraged to apply. We are unable to sponsor at this time.Title: - Sr. QA Engineer (Python) Duration: Temp to Perm Preferred Location: 100% Remote Status: No Sponsorship is available for this position so the candidate should be able to convert (subject to performance) without any sponso
+Easy Apply
+AWS Architect/ Developer
+Agile Global Solutions, Inc  Remote
+Agile Global Solutions, Inc company logo
+ Contract
+ Posted 12 days ago
+(Remote right now during covid) – will also consider a traveler and can cover expenses Supports back office applications (hr, procurement, forecast/budget around corporate). Have reporting analytics run on aws. Last year or so. Company has new transformation program. GLT design. Asked to support them w/ integrations b/c moving to workday (need data from HR). setting up a squad to help w/ integrations. Goal: Squad to work on GLT program. He needs help on dev, using aws, custom solutions or work
+Easy Apply
+W2-Angular/Java Developer
+Matlen Silver  Remote or Charlotte, NC, USA
+Matlen Silver company logo
+ Contract
+ Posted 60+ days ago - Updated moments ago
+Job Title: Angular/Java Developer Location: Charlotte NC Interview: one and done WebEx Panel interview Must haves: Angular (2 through 10), Jasmine, Karma, NPM, Webpack. Nice to haves: spring (spring boot), common modules like core, JDBC, ORM. Responsibilities: Develops, enhances, debugs, supports, maintains and tests software for contact center business units. Participates in the design, development and implementation of complex application systems utilizing Agile methodology. Requirements: Typ
+Easy Apply
+SDET
+York Solutions, LLC  Remote
+York Solutions, LLC company logo
+ Contract
+ Posted 60+ days ago - Updated 1 hour ago
+York Solutions is hiring an SDET with a strong Selenium and Java background for one of our clients in the health and human services space! This position would be 100% remote and permanent. Overview The position will develop, maintain, and implement software Automation framework & develop automated test scripts. The incumbent will test REST/SOAP based WebServices, APIs & UIs/Web Applications. They should have a basic understanding of REST based testing tools like jMeter, SOAPUI, the ability to
+Easy Apply
+QA Automation Developer/SDET
+CDM Technology  Remote
+CDM Technology company logo
+ Full-time
+ Posted 60+ days ago - Updated 15 hours ago
+Hello- One of best Medical Device clients in the San Diego area has reached out to us to help recruit for a Sr. SDET/QA Automation resources. Please inquire ASAP to hear more about this great opportunity. Summary The QA Developer Engineer in Test (SDET) is a member of the Kanban and Agile teams responsible for requirements, design, construction, integration, and maintenance of their software products. This role requires a proactive approach toward team ownership or each user story commitme
+Easy Apply
+Gitlab Engineer/Architect - 100% Remote
+Empower Professionals  Remote
+Empower Professionals company logo
+ Third Party
+ Posted 41 days ago - Updated 17 hours ago
+Hi, We are hiring for .NET Architect/Developer. Role: .NET Architect/Developer Location: 100% Remote Experience/Skills Proficient in Microsoft Technologies, with experience in application creation, debugging, documentation, and implementation – C#, .NET (Framework 4.6+ and Core 2.1+), ASP.NET, and Entity Framework3+ years of professional experience with SQL in a relational database environmentKnowledge of SQL commands and proper query structureProficient in database design principles5+ years
+Easy Apply
+Software development Engineer In Test{SDET}-REMOTE-DIRECT CLIENT NEED
+DATAMAXIS, Inc  Remote
+DATAMAXIS, Inc company logo
+ Contract, Third Party
+ Posted 15 days ago - Updated 2 days ago
+One of our clients is looking to hire SDET resource Below are the skills focused SDET skills focus: Java Concepts (testing related)REST Services testingPostman/NewmanSQLBDD/Cucumber with JavaManual / Exploratory Testing - UI
+Easy Apply
+Software Development Engineer in TEST (C# - not Java)
+Avionte LLC  Remote
+A
+ Full-time
+ Posted moments ago
+We are currently seeking SDET with experience in all phases of the software development life cycle. This is a unique opportunity to contribute extensively to the success of a rapidly growing technology company. Avionte developers create web-based solutions within a complex integrated system seen by thousands of users. What You’ll Be Doing - the day to day As a Software Development Engineer in TEST (SDET), you can expect to work on developing automated tests coverage to meet the needs of the prod
+Easy Apply
+Mobile Automation
+Astir IT Solutions  Remote
+Astir IT Solutions company logo
+ Contract
+ Posted 13 days ago - Updated 1 day ago
+Minimum of 4 years of experience in SDET role in mobile test automation for iOS/Android 3+ years of experience in Selenium/Cucumber front end automation Proficient in mobile operating systems (such as Apple iOS, Android) and how to perform tests on them Has experience with any or all these testing frameworks - XCUITest, Appium Education: Bachelor's degree in Computer Science or other technical field or equivalent work Thank you Prasad # X 715
+Easy Apply
+Software Engineer in Test
+Vaco Technology  Remote
+V
+ Contract
+ Posted 8 days ago - Updated moments ago
+Principal Software Engineer in Test (Automation heavy, 5+ years of automation experience needed). Remote Contract - EST hours These are the new requirements for this position: Excellent communication - absolute must have 5+ years of experience as a SDET - absolute must have This needs to be 5+ years of actual automation experience on an Agile development team not manual QA transitioning into automation (this is not an entry level position). Java and Selenium Framework experience - absolute mu
+Easy Apply
+QA Engineer (Selenium, Java, Karate) - Remote - 9+ Yrs
+Primesoft, Inc  Remote
+Primesoft, Inc company logo
+ Contract, Third Party
+ Posted 1 day ago - Updated 2 hours ago
+Role: QA Engineer Exp: 9+ Yrs Location: Remote MOI: 2 Video Rounds Description: Strong Selenium experienceStrong Java experienceStrong scripting expertiseWell versed with QE Methodology and practices, with demonstrated experience in a SDE/SDET RoleExtensive experience in manual and automated testing of Mobile, Backend, Web based applications and API (Rest and Soap)Ability to Design & implement Automation Frameworks from scratch via Data Driven/Keyword/Hybrid modelsExperience in creating Automati
+Easy Apply
+QA Engineer (10+ Years)
+Primesoft, Inc  Remote
+Primesoft, Inc company logo
+ Contract, Third Party
+ Posted 1 day ago - Updated 1 hour ago
+Role : QA Engineer MOI : Phone + Skype Location :Remote Exp : 10+ Years Requirements: Strong Selenium experienceStrong Java experienceStrong scripting expertiseWell versed with QE Methodology and practices, with demonstrated experience in a SDE/SDET RoleExtensive experience in manual and automated testing of Mobile, Backend, Web based applications and API (Rest and Soap)Ability to Design & implement Automation Frameworks from scratch via Data Driven/Keyword/Hybrid modelsExperience in creating A
+Easy Apply
+Software Development Engineer in Test
+New York Technology Partners  Remote
+New York Technology Partners company logo
+ Contract, Third Party
+ Posted 4 days ago
+Role: SDET with Strong UI Development Location: Bentonville, AR Job description BS degree or Higher in Computer Science with at least 8+ years of hands-on experienceCore development experience as Software Engineer/SDETStrong understanding of computer science fundamentals and data structuresStrong analytical and problem solving skillsDemonstrable experience in writing clean code quickly in languages like Java, ReactJS, NextJS, NodeJS… etc.Understanding of QA methodologies, life cycle and processe
+Easy Apply
+Sr. Software Development Test Engineer (Remote)
+Kforce Technology Staffing  Remote or Jacksonville, FL, USA
+Kforce Technology Staffing company logo
+ Third Party, Contract
+ Posted 33 days ago - Updated 1 hour ago
+RESPONSIBILITIES: A Kforce client is seeking to hire a Senior Software Development Test Engineer to work remotely. Summary: As a Senior Software Development Test Engineer, you will be an integral member of the software development team and testing premier advancements to our products. This position is expected to analyze, requirements for the company's suite of products to design, develop automation scripts and to validate functionality. REQUIREMENTS: * 2+ years of experience as a SDET highly
+Lead DevOps Engineer
+IDR, Inc.  Remote
+IDR, Inc. company logo
+ Full-time
+ Posted 13 days ago
+IDR is seeking a DevOps Lead to join our fully remote SaaS client. These positions are open due to growth and will play a pivotal role in building out DevOps processes across the organization. These positions are more coding than infrastructure focused. If you are looking to make an impact in a fully remote organization, apply today! *No sponsorship or C2C offered at this time* Responsibilities of the Lead DevOps Engineer: Build and deploy CI/CD pipelines and infrastructure automation tools
+Easy Apply
+API Automation Developer only on W2
+Chelsoft Solutions Co.  Remote
+Chelsoft Solutions Co. company logo
+ Contract
+ Posted 5 days ago
+Job Description: Basic expectations: { this is an API automation test role, zero to little FE testing is needed, a candidate should be 100% comfortable testing and automating at an API level} Responsible for designing and developing automated API test scripts to support application testing. Building API tests in a tool similar to Parasoft – full knowledge and understanding of developing and designing API testsThe automation developer performs analysis of manual test cases and functional requir
+Easy Apply
+QA Engineer II
+Zentek global  Remote
+Zentek global company logo
+ Full-time
+ Posted 36 days ago - Updated 6 days ago
+Our Client is looking for a FullTime QA Engineer II who is responsible for the overall quality of the solutions that are developed and deployed. This role interacts with the technical and business teams. Flexibility and a positive attitude in an ever changing environment are important attributes for this position. only What you will do:Partners with Product Management and Software Engineering teams to develop and validate manual and automated test scriptsDrafts, maintains, and owns test strateg
+Easy Apply
+Sr. QA Automation
+Endure Technology Solutions, Inc.  Remote
+Endure Technology Solutions, Inc. company logo
+ Full-time
+ Posted 60+ days ago - Updated moments ago
+Sr. QA Automation Full Time Remote What You Will Do Be a senior QA engineer in terms of "hands on" contribution and a driving force in our US Trading platform for Client Delivery of high quality automation to prove the functional and non-functional requirements are met with the solution. Responsible for creating test approaches for the product development teams and collaborating with the team to ensure they are fulfilled. Ensure QA is fully part of the CI/CD pipeline and promote the benefits
+Easy Apply
+ETL Tester (Remote)
+Progressive Leasing  Remote
+Progressive Leasing company logo
+ Full-time
+ Posted 36 days ago - Updated 1 hour ago
+Progressive Leasing is hiring an ETL Tester (Remote) to join the Quality Engineering team. At Progressive Leasing we pride ourselves in providing a product that is transforming the way retailers do business, and we’re looking to add a ETL Tester (SDET/QE/SQA) to continue and strengthen that transformation. This role can be performed remotely anywhere in the US or from one of our office locations in Draper, UT or Glendale, AZ. THE DETAILS The Quality Engineering team is an advocate for softwar
+QA Engineer (Remote)
+accesso  Remote
+accesso company logo
+ Full-time
+ Posted 13 days ago - Updated 2 hours ago
+Position Overview: We are seeking an experienced QA Engineer to join our Quality Engineering team. Members of the team are expected to plan, design, and review test specifications and ensure proper coverage based on technical specifications. As part of our Agile development and release process we develop and maintain suites of smoke and regression automation tests. We are looking for passionate, driven problem-solvers; someone who can think on their feet and use their software testing experience
+Staff Software Development Engineer, Test - FTE (Remote)
+TRIAD Group  Remote
+TRIAD Group company logo
+ Full-time
+ Posted 60+ days ago - Updated 2 days ago
+Senior/Staff Software Engineer in Test (FTE or C2Hire) Seattle, WA (can be remote) Downtown Seattle client looking for a Staff Software Engineer, Test. This is a very essential role within QA organization. We are a small team creating some really cool next-gen products. We are looking for someone passionate about building end to end test automation, covering areas including web, native mobile, security testing, integration, load, API, etc. Some responsibilities include: • You will have an opport
+Easy Apply
+Remote Senior QA Analyst
+Kforce Technology Staffing  Remote or Scottsdale, AZ, USA
+Kforce Technology Staffing company logo
+ Full-time
+ Posted 60+ days ago - Updated 1 hour ago
+RESPONSIBILITIES: Kforce has a Scottsdale, AZ client is seeking a Remote Senior QA Analyst. This is a 100% remote position including after COVID. Summary: This position is responsible for owning the quality assurance of the IT organization and supporting other needs and requests from engineering. A commitment to collaborative problem solving, sophisticated design, and quality product is essential. Responsibilities of the Remote Senior QA Analyst: * Designing and developing test cases for large

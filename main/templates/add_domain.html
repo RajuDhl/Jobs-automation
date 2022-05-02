@@ -1,0 +1,14 @@
+{% block content %}
+    {% include 'nav.html' %}
+
+    <div class="container">
+        <div class="form-label">
+            <label for="csv-file">Account CSV File:</label>
+        </div>
+        <div class="form-input">
+            <input type="file" name="csv-file" id="csv-file" accept=".csv"/>
+        </div>
+    <button onclick="add_domain()">Submit</button>
+    </div>
+<script type="text/javascript" src="/static/JS/add_domain.js"></script>
+{% endblock %}

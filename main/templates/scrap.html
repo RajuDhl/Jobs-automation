@@ -1,0 +1,36 @@
+{% block content %}
+    {% include 'nav.html' %}
+    <div class="container">
+        <form>
+            <div class="row">
+                <div class="form-label">
+                    <label for="name">Job Name:</label>
+                </div>
+                <div class="form-input">
+                    <input type="text" id="name" name="name"><br>
+                </div>
+            </div>
+            <div class="row">
+                <div class="form-label">
+                    <label for="name">Job Location:</label>
+                </div>
+                <div class="form-input">
+                    <input type="text" id="location" name="location"><br>
+                </div>
+            </div>
+            <input type="checkbox" id='linkedin' name="linkedin" value="linkedin">
+            <label for="linkedin">Linkedin</label>
+            <input type="checkbox" id='dice' name="dice" value="linkedin">
+            <label for="dice">Dice</label>
+            <input type="checkbox" id='linkedin' name="linkedin" value="linkedin">
+            <label for="linkedin">Linkedin</label>
+
+            <div class="row" id='submit-scrap'>
+                <input type="submit" name="submit" value="submit" onclick="deleteMe()">
+            </div>
+        </form>
+    </div>
+
+    <script type="text/javascript" src="/static/JS/main.js"></script>
+
+{% endblock %}

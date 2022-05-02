@@ -1,0 +1,42 @@
+{% block content %}
+    {% include 'nav.html' %}
+    <div class="container">
+        <div class="form-label">
+            <label for="text-file">Text File:</label>
+        </div>
+        <div class="form-input">
+            <input type="file" name="text-file" id="text-file" accept=".txt"/>
+        </div>
+        <div>
+            <br>
+            <h5>.</h5>
+            <div>
+                <input type="radio" id="linkedin" name="source" value="linkedin" onchange="more_options('block')">
+                <label for="linkedin"> Linkedin</label>
+                <div id="linkedin-extra" style="display: none">
+
+                    <input type="radio" id="logged-on-true" name="logged-on" value="true" withlogin="true">
+                    <label for="true">With Login</label>
+
+                    <input type="radio" id="logged-on-false" name="logged-on" value="false" withlogin="false">
+                    <label for="false">Without Login</label>
+                </div>
+            </div>
+            <div>
+                <input type="radio" id="dice" name="source" value="dice" onchange="more_options('none')">
+                <label for="dice">Dice</label>
+            </div>
+            <div>
+                <input type="radio" id="indeed" name="source" value="indeed" onchange="more_options('none')">
+                <label for="indeed">Indeed</label>
+            </div>
+            <div>
+                <input type="radio" id="glassdoor" name="source" value="glassdoor" onchange="more_options('none')">
+                <label for="glassdoor">Glassdoor</label>
+            </div>
+        </div>
+        <button onclick="convert_text_to_csv()">Submit</button>
+    </div>
+    <script type="text/javascript" src="/static/JS/text-to-csv.js"></script>
+
+{% endblock %}

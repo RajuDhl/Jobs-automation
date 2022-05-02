@@ -1,0 +1,59 @@
+{% block content %}
+    {% include 'nav.html' %}
+
+    <div class="container">
+        <div>
+            <h5>** First search for single page to see how many personas are there in total.</br>
+                <c style="padding-left: 25px">You can see it in the log terminal in the format: #Pages #People</c>
+            </h5>
+        </div>
+        <div style="padding-top: 10px">
+            <div class="row">
+                <div class="form-label">
+                    <label for="companies">Companies:</label>
+                </div>
+                <div class="form-input">
+                    <input type="file" name="companies" id="companies" accept=".csv"/>
+                    <a rel="nofollow" href="download-sample/companies">
+                        <button type="button">Download Sample</button>
+                    </a>
+                </div>
+            </div>
+            <div class="row">
+                <div class="form-label">
+                    <label for="jobs">Jobs:</label>
+                </div>
+                <div class="form-input">
+                    <input type="file" name="jobs" id="jobs" accept=".csv"/>
+                    {#                        <button onclick="download_sample('jobs')">Download Sample</button>#}
+                    <a rel="nofollow" href="download-sample/jobs">
+                        <button type="button">Download Sample</button>
+                    </a>
+                </div>
+            </div>
+            <div class="row">
+                <div class="form-label">
+                    <label for="start">Start Page</label>
+                </div>
+                <div style="padding-top: 15px">
+                    <input id="start" type="number" name="start " value="1" placeholder="1" size="4">
+                </div>
+            </div>
+            <div class="row">
+                <div class="form-label">
+                    <label for="number">No. of Pages</label>
+                </div>
+                <div style="padding-top: 15px">
+                    <input id="number" type="number" name="number" value="1" placeholder="1" size="4">
+                </div>
+            </div>
+
+
+            <button onclick="submit_people_form()">Submit</button>
+        </div>
+    </div>
+
+
+
+
+{% endblock %}

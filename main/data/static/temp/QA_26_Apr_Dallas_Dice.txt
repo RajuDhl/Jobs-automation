@@ -1,0 +1,1748 @@
+
+Selenium Tester
+Wipro Ltd.  Westlake, TX, USA
+Wipro Ltd. company logo
+ Full-time
+ Posted 13 days ago
+About Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO) is a leading global information technology, consulting and business process services company. We harness the power of cognitive computing, hyper-automation, robotics, cloud, analytics and emerging technologies to help our clients adapt to the digital world and make them successful. A company recognized globally for its comprehensive portfolio of services, strong commitment to sustainability and good corporate citizenship, we have over 220
+Easy Apply
+QA Manager with Load Runner, Selenium exp
+Dew Software  Dallas, TX, USA
+Dew Software company logo
+ Contract
+ Posted 21 days ago - Updated 5 hours ago
+If interested, submit your updated resume in WORD(.doc) format with following details: Full Name: Current Location: Expected Hourly rate/Salary: Work Authorization: Roles and Responsibilites: Previous experience in managing projects spanning multiple teams and multiple technologies. 2. Manage end to end test planning and coordination in Agile environment for Salesforce application. 3. Should have hands on expertise in test automation with selenium and exposure to Talos and Loadrunner. 4. Hands o
+Easy Apply
+Get personalized job recommendations today!
+A Dice profile with customized IntelliSearch™ Alerts is the most effective way for you to discover the best tech jobs, tailored to your experience!
+C# Selenium Tester
+Cigniti Technologies Inc  Plano, TX, USA
+Cigniti Technologies Inc company logo
+ Contract, Third Party
+ Posted 46 days ago - Updated 22 hours ago
+Required Skills: Should have experience at least 7+ years in Software Testing. Need to have strong experience in Automation C# SeleniumMust have Onsite/ Offshore Model experienceNeed to interact with client on daily basis on relationship building, Technical support, Skill suggestions and help in building new requirements.Very good communication is a must
+Easy Apply
+Lead Software Quality Assurance Engineer - QA Automation, Selenium
+Technology Navigators  Houston, TX, USA
+Technology Navigators company logo
+ Full-time
+ Posted 45 days ago - Updated 3 days ago
+No sponsorship available. No third-party candidates. Our powerhouse client has successfully married the legal and technology worlds to create a unique customer-centric platform. By streamlining processes using proprietary technology, this company has helped its clientele maximize their output while simultaneously reducing costs. As the company’s tech team continues to expand within Central Texas, they’re searching for their next great hire – an experienced Lead Software Quality Assurance Enginee
+Easy Apply
+Multiple Openings with our direct client. Senior DevSecOps Engineer, Mobile Architect,Websphere Engineer, Data Analytics Manager, AWS testers, AWS/Azure cloud engineers, Product Owner, Selenium Automation testers, DevOps Developers with Java Development exp. at Houston, Texas, Long term contract
+Infomerica, Inc  Houston, TX, USA
+Infomerica, Inc company logo
+ Contract, Third Party
+ Posted 5 days ago
+Hi All, Multiple opening with our direct clients. Please mention the role name while replying back with profiles. 1)Senior DevSecOps Engineer for one of our direct clients at Houston, Texas ( Onsite role) for Long term contract. 2) Mobile Architects with native IOS and Android application development exp. Houston, Texas. This a full time role. this can be handled remotely. 3) WebSphere Engineer/ SRE with IIB, AWS and Terraform exp. Huston, Texas for a very long term contract. It is a initial rem
+Easy Apply
+Senior Software Engineer - Test Automation (Java, Selenium)
+Software Guidance & Assistance  Irving, TX, USA
+Software Guidance & Assistance company logo
+ Contract, Third Party
+ Posted 13 days ago - Updated 5 hours ago
+Software Guidance & Assistance, Inc., (SGA), is searching for a Senior Software Engineer - Test Automation (Java, Selenium) for a CONTRACT assignment with one of our premier Financial Services clients in Dallas / Phoenix. Responsibilities : Analyze User Stories and clarify ambiguous requirements Document Test Cases for functional, integration and E2E scenarios Contribute to Test Planning and Test Approach Build SME knowledge and train less experienced/new team members Automate functional an
+Senior Software Engineer - Test Automation (Java, Selenium)
+Software Guidance & Assistance  Irving, TX, USA
+Software Guidance & Assistance company logo
+ Contract, Third Party
+ Posted 13 days ago - Updated 5 hours ago
+Software Guidance & Assistance, Inc., (SGA), is searching for a Senior Software Engineer - Test Automation (Java, Selenium) for Contract assignment with one of our premier Financial Services clients in Dallas / Phoenix. Responsibilities : Lead moderately complex initiatives and deliverables within technical domain environments. Contribute to large scale planning of strategies. Design, code, test, debug, and document for projects and programs associated with technology domain, including upgr
+SDET(Java/Selenium/Rest Assured)- Direct client
+Digipulse Technologies, Inc  Westlake, TX, USA
+Digipulse Technologies, Inc company logo
+ Contract, Third Party
+ Posted 60+ days ago - Updated 1 day ago
+DIRECT CLIENT REQUIREMENT, Role: SDET LOCATION: WESTLAKE ,TX / Durham,NC Digipulse Technologies, Inc (DTI) is a software solutions company offering focused IT services to fortune 1000 clients. We provide services in enterprise application development, system integration & support services for Insurance, Financial, Hospitality, Telecommunication, Pharmaceutical & Banking sectors. JOB DESCRIPTION: Skills: Java/Selenium and Rest Assured for API, UI testing as well.
+Easy Apply
+SDET
+Qentelli  Dallas, TX, USA
+Qentelli company logo
+ Full-time
+ Posted 3 days ago
+Strong experience with Selenium and Java is a must.6 - 8 years of experience in Services Automation using JavaExperience in BDD Tools like JBehave or Cucumber and CI Tools like JenkinExperience with Automation framework development is MUST.Scope and estimate the test automation effort for user stories.Perform automated testing within an iterative agile environment.Participate in all agile ceremonies (standups, planning, backlog refinement, reviews, and retrospectives) ensuring QA and testing is
+Easy Apply
+Java SDET
+Qentelli  Dallas, TX, USA
+Qentelli company logo
+ Contract, Third Party
+ Posted 3 days ago
+Strong experience with Selenium and Java is a must 6 - 8 years of experience in Services Automation using JavaExperience in BDD Tools like JBehave or Cucumber and CI Tools like JenkinExperience with Automation framework development is MUST.Scope and estimate the test automation effort for user stories.Perform automated testing within an iterative agile environment.Participate in all agile ceremonies (standups, planning, backlog refinement, reviews, and retrospectives) ensuring QA and testing is
+Easy Apply
+QA Automation Engineer
+Photon Infotech  Remote or Dallas, TX, USA
+Photon Infotech company logo
+ Full-time
+ Posted 1 day ago - Updated 3 hours ago
+Greeting from Photon !!, Who are we? For the past 20 years, we have powered many Digital Experiences for the Fortune 500. Since 1999, we have grown from a few people to more than 4000 team members across the globe that are engaged in various Digital Modernization. For a brief 1 minute video about us, you can check https://youtu.be/uJWBWQZEA6o Position: QA Automation Engineer Location: Dallas, TX Duration: Full time Roles & Responsibilities Meeting with the software design team to discuss verific
+Easy Apply
+QA -SDET
+Urpan Technologies, Inc.  Austin, TX, USA
+Urpan Technologies, Inc. company logo
+ Full-time
+ Posted 7 days ago - Updated 6 days ago
+Must to have Skills * Selenium WebDriver * Java * API Testing Automation * Design and develop UI automation testing using selenium-java, test ng and BDD. * Experience in designing and implementing backend services automation using BDD framework. * Experience in performing performance testing using JMeter.
+Easy Apply
+Automation Lead
+Veear  Austin, TX, USA
+Veear company logo
+ Contract, Third Party
+ Posted 7 days ago - Updated 18 hours ago
+Role: Automation Lead Location: Austin, TX (On-site from day one) Duration: 12+ Months Job Description: Candidate must be comfortable leading and doing manual and automation work. Communication skills a must.Must have automation experience especially API automation. Selenium automation experience also a plus. Other preferred skills of the role: Strong experience developing and implementing test plans & test cases.Strong experience performing manual testingStrong experience implementing QA
+Easy Apply
+Sr. SDET
+DIVERSANT, LLC.  Dallas, TX, USA
+DIVERSANT, LLC. company logo
+ Contract
+ Posted 27 days ago
+Job Description: Lead complex technology initiatives including those that are companywide with broad impact. Act as a key participant in developing standards and companywide best practices for engineering complex and large scale technology solutions for technology engineering disciplines. Design, code, test, debug, and document for projects and programs. Review and analyze complex, large-scale technology solutions for tactical and strategic business objectives, enterprise technological environme
+Easy Apply
+QA Engineer with Retail Exp
+Tabner Inc  Houston, TX, USA
+Tabner Inc company logo
+ Full-time
+ Posted 31 days ago - Updated 2 hours ago
+Tabner Inc has an opening for QA Automation Engineer and below is the Job Description. Proven experience as a Quality Assurance Engineer or similar role • Experience in QA methodology • Familiarity with Agile frameworks and regression testing is a plus • Ability to document and troubleshoot errors • Working knowledge of test management software (e.g. qTest, Zephyr) and SQL • Excellent communication skills • Attention to details • Analytical mind and problem-solving aptitude • Strong organizatio
+Easy Apply
+SDET
+Scigon Solutions  Remote or Dallas, TX, USA
+Scigon Solutions company logo
+ Full-time, Part-time, Contract, Third Party
+ Posted 6 days ago - Updated 1 hour ago
+SDET WORK TO BE PERFORMED: Creation, maintenance, and execution of automated test plans for transactional and computational scenarios. Analysis of business processes and requirements, including but not limited to acceptance test case writing, acceptance criteria and associated work. Automated and Manual software testing. Data validation. Data creation Test environment and test case management. Test case design. Scripting for automated testing purposes. Presentation of test results and analysis t
+Easy Apply
+QA Automation _ (Need Locals nearer to Houston or Chicago)
+StarTechs Inc.  Remote or Houston, TX, USA
+StarTechs Inc. company logo
+ Contract, Third Party
+ Posted 35 days ago - Updated 21 hours ago
+Candidates need to go to office for 3 days in a week. Requirement details: Job Title: QA Engineer/Lead Location: Chicago, IL/Houston, TX(Need Locals nearer to Houston or Chicago) Duration: 12+ Months Job Description: QE LEAD with Automation – 7+ years’ experience Demonstrated experience in Leading and coordinating large enterprise projects Strong knowledge of QA methodology and tools, with Demonstrated QA experience in an SDET or QAE role, Selenium. Practical coding experience with automat
+Easy Apply
+SDET
+Wipro Ltd.  Austin, TX, USA
+Wipro Ltd. company logo
+ Full-time
+ Posted 25 days ago
+About Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO) is a leading global information technology, consulting and business process services company. We harness the power of cognitive computing, hyper-automation, robotics, cloud, analytics and emerging technologies to help our clients adapt to the digital world and make them successful. A company recognized globally for its comprehensive portfolio of services, strong commitment to sustainability and good corporate citizenship, we have over 220
+Easy Apply
+QA Automation Engineer
+Luna Data Solutions, Inc.  Austin, TX, USA
+Luna Data Solutions, Inc. company logo
+ Full-time
+ Posted 13 days ago
+We have an exciting opportunity for a QA Automation Engineer for a venture backed startup in Austin. The ideal candidate will have a solid understanding of mature QA processes and will have the opportunity to resolve inefficiencies within the QA process. Opportunities: Identify features and map out testing needs Test/Report Bugs, Write test cases, regression testing, smoke testing Write automated test scripts Participate in scrum meetings You: 3+ years of experience in software QA Experience
+Easy Apply
+SDET
+NITYA Software Solutions, Inc.  Irving, TX, USA
+NITYA Software Solutions, Inc. company logo
+ Contract, Third Party
+ Posted 4 days ago - Updated 4 days ago
+3 to 8 years of experience as an SDET, developer, or strong Automation Engineer • High Level expertise in Selenium • 1-2 experience in Mobile Testing Must • Experience in Java • Knowledge on BDD framework • Proficient in design • Proven experience creating automation frameworks and tools to support test automation
+Easy Apply
+Test Automation Developer
+Aricent US Inc  Irving, TX, USA
+Aricent US Inc company logo
+ Full-time
+ Posted 6 days ago
+About Capgemini Engineering Capgemini Engineering combines, under one brand, a unique set of strengths from across the Capgemini Group: the world leading engineering and R&D services of Altran – acquired by Capgemini in 2020 – and Capgemini’s digital manufacturing expertise. With broad industry knowledge and cutting-edge technologies in digital and software, Capgemini Engineering supports the convergence of the physical and digital worlds. Combined with the capabilities of the rest of the Group,
+Easy Apply
+SDET
+SPECTRAFORCE TECHNOLOGIES Inc.  Westlake, TX, USA
+SPECTRAFORCE TECHNOLOGIES Inc. company logo
+ Contract
+ Posted 19 days ago
+Title: SDET Location: Westlake, TX/ Durham, NC/ Smithfield, RI – Initially remote till pandemic Duration: 6+ Months W2 onlyMust Have: Cucumber/SeleniumSome programming skills in Angular, Java, and/or Javascript The Ideal Candidate:You are a multi-stack engineer with knowledge in a breadth of development technologies and test automation frameworks (Java/J2EE, jUnit, Cucumber, Selenium, Serenity, JavaScript/Angular, Spring, Web Services)You are passionate about Test Driven Development, developing
+Easy Apply
+Software Development Engineer in Test
+Associate Staffing LLC  Austin, TX, USA
+Associate Staffing LLC company logo
+ Contract
+ Posted 1 day ago
+Seeking a motivated and talented test engineer who is passionate about testing software through automation. Serve on an inter-disciplinary team of hardware, firmware, software, system, and test engineers to develop and integrate cutting-edge technologies. You'll work closely with product and engineering teams to understand features, develop and automate test cases, improve product quality and shorten release time from development to production. You Will Be: Automating tests using internal and op
+Easy Apply
+Automation Tester with manual testing
+Adept Scripts  Irving, TX, USA
+Adept Scripts company logo
+ Contract
+ Posted 12 days ago - Updated 11 days ago
+Mandatory Skills: Automation Testing – Selenium Manual testing – API testing with Postman Must have worked in a .net / c# environment (scripts built in visual studio) Exp with Web Drivers (Chrome) Exp with hybrid frameworks (data, behavioral and keyword) Strong troubleshooting background Be able to fix or learn how to fix security issues with Chrome Info about the position: · Automation is running on internal websites · Will be entering data for front end, not backend · Will be supporting
+Easy Apply
+SDET Automation Lead
+Wipro Ltd.  Austin, TX, USA
+Wipro Ltd. company logo
+ Full-time
+ Posted 20 days ago
+About Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO) is a leading global information technology, consulting and business process services company. We harness the power of cognitive computing, hyper-automation, robotics, cloud, analytics and emerging technologies to help our clients adapt to the digital world and make them successful. A company recognized globally for its comprehensive portfolio of services, strong commitment to sustainability and good corporate citizenship, we have over 220
+Easy Apply
+SDET
+Capgemini America, Inc.  Austin, TX, USA
+Capgemini America, Inc. company logo
+ Full-time
+ Posted 3 days ago
+Job Title: SDET Location: Austin, TX Full Time Job Description: Our team is actively seeking a motivated and talented test engineer who is passionate about testing software through automationYou will be part of an inter disciplinary team of hardware firmware software system and test engineers to develop and integrate cutting edge technologies for Financial Services Company building E2E automation solutions connecting Advisor Platform Investor Platform Business Solution Platform and TeammatesYou
+Easy Apply
+QA Automation Engineer- Cypress-Rest Assured
+DVG Tech Solutions LLC  Dallas, TX, USA
+DVG Tech Solutions LLC company logo
+ Contract, Third Party
+ Posted 34 days ago - Updated 6 days ago
+Position: Automation Testing/SDET Location: Dallas, TX(remote till covid) Duration: Long term WORK EXPERIENCE: • Strong background in core Java and hands experience on java related projects. • 5 + years of experience in Java development preferred. • 3 + years as technical of Test Automation frameworks. • 3 + years of experience utilizing TestNG working with Groovy/GEB or Java preferred. • 3 + years of experience utilizing Selenium Web Driver preferred. • Experience in advance Xpath, CSS • Expe
+Easy Apply
+Test Automation Engineer (Salesforce Platform)
+Euclid Innovations  Dallas, TX, USA
+Euclid Innovations company logo
+ Contract
+ Posted 15 days ago - Updated 2 hours ago
+Location(s) : Dallas, TX / Phoenix, AZ Required Experience/Skills • 8 years+ – Quality Assurance Testing (Functional, Integration & E2E) • 5 years+ - Test Automation frameworks/tools (Selenium/Java, AccelQ) • 5 years+ - Test management tools (JIRA, ALM) • 3 years+ - Middleware/API/Webservices & Tools (Postman, Kafka) • 3 years+ - Tested Apps built on Salesforce platform • 3 years+ - SQL/Database validations • 2 years+ - Agile delivery Big plus - • Commercial Loan underwriting application experi
+Easy Apply
+Senior QA
+SPECTRAFORCE TECHNOLOGIES Inc.  Dallas, TX, USA
+SPECTRAFORCE TECHNOLOGIES Inc. company logo
+ Contract, Third Party
+ Posted 7 days ago
+Job Title: Senior QA Duration: 9 months (depending on candidate performance and business needs, could be a possibility for extension) Location: Open for remote but will Prefer candidates local from Dallas/ Austin/Fort Worth/Westlake-TX Need to Have: Programming experience with Core JavaAutomation Skills with Cucumber BDD & TestNGWeb Services testing experience with Automation & ManualDatabase testing experience with relational & non-relational databasesPerformance testing ExperienceExperience
+Easy Apply
+SDET Automation QA
+Wipro Ltd.  Westlake, TX, USA
+Wipro Ltd. company logo
+ Full-time
+ Posted 25 days ago
+About Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO) is a leading global information technology, consulting and business process services company. We harness the power of cognitive computing, hyper-automation, robotics, cloud, analytics and emerging technologies to help our clients adapt to the digital world and make them successful. A company recognized globally for its comprehensive portfolio of services, strong commitment to sustainability and good corporate citizenship, we have over 220
+Easy Apply
+Lead Test Engineer
+GlobalLogic, Inc.  Irving, TX, USA
+GlobalLogic, Inc. company logo
+ Third Party
+ Posted 60+ days ago - Updated 16 hours ago
+Job Description 6-8 years of experience in QA engineering environment related to product design and testing.5+ years of experience in QA engineering, writing automation scripts, and applying framework approach to automation.Solid experience in creating test plans in accordance with the overall test strategy, and analyzing system designSolid experience with UI automation testing and open source tools Knowledge about Java Programming language like Array, String, HashMap, Collections, etc.Expertise
+Easy Apply
+Test Automation Engineer
+ICONMA  Plano, TX, USA
+ICONMA company logo
+ Contract, Third Party
+ Posted 17 days ago - Updated 20 hours ago
+Test Automation Engineer Location: Plano, TX Duration: 12 Months with possible extension Description: Hands on Test Automation engineer with strong Selenium background. Building test automation systems for web-based applications Monitoring Top Skills: Automation testing Rest Assured – API Selenium – UI Appium – native apps Cucumber – BDD for all Postman Nice to have: Cypress Soft Skills: Good communications
+Easy Apply
+SDET
+Capgemini America, Inc.  Dallas, TX, USA
+Capgemini America, Inc. company logo
+ Full-time
+ Posted 11 days ago - Updated 6 days ago
+Job Title: SDET Location: Dallas, TX (Day 1 onsite) Type: Fulltime Job Description: 3 - 4 years’ experience in writing automation tests using Java Selenium using testing frameworks like TestNG or Junit.Hands on experience in Cucumber BDD framework Perfecto Sauce Labs Rest Assured.Hands on experience with Git Gradle Maven Ability to learn and implement newer QA technologies and optimize existing processes.Experience working in a Continuous Integration Continuous Delivery CI CD model including
+Easy Apply
+QA Automation
+ResolveTech Solutions Inc.  Richardson, TX, USA
+ResolveTech Solutions Inc. company logo
+ Contract, Third Party
+ Posted 25 days ago - Updated 15 days ago
+Job Title: QA Client: CBRE (Direct Client, No Layers) Work Location: Dallas TX Job Duration: Long Term Contract Requirement: • Minimum 4 years of experience in a QA capacity. • Minimum 2 years hands-on experience with Salesforce platform • Collaborate with client stakeholders to define requirements, deliverables, set and manage expectations • Requirement Analysis, Test Effort estimation, Test Design, Test execution, Defect Management and Test reporting • Provide a practical approach to c
+Easy Apply
+Java Automation Engineer
+VDart, Inc.  Dallas, TX, USA
+VDart, Inc. company logo
+ Full-time, Third Party, Contract
+ Posted 60+ days ago - Updated moments ago
+VDart – We are a Global Information Technology Services & Workforce Solutions firm headquartered out of Atlanta, GA with presence in US, Canada, MX, UK, Belgium, Japan & India. Founded in 2007, Our team of over 2550+ professionals continually create impact for our customers worldwide in solving complex technology challenges with cutting edge technologies. We specialize in providing the Fortune 1000 companies, niche hard to find skills in technologies including Social, Mobile, Big Data Analytics,
+Easy Apply
+Software Development Engineer in Test II
+NTT DATA, Inc.  Dallas, TX, USA
+NTT DATA, Inc. company logo
+ Contract
+ Posted 42 days ago - Updated moments ago
+Job Description: The "Software Development Engineer in Test II will play a vital role as a member of the Digital Quality Engineering team in continually leading its quality strategy and ensuring the development and release of the highest quality software products & enhancing the company's customer facing Digital experiences by collaborating in a cross functional team, on quality initiatives and automation techniques that promote the best Responsibilities Working in an agile software development
+Easy Apply
+QA -SDET
+GS Global Services Inc  Austin, TX, USA
+GS Global Services Inc company logo
+ Contract, Third Party
+ Posted 18 days ago - Updated 3 hours ago
+Must to have Skills * Selenium WebDriver * Java * API Testing Automation * Design and develop UI automation testing using selenium-java, test ng and BDD. * Experience in designing and implementing backend services automation using BDD framework. * Experience in performing performance testing using JMeter. Apple experience is a plus to have
+Easy Apply
+SDET Automation Engineer
+Capgemini America, Inc.  Houston, TX, USA
+Capgemini America, Inc. company logo
+ Full-time
+ Posted 56 days ago - Updated 14 days ago
+kills: SDET Automation Engineer Location: Houston, Tx We have an immediate requirement against SDET Test Engineer based out of Houston, TX We are looking for candidates who are available to join immediately and would not need any sponsorship from Capgemini. If you have hands-on experience in the below skill set, please share your resume at Responsibilities: SDET/Automation Engineer: 3-6 years of Hands-On Experience in: Mandatory technical skillset: Java, Selenium, Webservices/API automatio
+Easy Apply
+Test Automation Architect
+Xoriant Corporation  Plano, TX, USA
+Xoriant Corporation company logo
+ Contract, Third Party
+ Posted 32 days ago - Updated 2 hours ago
+Job title: Test Automation Architect Location: Plano, TX (Hybrid Role - 2days work from office in a week) Duration: 12 Months Job Description We are looking for someone with a very strong automation background who is comfortable leading a team of Automation Engineers. Some who has had previous experience building an Automation Framework from Scratch. Open to reviewing candidates with other Programming background as well provided they have a firm grasp on Programming languages and previous Aut
+Easy Apply
+Software Engineer in Test - W2 - Direct Client
+Digipulse Technologies, Inc  Westlake, TX, USA
+Digipulse Technologies, Inc company logo
+ Full-time
+ Posted 32 days ago - Updated 1 hour ago
+I am looking for a Automation Test Engineer. It's with my direct client , Currently remote till mid-year of this year (then NC/Tx/NH/NJ) We do the transfer of H1B and filing/porting of I140/(Immediately). If you are interested please share your contact details Job Description : • Core Java experience • Testing (manual and test automation) • Financial services exp a huge plus (corp. actions) • Testing Frameworks – Selenium, Test API (Java), Cucumber • Experience in Cypress and Java script • Good
+Easy Apply
+Test Automation Engineer
+Capgemini America, Inc.  Dallas, TX, USA
+Capgemini America, Inc. company logo
+ Full-time
+ Posted 27 days ago
+Job Title: Senior Automation Test Engineer Location: Dallas, TX (Hybrid) Type: Fulltime Job Description: As a Test Automation Engineer you will be defining QA process and Automation Tools for End-to-end testing of Transaction Banking PlatformIn this role you will be responsible for the design development and operation of the testing architecture for both our team s infrastructure and business applicationsFor all aspects of testing unit integration security performance etc and all technologies
+Easy Apply
+Senior Automation QA Analyst (Sponsorship Available!)
+R2 Technologies, Inc.  Dallas, TX, USA
+R2 Technologies, Inc. company logo
+ Full-time
+ Posted 21 days ago - Updated 1 hour ago
+QA Automation Analyst Our client is one of the top employers in DFW - an international company based here!! This is an advanced project team working in Cloud DevOps Environment. Our client is hiring an Automation QA Engineer to add to their Team. This Consultant will be building Automation Frameworks from scratch in Java / Selenium / TestNG. This client will provide sponsorship for this Full Time role! Prioritizing automation scenarios based on associated business riskExperienced in creating
+Easy Apply
+QA Associate/Analyst (healthcare)- Preferred local to Texas
+Esolvit, Inc.  Austin, TX, USA
+Esolvit, Inc. company logo
+ Contract, Third Party
+ Posted 20 hours ago - Updated 4 hours ago
+Job Title: QA Associate/Analyst (healthcare) Location: Austin, TX Candidates must be local to State of Texas, preferably the Austin metro area. Out of State candidates are NOT permitted. Required Skills: 8 years of experience/knowledge of the principles, practices, and techniques of software development and the full software development life cycle (SDLC), including knowledge of industry accepted software engineering practices and life cycle methods (Agile).8 years Knowledge of testing pri
+Easy Apply
+Automation Engineer (W2 Consultants Only)
+IT America  Dallas, TX, USA
+IT America company logo
+ Full-time, Part-time, Contract, Third Party
+ Posted 55 days ago - Updated moments ago
+Hi , Hope you are doing good. Please check the below requirement and if you are interested, please reply back with the updated resume. Role: Automation Engineer (W2 Consultants Only) Location: Remote Duration : Long term Need only W2 Consultant They need XPATH experience Java/Selenium/XPath Front End Testing Back End testing (API) Strong UFT and VB Scripts skills Responsibility Summary : Describe the major responsibilities of the position (i.e. the core responsibilities that represent 80%
+Easy Apply
+Senior QA Analyst
+Make Corporation  Irving, TX, USA
+Make Corporation company logo
+ Contract
+ Posted 21 days ago - Updated 3 hours ago
+Senior QA Analyst #JP – 6421 If this position is of interest to you, please email your resume to (or call and ask for John) Location: Irving, TX Duration: 6+ months Required Qualifications: Strong QA fundamentals and lead experience, managing through project lifecycle until sign off and release to production.5+ years of hands-on experience with the ownership of software project testing: defining test strategy, writing test plans, designing and executing software tests, prep
+Easy Apply
+SDET Automation Engineer
+Kriscon  Dallas, TX, USA
+Kriscon company logo
+ Third Party, Contract
+ Posted 60+ days ago - Updated 1 day ago
+Technical Expertise Minimum 7+ years of test automation experience using Selenium / Web services Good hands on core Java knowledge required for testing. In-Depth knowledge on test automation concepts, estimation Working knowledge of working with test automation frameworks , creating / modifying the automation frameworks 3 + years professional experience with Java with demonstrated ability to read, write and modify core Java projects / start from scratch. 3 + years experience using Selenium
+Manual Tester
+4 Consulting Inc  Remote or Round Rock, TX, USA
+4 Consulting Inc company logo
+ Full-time
+ Posted 20 days ago - Updated 8 days ago
+Who we are! At 4Ci our mission is to build long term relationships, based on trust, integrity, and knowledge with all our employees and business affiliates. 4Ci has been in business for 20 years and has employees working on mission critical projects nationwide. We provide computer programming, testing, and system design services to develop and maintain multi-year, multi-million-dollar mission critical applications for the US Government. Examples of such applications are Medicaid MMIS systems, He
+Easy Apply
+Automation Engineer
+DVG Tech Solutions LLC  Katy, TX, USA
+DVG Tech Solutions LLC company logo
+ Contract, Third Party
+ Posted 21 days ago - Updated 12 days ago
+Role: SDET/QA Automation Engineer Location: Dallas, TX Duration: Long Term Day 01 Onsite role Roles and Responsibility: Work with business and development teams to draft automation test strategies Build and maintaining Test Automation Frameworks for UI and/or Services Execute automation tests and report results Must be able to meet any physical ability requirements listed on this description. WORK EXPERIENCE: • Strong background in core Java and hands experience on java related pro
+Easy Apply
+Automation Engineer
+Palnar  Westlake, TX, USA
+Palnar company logo
+ Full-time, Contract
+ Posted 60+ days ago - Updated 22 hours ago
+Title: Automation Engineer Location: Westlake, TX (Remote till June 2022) Qualifications: 10+ years of software development or hand-coded test automation development using Java, Selenium, Cucumber, Jacoco, or similar language Familiarity with Continuous Integration Tools such as Jenkins, Maven, uDeploy Ability to quickly learn and apply new technical skills Skilled capability to test and debug test automation and software tools developed by team Bachelor's degree in Computer Science or similar
+Easy Apply
+Senior Python Developer
+ApTask  Irving, TX, USA
+ApTask company logo
+ Full-time
+ Posted 5 days ago - Updated 1 day ago
+Job Title: Senior Python Developer Location: Irving, TX Duration: Full Time Job Description: Overall, 8 years in IT experience Minimum 4+years in Python development experience Resource should have Restful API development experience Sound Knowledge of Web Frameworks Object Relational Mappers Deep Learning Good Understanding of Multi-Process Architecture. Analytical Skills. Expert knowledge of Python and related frameworks including Django and Flask. A deep understanding and multi-process architec
+Easy Apply
+SDET
+Capgemini America, Inc.  Dallas, TX, USA
+Capgemini America, Inc. company logo
+ Full-time
+ Posted 27 days ago
+Job Title: SDET Location: Dallas, TX (Hybrid) Type: Fulltime Roles and responsibilities Experience Four to Six Years SeleniumTests complex API web and mobile based applications that reference database back end systemsEstimates testing tasks and works productively with minimum supervision while showing excellent team attitudeCreates and maintains automated test cases executes test suites reviews and diagnoses reported bugs and ensures overall system quality prior to a customer releaseDesigns
+Easy Apply
+SDET FTE
+Lotus Suites USA  Dallas, TX, USA
+Lotus Suites USA company logo
+ Full-time
+ Posted 18 days ago - Updated 6 days ago
+Hi, I noticed your resume online and wanted to see if you are currently open for new projects in the area. I have a SDET FTE role. Sharing the details here let me know what you think about this one. About US: Lotus TP delivers exceptional IT services and solutions that provide clients with definite edge over competitors and promoting highest standards of quality. We have strong and long established tie ups with IT Integrators and end customers specializing in Technology product/service provi
+Easy Apply
+Performance Tester with LoadRunner experience(Two Days On-Site)
+Info Dinamica Inc  Richardson, TX, USA
+Info Dinamica Inc company logo
+ Contract, Third Party
+ Posted 27 days ago - Updated 4 days ago
+Looking for a mid-level Load/Performance automation tester. Required Skills/Experience: Experience with performance testing tools like JMeter/LoadUI Pro or another load testing tool is a mustStrong load testing, development and specifically Jmeter skills and experience, able to manage multiple work streams, independent, able to communicate well in written form and produce electronic contentStrong technical knowledge of JMeterAt least 4 years of experience with HP LoadRunner experience using pr
+Easy Apply
+QA Automation Engineer with ServiceNow
+Akshar IT Solutions  Remote or Dallas, TX, USA
+Akshar IT Solutions company logo
+ Full-time, Third Party, Contract
+ Posted 60+ days ago - Updated moments ago
+Job Title: QA Automation Engineer Location : Remote Position Type: Long term contract *Servicenow Experience is Must Job description: Designing and executing effective test plans to ensure consistent high-quality product delivery. Development and maintenance of test automation suite. Working closely with Product Management to understand new product requirements. Research and recommend tools, approaches. Share quality and process knowledge with the team. Designs test reporting and metrics appro
+Easy Apply
+Software Development Engineer in Test
+ApTask  Irving, TX, USA
+ApTask company logo
+ Full-time
+ Posted 46 days ago - Updated 1 day ago
+SDET Automation Engineer Location: Irving, Texas Job Type: Full Time Job Description: • Minimum 4 years of experience in Automation testing. • Strong experience in Automation framework development. • Strong experience required in Java, BDD cucumber, Selenium, and Rest Assured. • Experience with SQL • Experience in API Automation. • Must have BS or MS Degree in Computer Science.
+Easy Apply
+AEM Architect or AEM Lead
+Virtusoft  Houston, TX, USA
+Virtusoft company logo
+ Contract, Third Party
+ Posted 46 days ago - Updated 2 hours ago
+Role- AEM Architect or AEM Lead Location- Houston, TX (Remote until Covid) Must have- Must have worked on AEM 6.4 or newer versions.Working Experience with Sightly / Sling models.Strong understand of core AEM components such as oak, sling and dispatcher Experience with Continuous Integration and Automated test execution and building tools such as Jenkins, Hudson, Selenium or MavenMust have 10+ years of experience in Software IndustryMust have architect and hands on experience in AEMShould have
+Easy Apply
+Software Development Engineer In Test
+Cigniti Technologies Inc  Dallas, TX, USA
+Cigniti Technologies Inc company logo
+ Contract, Third Party
+ Posted 11 days ago - Updated 22 hours ago
+Required Skills: Should have experience at least 7+ years in Software Testing. Must have automation Java Selenium with API testing exp.Must be Strong in Core Java Basics & codingDevops/AWS - basic knowledgeStrong in Core Java TestNG, BDD and APIGood knowledge in Agile, Rest Assured and Ready APIExperience in developing the Automation FrameworkExperience with Jenkins and Gherkin setup
+Easy Apply
+Automated Quality Assurance Engineer
+eQuest Solutions  Houston, TX, USA
+eQuest Solutions company logo
+ Full-time
+ Posted 3 days ago - Updated 1 day ago
+Please note I have direct access to the Hiring Development Manager on this position. Compensation: Base + Bonus: 10% Telecommuting 1-2 days/week. This is an outstanding opportunity to advance and develop your skill set at a company has an established reputation for allowing QA Engineers to progress their careers at aggressive paces and to be exposed to new, innovative and progressive technologies. We are an International, successful, extremely profitable and the largest global privately held med
+Easy Apply
+Lead Automation Engineer
+Citratek, Inc.  Dallas, TX, USA
+Citratek, Inc. company logo
+ Contract
+ Posted 25 days ago
+Position Summary: Responsible for design, development and maintenance of automated test, and various software test engineering activities. Experienced in Agile/Waterfall, onsite/offshore work model and coordination. Proficient in Java and/or Selenium he/she should be able to write Test Cases and automated test that validate the application functionality. Should possess excellent verbal, written and analytical skills, able to interact with application development teams, business analysts/SME, bus
+Easy Apply
+QE Lead Test Mobile Automation Engineer with Airline Domain Experience - Multiple openings
+Innovative Edge TCS  Houston, TX, USA
+Innovative Edge TCS company logo
+ Contract
+ Posted 26 days ago - Updated 26 days ago
+Job Description Lead QA Teams in IT, responsible and accountable for day-to-day supervision and direction of quality engineering and project coordination activitiesExperience working directly coordinating in onsite and offshore model coordinating with quality engineering professionals and development teamsSpokesperson for quality and project management team, work closely with AppDev managers and SME team to influence architectural aspectsAccountable for leading quality efforts on multiple pro
+Easy Apply
+DevOps Application Support Engineer
+Supreme Lending  Addison, TX, USA
+Supreme Lending company logo
+ Full-time
+ Posted 11 days ago
+DevOps Application Support Engineer Job Description JOB SUMMARY As a DevOps Application Support Engineer, you will be part of a key team responsible for the installation, configuration, maintenance, security, inventory, and operational support of enterprise information systems applications, database management systems and integrated applications. Responsibilities will include troubleshooting and resolving issues within the applications used in day-to-day activities of Supreme Lending users.
+Easy Apply
+QA Analyst
+ArnAmy, Inc.  Austin, TX, USA
+ArnAmy, Inc. company logo
+ Contract, Third Party
+ Posted 23 hours ago
+Job Purpose: Texas Health and Human Services Commission requires the services of 1 QA Associate/Analyst 3, hereafter referred to as Candidate(s), who meets the general qualifications of QA Associate/Analyst 3, Quality Assurance (QA) and Testing and the specifications outlined in this document for the Texas Health and Human Services Commission. As part of HHSC IT Applications – Social Services Applications initiatives, the worker will perform the following activities to accomplish the following g
+Easy Apply
+Senior Architect Technical Lead
+Request Technology, LLC  Dallas, TX, USA
+Request Technology, LLC company logo
+ Full-time
+ Posted 26 days ago - Updated 1 day ago
+Senior Architect Technical Lead Salary: $180k-$210k + $30k-$40k Bonus Location: Hybrid role in any of the following locations McLean, VA/ Plano, TX/ Atlanta, GA We are unable to provide sponsorship for this role $30k-$40k Bonus Eligible A prestigious Fortune 500 company is seeking a Senior Architect Technical Lead Qualifications Undergraduate degree or equivalent experience required; Advanced degree preferred10+ years of experience in Enterprise Architecture and/or Platform Architecture for
+Easy Apply
+Mobile QA Engineer - iOS
+Agile Premier  Irving, TX, USA
+Agile Premier company logo
+ Third Party
+ Posted 23 hours ago
+Agile Premier has a Dallas/Fort Worth based client that is looking to bring on a Software Quality Engineer, for a long-term contract position. This position will be responsible for software and mobile phone applications quality engineering & testing activities. Must have experience with manual & automated testing; software design/development practices; bug prevention strategies; testability; quality concepts across products. Minimum Qualifications: iOS Native Automation - iOS - XCUI or similar
+Easy Apply
+Senior .NET Developer
+Computer Staff, Inc.  Dallas, TX, USA
+Computer Staff, Inc. company logo
+ Contract
+ Posted 60+ days ago - Updated 3 hours ago
+We have been retained by our client in Dallas, Texas (north Dallas) to deliver a Senior .NET Developer on a long-term contract basis to design and develop a new ERP application. This contract consulting opportunity includes performing full-stack .NET web development on an enterprise resource planning (ERP) tool, using cutting edge technologies including: .NET Core, C#, MVC, javascript, RESTful Web API, javascript, jQuery, Linq to Entities, Entity Framework, SQL Server, TFS, and Azure DevOps. Th
+Easy Apply
+QA Associate/Analyst
+Cynosure Technologies LLC  Austin, TX, USA
+Cynosure Technologies LLC company logo
+ Third Party
+ Posted 22 hours ago
+8RequiredExperience/knowledge of the principles, practices, and techniques of software development and the full software development life cycle (SDLC), including knowledge of industry accepted software engineering practices and life cycle methods (Agile).8RequiredKnowledge of testing principles and methodologies5RequiredKnowledge of the limitations and capabilities of computer systems, information technology equipment, applicable programming languages, computer hardware and software, and compute
+Easy Apply
+SDET - Direct Client - Immediate Closure
+Digipulse Technologies, Inc  Westlake, TX, USA
+Digipulse Technologies, Inc company logo
+ Contract
+ Posted 49 days ago - Updated 13 days ago
+DIRECT CLIENT REQUIREMENT, Role: SDET LOCATION: WESTLAKE ,TX / Durham,NC Digipulse Technologies, Inc (DTI) is a software solutions company offering focused IT services to fortune 1000 clients. We provide services in enterprise application development, system integration & support services for Insurance, Financial, Hospitality, Telecommunication, Pharmaceutical & Banking sectors. JOB DESCRIPTION: Skills: Java/Selenium and Rest Assured for API, UI testing as well. Group reqs us to run Prescreen q
+Easy Apply
+SDET (Software Development in Test)
+SPECTRAFORCE TECHNOLOGIES Inc.  Austin, TX, USA
+SPECTRAFORCE TECHNOLOGIES Inc. company logo
+ Contract, Third Party
+ Posted 1 day ago
+Job Title: SDET (Software Development in Test) Duration: 12 Months Location: Austin TX (Remote) Job Description: Will interpret written requirements and technical specifications for software solutions to business problems.Will develop software based on the technical specifications.Will analyze and investigate problems with software solutions that have been reported by clients and document the results of their investigation(s).Will perform maintenance of software and correct defects that have b
+Easy Apply
+QA Analyst - onsite Texas - C2C
+Global Force USA  Austin, TX, USA
+Global Force USA company logo
+ Contract, Third Party
+ Posted 21 hours ago
+JOB DESCRIPTION/MINIMUM REQUIREMENTS: As part of Client IT Applications – Social Services Applications initiatives, the worker will perform the following activities to accomplish the following goals: Performs software quality assurance, testing, and support for TIERS, YourTexasBenefits.com, YourTexasBenefits Mobile App, State Portal, Workflow Management, Eligibility Web Services, Enterprise Document Services, Enterprise Content Management, Document Center, Call Center Inquiry, and other Social
+Easy Apply
+Quality Assurance Engineer
+Saifee Recruiting  Houston, TX, USA
+Saifee Recruiting company logo
+ Full-time
+ Posted 60+ days ago - Updated moments ago
+No C2C or H1 sponsorship available at this time. Our client is a world leading provider of integrated supply chain execution and unified asset management software solutions. Headquartered in Houston, TX, USA, with operating branches in Maryland, Crystal City and Dubai. Our client's solutions are trusted by Fortune 100 customers and Governments from around the globe. Client Company’s Description: We are a leading provider of integrated supply chain software solutions. Over the past few years,
+Easy Apply
+Dot NET Solution Architect
+PMCS Services Inc  Austin, TX, USA
+PMCS Services Inc company logo
+ Contract, Third Party
+ Posted 1 day ago
+We are looking for a Full-time/Contract employee for a Dot NET Solution Architect. The Candidate will perform highly advanced design and development work as part of the Administrative Application’s project team(s) with direction and guidance from the Scrum Master and Applications Services Management. The primary responsibility of this position is to work with Product Owners, Scrum-masters, and internal/external stakeholders to provide the overall technology guidance and structure for creating a
+Easy Apply
+QA Analyst
+Allied Consultants, Inc.  Austin, TX, USA
+Allied Consultants, Inc. company logo
+ Contract, Third Party
+ Posted 21 hours ago - Updated 2 hours ago
+OverviewAllied Consultants, Inc. is an Austin-based firm which has for 31 years been a premier provider of technical and business professionals to clients in Texas. We are currently seeking an experienced QA Analyst to be a key resource on a technical services team. Allied Consultants offers its family of consultants excellent rates, a local support staff, and an attractive benefits package which includes medical insurance (Allied shares a percentage of the cost), life insurance, a matching 401(
+Easy Apply
+.NET Solutions Architect
+Allied Consultants, Inc.  Austin, TX, USA
+Allied Consultants, Inc. company logo
+ Contract, Third Party
+ Posted 1 day ago - Updated 2 hours ago
+OverviewAllied Consultants, Inc. is an Austin-based firm which has for 31 years been a premier provider of technical and business professionals to clients in Texas. We are currently seeking an experienced .NET Solutions Architect to be a key resource on a technical services team. Allied Consultants offers its family of consultants excellent rates, a local support staff, and an attractive benefits package which includes medical insurance (Allied shares a percentage of the cost), life insurance, a
+Easy Apply
+Back-End (Server) Side Java Developer
+Matchpointe Group  Austin, TX, USA
+Matchpointe Group company logo
+ Full-time
+ Posted 60+ days ago - Updated 3 days ago
+Back-End Java Developer Location: Austin, TX Duration: Full-Time Those Authorized to work without Sponsorship In This Role: The Platform Developer is responsible for the development and maintenance of the company's back-end APIs platform. The incumbent must utilizes their knowledge of Java development & web technologies as an integral part of the software development team. Responsibilities: Design, develop, maintain, and deliver highly scalable and reliable APIsCollaborate with development tea
+Easy Apply
+Automation Lead (Auto Finance)
+Cynet Systems  Plano, TX, USA
+Cynet Systems company logo
+ Contract, Third Party
+ Posted 21 hours ago
+We are looking for Automation Lead (Auto Finance) for our client in Plano, TX Job Title: Automation Lead (Auto Finance) Job Location: Plano, TX Job Type: Contract Job Description:4 experience as software quality testing engineer analyst or Business System Analyst in Auto finance industry Automation Performance testing in Selenium or any other technologies framework would be more recommended.Minimum 8-10 years of experience.Must Have Skills: 4+ experience as software quality testing engineer/anal
+Easy Apply
+Software QA Engineer
+Motion Recruitment  Austin, TX, USA
+Motion Recruitment company logo
+ Full-time
+ Posted 32 days ago - Updated 3 hours ago
+This start up, which is backed by a Fortune 1000, company is currently looking to add a QA Engineer to its team. This company is responsible for building out a software platform for ticket sales to any large concert, festival, or sporting event. This is an opportunity for someone to gain enterprise level experience but has the small-time/start-up feel to its environment. Currently, our client is in the process of breaking down their monolithic application to implement a more microservices archit
+Javascript Developer
+Luxoft USA Inc  Plano, TX, USA
+Luxoft USA Inc company logo
+ Full-time
+ Posted 19 days ago - Updated 3 days ago
+Project Description:DXC has a contract to assemble a new team of specialized consultants to support a new initiative. This group of specialists will focus not only on the Real time fraud monitoring tool used to monitor credit applications at the Point of Sale in order to prevent fraud and equipment loss.Responsibilities: We need someone to add/maintain/perform automation scripts using Protractor (preferably)/selenium for our existing Angular FE application Develop / Enhance the user experience
+Easy Apply
+JavaScript Developer
+GDK Services  Plano, TX, USA
+GDK Services company logo
+ Contract
+ Posted 6 days ago
+We need someone to add/maintain/perform automation scripts using Protractor (preferably)/selenium for our existing Angular FE application Develop / Enhance the user experience • Must approve all documentation that is being delivered to client • Responsible for meeting objectives and deliverables • Interface with end users • Document preparation • Manage code in multiple environment and coordinate release notes as required Must have JavaScript TypeScriptNodejS ExpressNPMknowledge on HTML/CSSAngul
+Easy Apply
+Professional-Software Engineer
+DIRECTV  San Antonio, TX, USA
+D
+ Part-time, Contract, Third Party, Full-time
+ Posted 3 days ago - Updated moments ago
+DIRECTV is the world's leading provider of digital television entertainment services. We provide digital television service to 20.11 million customers in the United States & 16.32 million customers in Latin America. As part of our team, your next big idea could be our newest innovation. Here's your opportunity to combine your passion for entertainment and technology to transform our company and your career. Responsibilities Ability to advocate for Improvements in automation engineering efforts.
+Professional-Software Engineer
+DIRECTV  Helotes, TX, USA
+D
+ Part-time, Contract, Third Party, Full-time
+ Posted 3 days ago - Updated moments ago
+DIRECTV is the world's leading provider of digital television entertainment services. We provide digital television service to 20.11 million customers in the United States & 16.32 million customers in Latin America. As part of our team, your next big idea could be our newest innovation. Here's your opportunity to combine your passion for entertainment and technology to transform our company and your career. Responsibilities Ability to advocate for Improvements in automation engineering efforts.
+Professional-Software Engineer
+DIRECTV  JBSA Randolph, TX, USA
+D
+ Part-time, Contract, Third Party, Full-time
+ Posted 3 days ago - Updated moments ago
+DIRECTV is the world's leading provider of digital television entertainment services. We provide digital television service to 20.11 million customers in the United States & 16.32 million customers in Latin America. As part of our team, your next big idea could be our newest innovation. Here's your opportunity to combine your passion for entertainment and technology to transform our company and your career. Responsibilities Ability to advocate for Improvements in automation engineering efforts.
+Professional-Software Engineer
+DIRECTV  Somerset, TX, USA
+D
+ Part-time, Contract, Third Party, Full-time
+ Posted 3 days ago - Updated moments ago
+DIRECTV is the world's leading provider of digital television entertainment services. We provide digital television service to 20.11 million customers in the United States & 16.32 million customers in Latin America. As part of our team, your next big idea could be our newest innovation. Here's your opportunity to combine your passion for entertainment and technology to transform our company and your career. Responsibilities Ability to advocate for Improvements in automation engineering efforts.
+Professional-Software Engineer
+DIRECTV  Adkins, TX, USA
+D
+ Part-time, Contract, Third Party, Full-time
+ Posted 3 days ago - Updated moments ago
+DIRECTV is the world's leading provider of digital television entertainment services. We provide digital television service to 20.11 million customers in the United States & 16.32 million customers in Latin America. As part of our team, your next big idea could be our newest innovation. Here's your opportunity to combine your passion for entertainment and technology to transform our company and your career. Responsibilities Ability to advocate for Improvements in automation engineering efforts.
+Professional-Software Engineer
+DIRECTV  Elgin, TX, USA
+D
+ Part-time, Contract, Third Party, Full-time
+ Posted 3 days ago - Updated moments ago
+DIRECTV is the world's leading provider of digital television entertainment services. We provide digital television service to 20.11 million customers in the United States & 16.32 million customers in Latin America. As part of our team, your next big idea could be our newest innovation. Here's your opportunity to combine your passion for entertainment and technology to transform our company and your career. Responsibilities Ability to advocate for Improvements in automation engineering efforts.
+Professional-Software Engineer
+DIRECTV  Manchaca, TX, USA
+D
+ Part-time, Contract, Third Party, Full-time
+ Posted 3 days ago - Updated moments ago
+DIRECTV is the world's leading provider of digital television entertainment services. We provide digital television service to 20.11 million customers in the United States & 16.32 million customers in Latin America. As part of our team, your next big idea could be our newest innovation. Here's your opportunity to combine your passion for entertainment and technology to transform our company and your career. Responsibilities Ability to advocate for Improvements in automation engineering efforts.
+Professional-Software Engineer
+DIRECTV  Austin, TX, USA
+D
+ Part-time, Contract, Third Party, Full-time
+ Posted 3 days ago - Updated moments ago
+DIRECTV is the world's leading provider of digital television entertainment services. We provide digital television service to 20.11 million customers in the United States & 16.32 million customers in Latin America. As part of our team, your next big idea could be our newest innovation. Here's your opportunity to combine your passion for entertainment and technology to transform our company and your career. Responsibilities Ability to advocate for Improvements in automation engineering efforts.
+Professional-Software Engineer
+DIRECTV  Round Rock, TX, USA
+D
+ Part-time, Contract, Third Party, Full-time
+ Posted 3 days ago - Updated moments ago
+DIRECTV is the world's leading provider of digital television entertainment services. We provide digital television service to 20.11 million customers in the United States & 16.32 million customers in Latin America. As part of our team, your next big idea could be our newest innovation. Here's your opportunity to combine your passion for entertainment and technology to transform our company and your career. Responsibilities Ability to advocate for Improvements in automation engineering efforts.
+Professional-Software Engineer
+DIRECTV  Manor, TX, USA
+D
+ Part-time, Contract, Third Party, Full-time
+ Posted 3 days ago - Updated moments ago
+DIRECTV is the world's leading provider of digital television entertainment services. We provide digital television service to 20.11 million customers in the United States & 16.32 million customers in Latin America. As part of our team, your next big idea could be our newest innovation. Here's your opportunity to combine your passion for entertainment and technology to transform our company and your career. Responsibilities Ability to advocate for Improvements in automation engineering efforts.
+Professional-Software Engineer
+DIRECTV  Houston, TX, USA
+D
+ Part-time, Contract, Third Party, Full-time
+ Posted 3 days ago - Updated moments ago
+DIRECTV is the world's leading provider of digital television entertainment services. We provide digital television service to 20.11 million customers in the United States & 16.32 million customers in Latin America. As part of our team, your next big idea could be our newest innovation. Here's your opportunity to combine your passion for entertainment and technology to transform our company and your career. Responsibilities Ability to advocate for Improvements in automation engineering efforts.
+Professional-Software Engineer
+DIRECTV  La Porte, TX, USA
+D
+ Part-time, Contract, Third Party, Full-time
+ Posted 3 days ago - Updated moments ago
+DIRECTV is the world's leading provider of digital television entertainment services. We provide digital television service to 20.11 million customers in the United States & 16.32 million customers in Latin America. As part of our team, your next big idea could be our newest innovation. Here's your opportunity to combine your passion for entertainment and technology to transform our company and your career. Responsibilities Ability to advocate for Improvements in automation engineering efforts.
+Professional-Software Engineer
+DIRECTV  Porter, TX, USA
+D
+ Part-time, Contract, Third Party, Full-time
+ Posted 3 days ago - Updated moments ago
+DIRECTV is the world's leading provider of digital television entertainment services. We provide digital television service to 20.11 million customers in the United States & 16.32 million customers in Latin America. As part of our team, your next big idea could be our newest innovation. Here's your opportunity to combine your passion for entertainment and technology to transform our company and your career. Responsibilities Ability to advocate for Improvements in automation engineering efforts.
+Professional-Software Engineer
+DIRECTV  Bellaire, TX, USA
+D
+ Part-time, Contract, Third Party, Full-time
+ Posted 3 days ago - Updated moments ago
+DIRECTV is the world's leading provider of digital television entertainment services. We provide digital television service to 20.11 million customers in the United States & 16.32 million customers in Latin America. As part of our team, your next big idea could be our newest innovation. Here's your opportunity to combine your passion for entertainment and technology to transform our company and your career. Responsibilities Ability to advocate for Improvements in automation engineering efforts.
+Professional-Software Engineer
+DIRECTV  Jersey Village, TX, USA
+D
+ Part-time, Contract, Third Party, Full-time
+ Posted 3 days ago - Updated moments ago
+DIRECTV is the world's leading provider of digital television entertainment services. We provide digital television service to 20.11 million customers in the United States & 16.32 million customers in Latin America. As part of our team, your next big idea could be our newest innovation. Here's your opportunity to combine your passion for entertainment and technology to transform our company and your career. Responsibilities Ability to advocate for Improvements in automation engineering efforts.
+Professional-Software Engineer
+DIRECTV  Carrollton, TX, USA
+D
+ Part-time, Contract, Third Party, Full-time
+ Posted 3 days ago - Updated moments ago
+DIRECTV is the world's leading provider of digital television entertainment services. We provide digital television service to 20.11 million customers in the United States & 16.32 million customers in Latin America. As part of our team, your next big idea could be our newest innovation. Here's your opportunity to combine your passion for entertainment and technology to transform our company and your career. Responsibilities Ability to advocate for Improvements in automation engineering efforts.
+Professional-Software Engineer
+DIRECTV  Crandall, TX, USA
+D
+ Part-time, Contract, Third Party, Full-time
+ Posted 3 days ago - Updated moments ago
+DIRECTV is the world's leading provider of digital television entertainment services. We provide digital television service to 20.11 million customers in the United States & 16.32 million customers in Latin America. As part of our team, your next big idea could be our newest innovation. Here's your opportunity to combine your passion for entertainment and technology to transform our company and your career. Responsibilities Ability to advocate for Improvements in automation engineering efforts.
+Professional-Software Engineer
+DIRECTV  Dallas, TX, USA
+D
+ Part-time, Contract, Third Party, Full-time
+ Posted 3 days ago - Updated moments ago
+DIRECTV is the world's leading provider of digital television entertainment services. We provide digital television service to 20.11 million customers in the United States & 16.32 million customers in Latin America. As part of our team, your next big idea could be our newest innovation. Here's your opportunity to combine your passion for entertainment and technology to transform our company and your career. Responsibilities Ability to advocate for Improvements in automation engineering efforts.
+Professional-Software Engineer
+DIRECTV  Ferris, TX, USA
+D
+ Part-time, Contract, Third Party, Full-time
+ Posted 3 days ago - Updated moments ago
+DIRECTV is the world's leading provider of digital television entertainment services. We provide digital television service to 20.11 million customers in the United States & 16.32 million customers in Latin America. As part of our team, your next big idea could be our newest innovation. Here's your opportunity to combine your passion for entertainment and technology to transform our company and your career. Responsibilities Ability to advocate for Improvements in automation engineering efforts.
+Professional-Software Engineer
+DIRECTV  Lancaster, TX, USA
+D
+ Part-time, Contract, Third Party, Full-time
+ Posted 3 days ago - Updated moments ago
+DIRECTV is the world's leading provider of digital television entertainment services. We provide digital television service to 20.11 million customers in the United States & 16.32 million customers in Latin America. As part of our team, your next big idea could be our newest innovation. Here's your opportunity to combine your passion for entertainment and technology to transform our company and your career. Responsibilities Ability to advocate for Improvements in automation engineering efforts.
+Fully remote SDET with Ruby! up to 125k!
+Motion Recruitment  Houston, TX, USA
+Motion Recruitment company logo
+ Full-time
+ Posted 56 days ago - Updated 3 hours ago
+My client is looking to add an SDET to their team! The role involves testing their web application 80% automation and 20% manual. The right individual will have at least 3+ years of automation experience building frameworks using Ruby and Selenium. If you're comfortable building something from the ground up - this might be the right role for you! Apply today! *Fully Remote* Required Skills & Experience 3+ years of experience in testing web applications Ruby programming language Cloud experience
+QA Automation Engineer
+Xcelo Group Inc  Remote or Irving, TX, USA
+Xcelo Group Inc company logo
+ Full-time, Part-time, Contract, Third Party
+ Posted 4 days ago - Updated moments ago
+Role: QA Automation Engineer Location: Remote Duration: Longterm No of positions: 2 Job Summary: Required 4-5+years experience, Preferred Qualifications ROLES & RESPONSIBILITIES * QAAutomationwith Selenium Experience with web development technologies preferential Experience with Process Analysis, Design, and Implementation, Experience implementing an automation tool framework from scratch Strong knowledge of software QA methodologies, tools (Jira, Postman), and processes Experience in
+
+QA Automation Test Engineer with AWS
+Cloudious LLC  Remote or Dallas, TX, USA
+Cloudious LLC company logo
+ Third Party, Contract
+ Posted 60+ days ago - Updated moments ago
+Must have Skills: Selenium, Java, Automation, Rest, Rest Assured, TestNG, BDD, Cloud, AWS Job Description: Strong background in quality assurance, automated testing, continuous integration (CI) approach and Java/Groovy programming experience. Minimum 6+ years of test automation experience using Selenium / Rest Services. 3+ years of hands-on experience in Service automation. Need to have Rest Assured automation experience. 3+ years of experience in UI automation using Selenium/Cypress, TestNG and
+Easy Apply
+QA Lead
+Veear  Austin, TX, USA
+Veear company logo
+ Contract, Third Party
+ Posted 3 days ago - Updated 18 hours ago
+Role: QA Lead Location: Austin, TX (On-site) Duration: 12+ Months About this Opportunity: The candidates MUST be able to handle testing tasks. Write test cases based on acceptance criteria, execute test cases, file bugs, and send test reportsThe candidates MUST be able to code and have experience with automation.We need someone that we can assign tasks and they are self-sufficient to go out and find solutions We expect the vendor to screen for some basic coding skills, we can't waste our time
+Easy Apply
+Get personalized job recommendations today!
+A Dice profile with customized IntelliSearch™ Alerts is the most effective way for you to discover the best tech jobs, tailored to your experience!
+Javascript Developer- Onsite- Plano, TX
+Luxoft USA Inc  Plano, TX, USA
+Luxoft USA Inc company logo
+ Contract, Third Party
+ Posted 11 days ago
+DXC has a contract to assemble a new team of specialized consultants to support a new initiative. This group of specialists will focus not only on the Real-time fraud monitoring tool used to monitor credit applications at the Point of Sale in order to prevent fraud and equipment loss. Responsibilities:We need someone to add/maintain/perform automation scripts using Protractor (preferably)/selenium for our existing Angular FE application Develop / Enhance the user experience • Must approve all d
+Easy Apply
+AEM Developer
+Ace Technologies, Inc.  Austin, TX, USA
+Ace Technologies, Inc. company logo
+ Contract, Third Party
+ Posted 1 day ago
+AEM Developer Atleast 5 years with AEM projects.Strong Java programming foundationExtensive hands on workflows, Sling servlet, REST, JSON, lucene indexing is must. Exposure to Coral / Granite UI, Adobe UI customization is a mustDeep understanding of AEM's security along with its Access ControlsExpertise around extending AEM's core functionalities such as LaunchesMust have worked on AEM 6.4 or newer versions.Working Experience with Sightly / Sling models .Strong understand of core AEM components
+Easy Apply
+Software Engineer in Test
+Agile Premier  Irving, TX, USA
+Agile Premier company logo
+ Contract
+ Posted 7 days ago
+Agile Premier has a Dallas/Ft. Worth based client that is looking to bring on a long term Software Engineer to assist with developing contract tests between various micro-services and integrate them into their CI/CD pipelines. Duties and Responsibilities: Write tests and verification tests using PACT framework Set up provider services with SpringBoot, Gretty or other technologies Integrate contract testing with Jenkins pipelines Knowledge of rest, remoting and grpc protocols. Experience with
+Easy Apply
+Java Backend Developer
+Incedo Inc  Irving, TX, USA
+Incedo Inc company logo
+ Contract, Third Party
+ Posted 11 days ago - Updated 6 days ago
+Job Title: Java Backend Location: Irving TX Job Description: Microservices concepts and design patterns (Primary skill)Spring core and Spring boot (Primary skill)Spring webflux - reactive programming (Primary skill)AWS - Docker, Kubernetes containerizationJDBC, JPA DevOps Tool (GIT, Jenkins. JIRA, Ansible) Test Driven development - JUnit, Selenium, Soap Sonar Kibana, EclipseWorking knowledge in Apigee Education and Qualifications: Bachelor’s degree in Computer Science or equivalent.
+Easy Apply
+Functional Tester with payment gateway
+Cynet Systems  Dallas, TX, USA
+Cynet Systems company logo
+ Full-time
+ Posted 1 day ago
+Job Title: Functional Tester with payment gateway Job Location: Dallas, TX Job Type: Full Time / Perm / Direct Hire Job Description:Candidates must have strong experience with Payment Gateway, someone who understands the workflow of payments (Treasury, ACH, Swift ETC).Basic Qualifications:Strong experience in the software development/testing space.Experience with automated testing tools such as Protractor, Selenium, JMeter, and LoadRunner.Knowledge of major programming languages e.g. Java, and J
+Easy Apply
+Senior Software Test Engineer
+Apex Systems  Austin, TX, USA
+Apex Systems company logo
+ Full-time
+ Posted 39 days ago - Updated 6 hours ago
+The Senior Software Test Engineer is responsible for a range of testing activities including designing and maintaining test suites, executing test scenarios manually, developing automated testing strategies and implementing them in industry standard testing frameworks. The Software Test Engineer provides testing expertise and plays a role in providing advice and guidance and monitoring emerging technologies. Technology We Use: C#, .NET, AWS, Selenium Webdriver, Git, Rally, NUnit, XUnit, ReadyAP
+Easy Apply
+SDET Engineer
+Infostretch Corporation  Dallas, TX, USA
+Infostretch Corporation company logo
+ Full-time
+ Posted 7 days ago
+Infostretch is a digital engineering services firm headquartered in Santa Clara, CA. Since 2004, we have been helping enterprises get their mobile, digital and IoT initiatives to market faster, more efficiently and with greater flexibility. Our expertise include developing, quality assuring and integrating the latest mobile technologies and connecting them with the enterprise systems. We specialize in Digital Strategy, Digital Development, DevOps, Quality Engineering, Cloud, IoT, Data Analytics
+Easy Apply
+SDET
+Themesoft Inc  Richardson, TX, USA
+Themesoft Inc company logo
+ Full-time, Part-time, Contract, Third Party
+ Posted 60+ days ago - Updated moments ago
+Role: SDET Engineer Location: Richardson, TX (Day 1 onsite role) Duration: contract OR Full time The client is looking for a Candidate local to the Dallas TX area only Job Description 7-10 years of Quality Assurance and/or Development experience required, with 3-6 years specifically in Test Automation Experience in core Java and Object-Oriented Programming (OOPs) concepts and experience in designing, developing, enhancing automated test scripts for Selenium using JAVA Experience in implement
+Easy Apply
+Remote Mobile QA Automation Opportunity - $52hr!
+Motion Recruitment  Richardson, TX, USA
+Motion Recruitment company logo
+ Full-time
+ Posted 42 days ago - Updated 3 hours ago
+A healthcare company is looking to add a Mid-level/Senior SDET to their growing team. The role involves web, mobile and iOS testing therefore the right individual will have ample experience using mobile automation tools. Additionally, there will be mix of API automation as well as manual testing. Must reside in Dallas, TX or near Buffalo Grove, IL as the role is remote to start but will eventually need to go into the office in a hybrid format. Required Skills & Experience 3 years of automation
+Mobile Apps Automation Engineer
+Net2Source Inc.  Austin, TX, USA
+Net2Source Inc. company logo
+ Full-time
+ Posted 7 days ago - Updated moments ago
+Net2Source Inc. is an award-winning total workforce solutions company recognized by Staffing Industry Analysts for our accelerated growth of 300% in the last 3 years with over 5500+ employees globally, with over 30+ locations in the US and global operations in 32 countries. We believe in providing staffing solutions to address the current talent gap - Right Talent - Right Time - Right Place - Right Price and acting as a Career Coach to our consultants. Position: Mobile Apps Automation Engineer L
+Easy Apply
+Senior Technical Lead Arhcitect - Data Solutions / Platform / AWS
+Request Technology, LLC  Plano, TX, USA
+Request Technology, LLC company logo
+ Full-time
+ Posted 26 days ago - Updated 4 days ago
+NO SPONSORSHIP ARCHITECTURE SENIOR TECH LEAD (PLATFORM & DATA SOLUTIONS) - AWS SALARY: $180K - $220K PLUST $30K - $40K BONUS LOCATION: MCLEAN, VA / PLANO, TX / ATLANTA, GA Looking for a candidate to work on Architecture Platform & data solutions. WebLogic, OpenShift, Kubernetes, TomCat, JBoss, Mobile AWS Google Cloud Platform VMWare and VMC Tivoli Access Manager Ping Atlassian Bitbucket Jenkins Artifactory Ansible Selenium Elk NoSQL Data Engineering Spark Data Pipelines Feature Caching AI/ML
+Easy Apply
+QA Automation Architect
+Jobot  Austin, TX, USA
+Jobot company logo
+ Full-time
+ Posted 4 days ago - Updated 3 hours ago
+QA Automation Architect Opportunity - Help Build Out Automation Framework and Performance Frameworks from Scratch! This Jobot Job is hosted by: David DeCristofaro Are you a fit? Easy Apply now by clicking the "Apply Now" button and sending us your resume. Salary: $160,000 - $190,000 per year A bit about us: With over 30 years in business, we are a global leader in providing value-added services to niche markets. Our investors and leadership teams are comprised of successful Tech Entrepreneurs
+PEGA Tester&PEGA Test Lead- Full Time
+Themesoft Inc  Dallas, TX, USA
+Themesoft Inc company logo
+ Full-time, Part-time, Contract, Third Party
+ Posted 60+ days ago - Updated moments ago
+PEGA Tester & PEGA Test Lead - Full Time Locations : Dallas, TX/ Norfolk, VA / Minneapolis, MN / Bedford, MA / Remote Designation: Associate / Senior Associate / Manager Salary : Market "Primary Skill: PEGA, Selenium Automation Engineer Good communication skill Ability to work as a team player Ability to work with IT and business stakeholders to understand and analyze requirements Ability to perform test planning, test design and test execution Ability to use test management tool (HP ALM, QTes
+Easy Apply
+PeopleSoft CRM/HRMS/Finance
+TeknoSpar Inc.  Plano, TX, USA
+TeknoSpar Inc. company logo
+ Contract, Third Party
+ Posted 29 days ago - Updated 18 days ago
+Position: PeopleSoft CRM/HRMS/Finance Location: Plano, TX This role is responsible for collaborating with our business partners to shape the strategic roadmap of the Merchant Boarding Application that supports organizational transformation and leads the development of PeopleSoft CRM projects as defined in the project roadmap. The candidate should take a concept and drive it through technical implementation while managing changing priorities. In addition, this role must have the skills to devel
+Easy Apply
+Software Engineer
+Judge Group, Inc.  Dallas, TX, USA
+Judge Group, Inc. company logo
+ Full-time
+ Posted 35 days ago - Updated 4 hours ago
+Location: Dallas, TX Description: Our client is currently seeking a Senior Software Engineer Required Qualifications: **Focus Area: Node.js, AWS, React or Angular •5+ years of experience building applications using Node.js, React, Angular, Java script CSS/SCSS and HTML. •5+ years of experience in one of Cloud technologies - AWS. •5+ Experience developing with large microservice-based architectures, container orchestration frameworks: Kubernetes/Amazon EKS. •3+ years of experience in a da
+AWS Cloud Solutions Architect
+RedSalsa Technologies, Inc.  Austin, TX, USA
+RedSalsa Technologies, Inc. company logo
+ Contract, Third Party
+ Posted 16 days ago - Updated 1 hour ago
+Title : AWS Cloud Solutions Architect Location : Austin,TX Duration : 6 + Months Skills : Minimum Requirements: Years Skills/Experience 5 AWS Certified Solutions Architect - Professional 5 Cloud migration of existing applications 5 Spring framework 5 Java 5 JBoss EAP 5 HTML 5 5 Web Services REST and SOAP 5 Ant, Maven and Gradle 5 Okta 5 Azure Active Directory 5 SQL 5 Unit testing tools and frameworks (Junit, Selenium, etc) 3 Google reCAPTCHA Enterprise 3 LN – Threat Metrix 5 Skills in problem
+Easy Apply
+Sr.AEM Developer
+Systems Integration Solutions, Inc.  Austin, TX, USA
+Systems Integration Solutions, Inc. company logo
+ Third Party, Contract
+ Posted 48 days ago - Updated moments ago
+Looking for a AEM Developer for a direct client is Austin, TX . If interested please send your resume to Title: AEM DeveloperLocation: Austin, TX12+ months Atleast 5 years with AEM projects.Strong Java programming foundationExtensive hands on workflows, Sling servlet, REST, JSON, lucene indexing is must.Exposure to Coral / Granite UI, Adobe UI customization is a mustMust have worked on AEM 6.5 or newer versions.Working Experience with Sightly / Sling models .Strong understand of core AEM compone
+Easy Apply
+Solution /Enterprise Architect
+Esolvit, Inc.  Austin, TX, USA
+Esolvit, Inc. company logo
+ Contract, Third Party
+ Posted 22 hours ago
+Job Title: Solution /Enterprise Architect Location Austin ,TX Duration: Long-term contract Must be able to: work with Business Customers, Section Managers, Project Managers, Business Analysts and Subject Matter Experts (SMEs) in a professional and collaborative manner to define strategies and implementation approaches. design and use different architecture patterns including event driven model, microservices, messaging queue etc..present multiple architecture solution recommendations to meet
+Easy Apply
+Sr. QA Manager
+Jobot  Austin, TX, USA
+Jobot company logo
+ Full-time
+ Posted 5 days ago - Updated 3 hours ago
+Senior QA Manager Opportunity w/ Global Leader! Equity Offered! This Jobot Job is hosted by: David DeCristofaro Are you a fit? Easy Apply now by clicking the "Apply Now" button and sending us your resume. Salary: $170,000 - $190,000 per year A bit about us: With over 30 years in business, we are a global leader in providing value-added services to niche markets. Our investors and leadership teams are comprised of successful Tech Entrepreneurs, Professional Athletes, and other private investor
+SDET - Dallas/Austin, TX
+SPECTRAFORCE TECHNOLOGIES Inc.  Dallas, TX, USA
+SPECTRAFORCE TECHNOLOGIES Inc. company logo
+ Contract
+ Posted 24 days ago
+Job Title: SDET Duration: 12 months Location: Dallas/Austin, TX Responsibilities: Lead day-to-day support and monitoring activities .Author test cases in code using Selenium and/or SpecFlow frameworks.Lead and collaborate with the development team and business in writing the test cases.Prepare and deliver reports, recommendations, alternatives, workarounds to address potential issues.Ability to work on an Agile model and be able to work in onshore/offshore model, and be flexible to work with
+Easy Apply
+Senior Software Engineer
+7-Eleven, Inc.  Irving, TX, USA
+7-Eleven, Inc. company logo
+ Full-time
+ Posted 46 days ago - Updated 1 hour ago
+Overview Who we are Imagine working in a place where continuous improvement and innovation is celebrated and rewarded; where fast-paced, high-impact teams come together to positively drive results for one of the largest & most iconic brands in the world. As the only rapidly growing retailer, you may know us as your friendly neighborhood store. You probably know our familiar name, have seen our pervasive logo, and have tried our highly sought-after products, such as Slurpee® and Big Bite®. "Brain
+QA Automation Engineer ( Automation Engineer)
+Photon Infotech  Remote or Dallas, TX, USA
+Photon Infotech company logo
+ Full-time
+ Posted 34 days ago - Updated 8 days ago
+QA Automation Dallas, TX. Bachelor’s degree in a technical subject area, or equivalent experience Minimum of 5 years in Software Quality Engineering roles Experience working in Agile teams Proven technical skills (e.g. Javascript, Typescript, Jenkins, SQL, Postman, REST APIs) Experience in testing distributed applications and their interactions across microservices architectures Practical experience with test automation frameworks (e.g. Selenium, Appium, Cucumber, JEST) Solid understanding of CI
+Easy Apply
+SDET (Full Time - Permanent )
+Net2Source Inc.  Austin, TX, USA
+Net2Source Inc. company logo
+ Full-time
+ Posted 41 days ago - Updated moments ago
+Net 2 Source Inc. is an award-winning total workforce solutions company recognized by Staffing Industry Analysts for our accelerated growth of 300% in the last 3 years with over 5500+ employees globally, with over 30+ locations in the US and global operations in 32 countries. We believe in providing staffing solutions to address the current talent gap Right Talent Right Time Right Place Right Price and acting as a Career Coach to our consultants. Job Title: SDET Work Location: Austin, TX Typ
+Easy Apply
+POS QA Tester POS pod
+Intellyk  San Diego, TX, USA
+Intellyk company logo
+ Full-time, Part-time, Contract, Third Party
+ Posted 10 days ago - Updated 3 hours ago
+Role: POS QA Tester / Analyst / Support POS pod (Initially Remote) Location: San Diego, CA Job Description: Client POS Pod needs someone with QA experience to help the POS team with testing. The candidate must be in San Diego and willing to be in the office every day. QA with experience specifically in POS QA for our POS Pod. 5+ years of QA experience Professional experience in POS QA Driving testing methodology and tools to support agile development lifecycles. Development and execution of te
+Easy Apply
+Site Reliability Engineer
+Infinity Consulting Solutions  Houston, TX, USA
+Infinity Consulting Solutions company logo
+ Full-time
+ Posted 49 days ago - Updated moments ago
+TITLE: Site Reliability Engineer Location: Houston, TX Requirements: Learning mindset with ability to continuously identify problems and collaborate with the team to fix them. Ability to build, run, and own your own code and tools. Working knowledge of a continuous integration and delivery pipeline. C++ (11,14,17), STL, SQL, Angular, PHP. AWS/Cloud practitioner. Object Oriented Concepts. Linux/Windows. Good communication skills and be a team player. Good problem-solving and troubleshooting skil
+DevOps Engineer
+Jobot  Dallas, TX, USA
+Jobot company logo
+ Full-time
+ Posted 6 days ago - Updated 3 hours ago
+This Jobot Job is hosted by: Nora Rivera Are you a fit? Easy Apply now by clicking the "Apply Now" button and sending us your resume. Salary: $115,000 per year A bit about us: Title: DevOps Engineer Location: Remote Job Type: Direct Hire We are a Health and Wellness company focused on helping our members thrive by helping them stay connected and active. We have been growing consistently over the past couple of years, expanding our service area across the nation. We have a very collaborative,
+Peoplesoft CRM Developer
+Info Dinamica Inc  Plano, TX, USA
+Info Dinamica Inc company logo
+ Contract, Third Party
+ Posted 60+ days ago - Updated 7 days ago
+Software Engineering / PeopleSoft This role requires a wide variety of strengths and capabilities, including: BS/BA degree or equivalent experienceAdvanced knowledge of application, data, and infrastructure architecture disciplinesUnderstanding of architecture and design across all systemsWorking proficiency in developmental toolsetsKnowledge of industry-wide technology trends and best practicesAbility to work in large, collaborative teams to achieve organizational goalsPassionate about building
+Easy Apply
+Peoplesoft Technical Consultant
+Concept Software & Services, Inc.  Plano, TX, USA
+Concept Software & Services, Inc. company logo
+ Contract, Full-time
+ Posted 40 days ago - Updated moments ago
+Required Skills: * Minimum 7+ years' experience in PeopleCode hands-on coding including screen customizations including Component Interface, Application Engine Integration Broker, Web Services, Advanced XML, XSLT and REST Services, Micro services, Distributed Systems and Cloud * Minimum 7+ years' experience with PeopleSoft CRM / HRMS Modules and in Oracle, PL/SQL including triggers, stored procedures, queries, etc. (Oracle 12c/ 19c) * Proficiency in one or more general purpose programming langu
+Easy Apply
+Test Automation Architect
+Ness USA inc.  Remote or Dallas, TX, USA
+Ness USA inc. company logo
+ Full-time
+ Posted 5 days ago - Updated 3 hours ago
+Ness is a full lifecycle digital engineering firm offering digital advisory through scaled engineering services. Combining our core competence in engineering with the latest in digital strategy and technology, we seamlessly manage Digital Transformation journeys from strategy through execution to help businesses thrive in the digital economy. As your tech partner, we help engineer your company’s future with cloud and data. For more information, visit .ness.com Responsibilities: Subject matter ex
+Easy Apply
+AWS Cloud Solutions Architect
+Luna Data Solutions, Inc.  Austin, TX, USA
+Luna Data Solutions, Inc. company logo
+ Contract
+ Posted 14 days ago
+Luna Data Solutions is currently seeking a Software Engineer/Cloud Architect to join the Applications Development and Maintenance (ADM) team. ADM develops applications and information systems that support the client’s critical business operations. We work in collaboration with the client’s business areas to create and maintain automated applications which best serve their evolving needs. Perform advanced computer programming work with client to develop web applications for clients’ external user
+Easy Apply
+Sr. SDET
+Charles Schwab & Co., Inc.  Westlake, TX, USA
+Charles Schwab & Co., Inc. company logo
+ Full-time
+ Posted 60+ days ago - Updated 4 hours ago
+Your Opportunity We believe that, when done right, investing liberates people to create their own destiny. We are driven by our purpose to champion every client's goals with passion and integrity. We respect and appreciate the diversity of our employees, our clients, and the communities we serve. We challenge conventions strategically to bring value to our clients, our firm and the world. We live and bring to life the concept of 'own your tomorrow' every day. We champion our employee strengths,
+QA Automation Lead
+ValueLabs, Inc.  Houston, TX, USA
+ValueLabs, Inc. company logo
+ Third Party
+ Posted 60+ days ago - Updated 2 days ago
+Primary Skill Set Strong working experience on Web application testing, with a test to break attitude, out of the box thinking abilityProven track record in delivering testing cycles within tight deadlinesGood working experience Agile Scrum and JIRA (at least 6 years)Excellent Analytical skills and resourcefulnessExcellent communication skillsHands on experience in Website automation (using Selenium with C# and/or Java)Working experience on US HealthcareSecondary Skill Set HIPAA, PHI, PII and In
+Easy Apply
+AWS Tester, Houston, TX ( onsite from day 1 with hybrid mode of working. 12+ Months contract
+Infomerica, Inc  Houston, TX, USA
+Infomerica, Inc company logo
+ Contract, Third Party
+ Posted 12 days ago
+Hi, Please find the below role we are working. Please let us know your interest. Role 1 : AWS Tester Location: Houston, TX ( onsite from day 1) and 12+ Months contract 1.Knowledge and working experience of testing In AWS 2. Experience with Test and writing automation scripts for AWS server less and Lambda functions / API / AWS Fargate. 3 . Knowledge of selenium 4 . Knowledge of testing java applications 5. Experience with test plan creation and test data gathering from cloud database.
+Easy Apply
+Senior AWS Solutions Architect Lead
+Request Technology, LLC  Plano, TX, USA
+Request Technology, LLC company logo
+ Full-time
+ Posted 26 days ago - Updated 1 day ago
+We are unable to sponsor for this permanent full-time role Position is bonus eligible Prestigious Enterprise Company is currently seeking a Senior AWS Solutions Architect Lead. Candidate will collaborate with other Enterprise Architect leads to assure that the company's Platforms are aligned with EA vision, roadmap, principles, and guidelines and can enable software engineering teams and solution architects to deliver on business outcomes. Candidate will define and implement Reference architectu
+Easy Apply
+QA Automation Engineer
+VDart, Inc.  Plano, TX, USA
+VDart, Inc. company logo
+ Third Party, Contract
+ Posted 60+ days ago - Updated moments ago
+VDart Inc is the leading global provider of digital solutions, products and talent management company providing digital technology solutions in Automotive, Manufacturing, Energy & Utilities and Healthcare Industries. Led by a strong global team located across 10 countries including USA, Canada, Mexico, Brazil, UK, Japan, Australia & India. We are currently accepting applications from staffing firms for our Preferred Partner Program, where we align niche staffing firms with specific verticals bas
+Easy Apply
+Frontend Developer
+SPECTRAFORCE TECHNOLOGIES Inc.  Westlake, TX, USA
+SPECTRAFORCE TECHNOLOGIES Inc. company logo
+ Contract
+ Posted 5 days ago
+Frontend Developer Westlake, TX| Durham, NC| Boston, MA| Merrimack, NH| Jersey City, NJ| Smithfield, RI | Salt lake City, UT | Covington, KY | Denver, CO – Initially remote till pandemic 18+ months W2 Only Required Skills: 1. Angular 2. Node.JS 3. Typescript Additional “nice to have” Skills: GraphQL, AWS Certification, Working extensively in AWS The Expertise and Skills You Bring 6+ years of professional experience developing publicly available Web applications using JavaScript or JavaScript
+Easy Apply
+Automation Test Architect
+Wipro Ltd.  Dallas, TX, USA
+Wipro Ltd. company logo
+ Full-time
+ Posted 6 days ago
+Role Name: Automation Test Architect Location: Dallas TX // Sanantonio TX Type: Fulltime • Essential Skill: Test Automation • Location: Dallas/ SanAntonio • JD: Below is the role description, please review and let me know if you have any comments 1. Introductory Summary: Automation Test Architect (ATAs) are engaged in all phases of the software development lifecycle which include automation of iteration, system, e2e testing phases. , ATAs will be responsible for architecting Automation solution
+Easy Apply
+Java Developer
+Infinity Consulting Solutions  Plano, TX, USA
+Infinity Consulting Solutions company logo
+ Full-time
+ Posted 6 days ago - Updated moments ago
+Java Developer Plano, TX Contract to Hire - W2 Strong RDBMS understanding Solid understanding of Service Oriented Architecture (SOA) principles. Java-related experience with REST/JSON/XML Web APIs Development experience. Spring MVC, Spring Data, Spring Security Testing frameworks - Cucumber, Selenium, Junit. Must have practical experience with unit testing including deep understanding of Mock Testing Frameworks like EasyMock or Mockito Broad and deep understanding of multiple application server
+Local to TX || Sr Java Developer with AWS Certified Solution Architect Professional
+Voluble Systems LLC  Austin, TX, USA
+Voluble Systems LLC company logo
+ Third Party
+ Posted 14 days ago - Updated 1 day ago
+Hi, Kindly find the JD mentioned below, Role: Sr Java AWS Certified Consultant Location: Austin, TX (Should be anywhere in TX) Position is remote Duration: 12+ Month Client: State of TX JOB DESCRIPTION: Texas Workforce Commission (TWC) requires the services of one (1) Cloud Solutions Architect, hereafter referred to as Worker(s), who meet the general qualifications of an ITSAC Cloud Solutions Architect, Level 2 and the specifications outlined in this document for the Texas Workforce Commi
+Easy Apply
+SDET (Mobile Testing) Opportunity up to 55hr!
+Motion Recruitment  Dallas, TX, USA
+Motion Recruitment company logo
+ Full-time
+ Posted 60+ days ago - Updated 3 hours ago
+A healthcare company is looking to add a Mid-level/Senior SDET to their growing team. The role involves web, mobile and iOS testing therefore the right individual will have ample experience using mobile automation tools. Additionally, there will be mix of API automation as well as manual testing. Must reside in Dallas, TX or near Buffalo Grove, IL as the role is remote to start but will eventually need to go into the office in a hybrid format. Required Skills & Experience 3 years of automation
+Senior Software Test Automation Engineer
+Wolters Kluwer  Coppell, TX, USA
+Wolters Kluwer company logo
+ Full-time
+ Posted 10 days ago - Updated 4 hours ago
+ESSENTIAL DUTIES AND RESPONSIBILITIES Design, implement, and execute automated testing suites on the C#/.NET/SQL Server technology stack.Design, build, and test high quality reusable automated test harnesses and modules.Develop and support automated unit, system, performance, and load test harnesses and modules.Experience contributing to the delivery of high quality products on time while working on Agile Teams and following Agile + SAFe methodologies.Individual tasks within a work team, using t
+Mainframes/Automation Tester
+SPECTRAFORCE TECHNOLOGIES Inc.  Westlake, TX, USA
+SPECTRAFORCE TECHNOLOGIES Inc. company logo
+ Contract
+ Posted 27 days ago
+W2 Only Special Instructions: This will be a hybrid role after covid restrictions are lifted.Biggest thing is SWET/SDET/Automation Test who creates scripts from scratch using Java and Selenium, who has Mainframe skills is the win.Top Skills: Testing and automation experience (every day – automating modernization work that the squad brings in)Mainframe skills (online and batch knowledge)Little bit of Java (Core Java) for automation purposesDatabase validations using SQLMainframe skills are going
+Easy Apply
+Senior SDET
+Yoh - A Day & Zimmerman Company  Dallas, TX, USA
+Yoh - A Day & Zimmerman Company company logo
+ Contract
+ Posted 11 days ago - Updated 7 hours ago
+Cypress SDET Contract to Hire 100% Remote (W2 ONLY, NO C-C) Responsibilites: Work in a fast-paced, agile product environment with small, focused teams Design test cases and execute all types of testing (e.g. functional, integration, end-to-end) Produce test estimates for testing activities Conduct test case reviews and ensure requirements traceability, proper coverage Write code to perform automated tests Share knowledge and help build skills of other team members Requirements Experien
+Software Development Engineer
+Charles Schwab & Co., Inc.  Westlake, TX, USA
+Charles Schwab & Co., Inc. company logo
+ Full-time
+ Posted 18 days ago - Updated 4 hours ago
+Your Opportunity We help our clients plan for their future and they are passionate about the tools and experiences we provide. We collaborate with user experience and design, business and technology partners across the enterprise to build software experiences our users' are passionate about. What you are good at Job Description : Work with Product team to review business requirements and define functional specifications using Agile methodologies. Quality assurance testing of Smart Processing
+SR. Guidewire Test Engineer
+Net2Source Inc.  San Antonio, TX, USA
+Net2Source Inc. company logo
+ Contract
+ Posted 54 days ago - Updated moments ago
+Net 2 Source Inc. is an award-winning total workforce solutions company recognized by Staffing Industry Analysts for our accelerated growth of 300% in the last 3 years with over 5500+ employees globally, with over 30+ locations in the US and global operations in 32 countries. We believe in providing staffing solutions to address the current talent gap Right Talent Right Time Right Place Right Price and acting as a Career Coach to our consultants. SR. Guidewire Test Engineer Location: San An
+Easy Apply
+QA and Testing
+Cogent Data Solutions Llc  Austin, TX, USA
+Cogent Data Solutions Llc company logo
+ Contract, Third Party
+ Posted 21 hours ago - Updated 3 hours ago
+CANDIDATE SKILLS AND QUALIFICATIONS: Minimum Requirements: Candidates that do not meet or exceed the minimum stated requirements (skills/experience) will be displayed to customers but may not be chosen for this opportunity. Years Required/Preferred Experience 8 Required Experience/knowledge of the principles, practices, and techniques of software development and the full software development life cycle (SDLC), including knowledge of industry accepted software engineering practices and life cycle
+Easy Apply
+JavaScript Developer
+Infinity Consulting Solutions  Plano, TX, USA
+Infinity Consulting Solutions company logo
+ Full-time
+ Posted 6 days ago - Updated moments ago
+JavaScript Developer Plano, TX Contract to Hire - Hybrid OnSite/Remote •Proficiency in multiple modern programming languages including JavaScript, and React or Angular. •Knowledge of industry-wide technology trends and best practices •Keen understanding of financial control and budget management •Ability to work in large, collaborative teams to achieve organizational goals •Passionate about building an innovative culture •Very good knowledge on JSON/AJAX/HTML/CSS along with object oriented Java
+AEM Developer/Architect
+Net2Source Inc.  Austin, TX, USA
+Net2Source Inc. company logo
+ Contract, Full-time
+ Posted 21 days ago - Updated moments ago
+Net2Source Inc. is an award-winning total workforce solutions company recognized by Staffing Industry Analysts for our accelerated growth of 300% in the last 3 years with over 5500+ employees globally, with over 30+ locations in the US and global operations in 32 countries. We believe in providing staffing solutions to address the current talent gap - Right Talent - Right Time - Right Place - Right Price and acting as a Career Coach to our consultants. If you are interested, please reply with b
+Easy Apply
+Front End Developer
+Randstad Technologies  Trophy Club, TX, USA
+Randstad Technologies company logo
+ Contract
+ Posted 2 days ago - Updated 1 hour ago
+job summary: Fidelity TalentSource is your destination for discovering your next temporary role at Fidelity Investments. We are currently sourcing for a Front End Developer to work in Westlake, Texas! The Role Are you interested in serving the needs of millions of customers by building the best-in-class digital experience that helps them in financial planning, investing, and retirement solutions? Our chapter comprises teams that work on a wide range of applications and platforms like Fidelity.c
+.Net Solution Architect
+HireBlazer  Austin, TX, USA
+HireBlazer company logo
+ Third Party, Contract
+ Posted 1 day ago - Updated 2 hours ago
+Role: .Net Solution Architect Location: Austin, TX Contract: 4+ Months (3 Years Ext) Note: Onsite Requirement: More in office attendance is being required but most work will be performed remotely. Onsite and remote attendance will be directed/coordinated by the Direct Supervisor Job Description: Work with the cross-functional business team to understand business problem and draw best solution. Analyze and research architecture patterns, design and implement software modifications keeping CPA
+QA Automation Engineer
+Infinity Consulting Solutions  Plano, TX, USA
+Infinity Consulting Solutions company logo
+ Full-time
+ Posted 47 days ago - Updated moments ago
+Automation Engineer Plano TX CTH 3-5 years' experience as a Automation Engineer creating new Component level automation Experience working on automation frameworks using java, python or a similar language Solid knowledge of SQL and web (micro) services consumption Experience doing performance test using blazmeter ,jmeter etc Experience with API test automation frameworks against well-known protocols (REST, SOAP, etc) Experience with UI test automation frameworks (Selenium, Cypress, etc.) Strong
+Functional Test Engineer
+Analysts International  Dallas, TX, USA
+Analysts International company logo
+ Third Party
+ Posted 45 days ago - Updated 29 days ago
+Functional Test Engineer Hybrid (Atlanta, Dallas ( Best Option is Atlanta)) – Need Locals or Need to Work in Dallas or Atlanta Note: Need Locals or nearby candidates who can relocate Job Description; Primary skills are SQL, UNIX and API testing, automation is just added advantage. Person should be located in Atlanta, Dallas ( Best Option is Atlanta)Person should have testing backgroundPerson should have good skills in both Oracle or UnixAmdocs experience or telecom background is a plusAuto
+Easy Apply
+Software Engineer
+Collabera  Dallas, TX, USA
+Collabera company logo
+ Contract
+ Posted 1 day ago - Updated 1 hour ago
+REMOTE Position Details: Job Title: Project Manager Location: Remote Duration: 12 months Contract Only Job Description:One will be responsible for working with the IT Development and Product Development teams to ensure requirements and quality metrics are being met and achieved on time and within budget.You will be involved in all levels of SDLC process to ensure quality processes are being followed and the best quality products and outcomes are produced.Your day to day acti
+Easy Apply
+Mobile Automation Engineer
+Net2Source Inc.  Irving, TX, USA
+Net2Source Inc. company logo
+ Contract
+ Posted 57 days ago - Updated moments ago
+Net 2 Source Inc. is an award-winning total workforce solutions company recognized by Staffing Industry Analysts for our accelerated growth of 300% in the last 3 years with over 5500+ employees globally, with over 30+ locations in the US and global operations in 32 countries. We believe in providing staffing solutions to address the current talent gap Right Talent Right Time Right Place Right Price and acting as a Career Coach to our consultants. Role: Mobile Automation Engineer Location: I
+Easy Apply
+Automation Engineer
+Pyramid Consulting, Inc.  Dallas, TX, USA
+Pyramid Consulting, Inc. company logo
+ Contract
+ Posted 59 days ago - Updated 7 days ago
+Immediate need for a talented Automation Engineer with our leading Technology company that powers the global travel industry. This is a 12+ Months Contract opportunity with long-term potential and is located in Dallas, TX. Please review the job description below. Job ID: 22-14479 Hybrid Role (Remote+ Onsite) DUTIES/RESPONSIBILITIES: SAP Automation EngineerImplementing SAP brim, long term projectsUFT for Automation is requiredAlso has alternative exp. with SAP automation tools like UIpath or
+Easy Apply
+.NET Architect
+NHRG, Inc.  Austin, TX, USA
+NHRG, Inc. company logo
+ Contract, Third Party
+ Posted 21 hours ago
+The selected contractor(s) will be required to come in person to Austin, TX to obtain REMOTE equipment, badge and initial assignments. Candidates must be based in Texas. The Candidate will perform highly advanced design and development work as part of the Administrative Application’s project team(s) with direction and guidance from the Scrum Master and Applications Services Management. The primary responsibility of this position is to work with Product Owners, Scrum-masters, and internal/exte
+Easy Apply
+DevOps Pipeline Engineer
+NTT DATA, Inc.  Remote or Plano, TX, USA
+NTT DATA, Inc. company logo
+ Contract
+ Posted 6 days ago - Updated moments ago
+Job Description: Responsibilities: - 5 years leveraging CI/CD/DevOps related toolsets and processes (Git, Jenkins, Maven, Ant) - Configure best practice system monitoring and alerting, including early watch reports and automated monitoring - Experience with Unit Testing Frameworks using Junit - Knowledge or Experience working with Log Monitoring and APM applications such as Splunk, ELK, DataDog etc. Basic Qualifications: Technology Architectures Architecture Design Operations Architectures Mu
+Easy Apply
+QA automation Lead
+Net2Source Inc.  Austin, TX, USA
+Net2Source Inc. company logo
+ Full-time
+ Posted 7 days ago - Updated moments ago
+Net2Source Inc. is an award-winning total workforce solutions company recognized by Staffing Industry Analysts for our accelerated growth of 300% in the last 3 years with over 5500+ employees globally, with over 30+ locations in the US and global operations in 32 countries. We believe in providing staffing solutions to address the current talent gap - Right Talent - Right Time - Right Place - Right Price and acting as a Career Coach to our consultants.If you are interested please reply with the
+Easy Apply
+Sr. Java Full Stack Developer
+Hallmark Global Technologies  Dallas, TX, USA
+Hallmark Global Technologies company logo
+ Contract, Third Party
+ Posted 7 days ago - Updated 20 hours ago
+Title: Sr. Java Full Stack DeveloperLocation: Fort Worth, TX (Hybrid)Duration: 6+ months Job Description:Bachelor’s degree in Computer Science, Computer Engineering, Technology, Information Systems (CIS/MIS), Engineering or related technical discipline, or equivalent experience/training3 years of full Software Development Life Cycle (SDLC) experience designing, developing, and implementing large-scale applications in hosted production environments3 years of professional, design, and open-source
+Easy Apply
+Java Developer
+NICE Systems  Richardson, TX, USA
+NICE Systems company logo
+ Full-time
+ Posted 19 days ago - Updated 6 hours ago
+Position at NICE Software EngineerNICE Systems is currently seeking a dynamic individual with high energy and drive to join Work Force Management (WFM) software development team as a Senior Software Engineer. This engineer will primarily focus on the development of server- side component design, development, testing and implementation. Experience with client side development is a plus. Responsibilities Design and develop quality, proficient and well documented technical solutions that satisfy
+Enterprise Architect 2
+My3Tech  Austin, TX, USA
+My3Tech company logo
+ Third Party, Contract
+ Posted 20 hours ago - Updated moments ago
+Candidate must be on Austin, TX II. CANDIDATE SKILLS AND QUALIFICATIONS(On site ) Minimum Requirements: Candidates that do not meet or exceed the minimum stated requirements (skills/experience) will be displayed to customers but may not be chosen for this opportunity. Years Required/Preferred Experience 7 Required Experience with analyzing and researching Microsoft based architecture patterns 7 Required Experience with designing and architecting robust solutions with event driven development
+Easy Apply
+Enterprise Architect
+Cogent Data Solutions Llc  Austin, TX, USA
+Cogent Data Solutions Llc company logo
+ Contract, Third Party
+ Posted 21 hours ago - Updated 3 hours ago
+CANDIDATE SKILLS AND QUALIFICATIONS Minimum Requirements: Candidates that do not meet or exceed the minimum stated requirements (skills/experience) will be displayed to customers but may not be chosen for this opportunity. Years Required/Preferred Experience 7 Required Experience with analyzing and researching Microsoft based architecture patterns 7 Required Experience with designing and architecting robust solutions with event driven development 7 Required Experience with full-stack .NET based
+Easy Apply
+User Acceptance Tester
+Net2Source Inc.  Dallas, TX, USA
+Net2Source Inc. company logo
+ Contract
+ Posted 60+ days ago - Updated moments ago
+Net 2 Source Inc. is an award-winning total workforce solutions company recognized by Staffing Industry Analysts for our accelerated growth of 300% in the last 3 years with over 5500+ employees globally, with over 30+ locations in the US and global operations in 32 countries. We believe in providing staffing solutions to address the current talent gap Right Talent Right Time Right Place Right Price and acting as a Career Coach to our consultants. If you are interested please reply with below
+Easy Apply
+SDET/Test Automation Engineer
+Estrobees Technology Inc  Remote or Dallas, TX, USA
+Estrobees Technology Inc company logo
+ Contract
+ Posted 35 days ago - Updated moments ago
+Estrobees is a technical staffing company in the US aiming to place the right candidates to meet clients business objectives promising growth for candidates and companies. Estrobees' employees can spend their entire career at Estrobees doing challenging, rewarding work and reach their desired level of achievement and responsibility. We offer the opportunity to move up, without the obligation to move out of a position where one excels. We are committed to our employee's success; however, they def
+Easy Apply
+Core Java Developer
+Infinity Consulting Solutions  Plano, TX, USA
+Infinity Consulting Solutions company logo
+ Full-time
+ Posted 47 days ago - Updated moments ago
+Java Developer Plano TX CTH Bachelor's degree in Computer Science or equivalent Strong Communication Skills Minimum 5+ years of Java/JEE design and development skills. Must have strong analysis (both requirements and system) and design skills. Expertise in application, data and infrastructure architecture disciplines. Strong experience with performance testing, performance test tools, investigation and resolution. Expertise in spring, Hibernate, MQ, Java Multithreading, Security and Performance,
+MID .net\/C# Developer
+Apex Systems  Austin, TX, USA
+Apex Systems company logo
+ Full-time
+ Posted 12 days ago - Updated 6 hours ago
+Mid-Level .Net Developer 100% Remote 18 Month Contract What You're Good At: Collaborate with product owners and business partners to define strategy and scope of software requirements (decompose narratives, design features, and prioritize tasks) Deliver new concepts and features, working alongside development peers in an agile environment Serve as an informal leader: leading code reviews and mentoring junior team members Partner with scrum master and product owner to build development sizing & c
+Easy Apply
+QA Associate/Analyst- local for texas
+TexcelVision Inc.  Austin, TX, USA
+TexcelVision Inc. company logo
+ Third Party, Contract
+ Posted 20 hours ago - Updated moments ago
+Performs software quality assurance, testing, and support for TIERS, YourTexasBenefits.com, YourTexasBenefits Mobile App, State Portal, Workflow Management, Eligibility Web Services, Enterprise Document Services, Enterprise Content Management, Document Center, Call Center Inquiry, and other Social Services applications. Develop, enhance, maintain, and execute existing and new test plans and scenarios for performing software quality assurance of the various web-based J2EE/Portal applications with
+Easy Apply
+Guidewire ClaimCenter Developer
+OpenTeQ Inc  Dallas, TX, USA
+OpenTeQ Inc company logo
+ Full-time
+ Posted 60+ days ago - Updated 12 days ago
+Remote - direct hire fulltime role Role: Guidewire Developer Locations: Los Angeles, CA OR Dallas, TX Work Model: REMOTE with couple of days a month at office for meetings and collaboration Relocation assistance provided H1b candidates also eligible (must have 5+ years of exp) Guidewire Developer Provide technical leadership and development of Insurance Claims system projects.Devise or modify technical solutions to solve problems.Design, code, test, debug and document programs.Collaborate with
+Easy Apply
+Front End Software Engineer
+Apex Systems  Austin, TX, USA
+Apex Systems company logo
+ Full-time
+ Posted 60+ days ago - Updated 6 hours ago
+Title: Sr Front End Software Engineer Location: Austin, TX (Hyrbid) Type: 6-12 month contract to hire Shift: M-F (40 hr/week) Number of Openings: 1 Eligible to enroll in Apex benefits during contract period Hours worked = hours paid during contract period Day to Day Responsibilities: Identifies and manages existing and emerging risks that stem from business activities and the job role. Ensures risks associated with business activities are effectively identified, measured, monitored, and controll
+Easy Apply
+Java Engineer / Major Entertainment Company
+Motion Recruitment  Dallas, TX, USA
+Motion Recruitment company logo
+ Full-time
+ Posted 28 days ago - Updated 4 hours ago
+A global entertainment company is hiring a Senior Java Platform Engineer to build out AWS based applications. You'll work on a team critical to the success of the company, applying your knowledge in public cloud, microservices, and streaming. The ideal candidate has a background in core Java building applications at scale with a knack for modern processes, especially around testing, automation and deployment strategy for their AWS-based applications. Tools like Terraform, Docker, and Jenkins are
+Sr. .net\/C# Developer
+Apex Systems  Austin, TX, USA
+Apex Systems company logo
+ Full-time
+ Posted 12 days ago - Updated 6 hours ago
+Sr .Net Developer 100% Remote 18 Month Contract What You're Good At: Collaborate with product owners and business partners to define strategy and scope of software requirements (decompose narratives, design features, and prioritize tasks) Deliver new concepts and features, working alongside development peers in an agile environment Serve as an informal leader: leading code reviews and mentoring junior team members Partner with scrum master and product owner to build development sizing & cost ana
+Easy Apply
+Sr QA (Automation)
+InfoVision, Inc.  Plano, TX, USA
+InfoVision, Inc. company logo
+ Contract, Third Party
+ Posted 60+ days ago - Updated 3 days ago
+Title: Sr QA (Automation) Location: Dallas, TX NEED LOCALS ONLY….HYBDRID MODEL LOOKING FOR STONG AUTOMATION / SELINIUM EXPERINCE ALONG WITH RETAIL INDUSTRY EXPERINCE Qualifications & Competencies: 7 or more years of experience designing and creating Test Case scenarios, testing software and validating data.3 or more years of experience with SQL and stored procedures in various databases (SQL Server, Sybase, DB2).Proficient end-to-end understanding and experience with knowledge of system
+Easy Apply
+Peoplesoft Systems Developer
+Princeton IT Services  Plano, TX, USA
+Princeton IT Services company logo
+ Third Party, Contract
+ Posted 60+ days ago - Updated 1 hour ago
+As a Peoplesoft Systems Developer, you will maintain our company's established computing environment through your work. You will identify related Peoplesoft system requirements and install the relevant upgrades as needed. You will also monitor the system's performance to ensure smooth operations and upgrade implementation. Position: Peoplesoft Systems Developer Location: Plano,TX/Tampa, Florida Position Type: C2C/W2 Job length: long term Required skills: Minimum 7+years experience in PeopleC
+Easy Apply
+Full Stack Developer- Java
+Turnberry Solutions, Inc  Texas City, TX, USA
+Turnberry Solutions, Inc company logo
+ Full-time
+ Posted 11 days ago - Updated 4 hours ago
+Duration: 8 months Location: Dallas, TX (hybrid- onsite 1-2 days) Overview: Our Digital Innovation capabilities leverage digital technology and applications to improve existing business processes and workforce efficiency, enhance customer experience, and launch new products, services, or business models. As a Full Stack Developer, you will be a part of our Custom Development capability, a Digital Innovation service providing software and database architecture, and front to backend development.
+Java Engineer IV
+Charles Schwab & Co., Inc.  Austin, TX, USA
+Charles Schwab & Co., Inc. company logo
+ Full-time
+ Posted 2 days ago - Updated 4 hours ago
+Your Opportunity Schwab is transforming people lives by changing the way the world invests, and this is a unique opportunity to help shape the technical direction of our modernization and Cloud initiatives. We are recruiting to hire an experienced technologist as a Senior Automation Engineer for our Availability and Platform Support initiatives within the Container Platform Operations & Engineering. We are seeking a results-oriented technologist with a passion and proven track record for platfo
+SRE / Observability Architect
+Interra Information Tech  Houston, TX, USA
+Interra Information Tech company logo
+ Contract, Third Party
+ Posted 13 days ago - Updated 21 hours ago
+Lead the CI/CD/Site Reliability Engineer area for the groupDefine and enhance the Observability and Monitoring Maturity Model and help uplift maturity levelsContinuous improvement of DevOps/SRE tooling and processes to enable to deliver moreDefine and implement full plant monitoring patterns including business and technical SLI, SLO, SLAsLead onboarding of new applications and ensure reliability as per defined service levelsShould have extensive working knowledge of deployments on cloud, on-prem
+Easy Apply
+Software QA Engineer
+Charles Schwab & Co., Inc.  Austin, TX, USA
+Charles Schwab & Co., Inc. company logo
+ Full-time
+ Posted 5 days ago - Updated 4 hours ago
+Your Opportunity We believe that, when done right, investing liberates people to create their own destiny. We are inspired by our purpose to champion every client's goals with passion and integrity. We respect and appreciate the diversity of our employees, our clients, and the communities we serve. We challenge conventions strategically to bring value for our clients, our firm and the world. We live and bring to life the concept of 'own your tomorrow' every day. We champion our employee strength
+Software Engineering in Test
+Charles Schwab & Co., Inc.  Austin, TX, USA
+Charles Schwab & Co., Inc. company logo
+ Full-time
+ Posted 25 days ago - Updated 4 hours ago
+Your Opportunity The Retail Web Technology (RWT) organization is responsible for the development and maintenance of Schwab's extraordinary digital platform for retail clients - individual investors just like you. It is the engineering powerhouse that build and support Schwab.com (Billions of page views per month). On day-to-day basis, our engineers work on world-class scalability and stability challenges using cutting edge technology. We have a close-knit engineering community that support each
+QA Mobile Automation
+ValueLabs, Inc.  Houston, TX, USA
+ValueLabs, Inc. company logo
+ Third Party
+ Posted 60+ days ago - Updated 2 days ago
+• QE LEAD with Automation – 5+ years’ experience • Demonstrated experience in Leading and coordinating large enterprise projects • Experience in API automation using RestAssured/ReadyAPI or any other tool • Experience in Selenium with Java • Experience in test planning, test design, test strategy, test automation and test execution. • Strong knowledge of QA methodology and tools, with Demonstrated QA experience in an SDET or QAE role. • Practical coding experience with automated web test
+Easy Apply
+Sr. QA Engineer
+Charles Schwab & Co., Inc.  Westlake, TX, USA
+Charles Schwab & Co., Inc. company logo
+ Full-time
+ Posted 60+ days ago - Updated 4 hours ago
+Your Opportunity The Balance Position & Inquiry (BPI ) team is responsible for building applications for financial advisors. These solutions are essential to the success of the investment advisor and offer features such as client relationship management, portfolio accounting, trading, data integration, reporting and much more. AST offers a wide range of technology opportunities for the best and brightest people to grow and demonstrate their skills as they develop leading edge financial applica
+SRE / Observability Architect
+Infogain  Houston, TX, USA
+Infogain company logo
+ Contract, Third Party
+ Posted 19 days ago - Updated 17 days ago
+Lead the CI/CD/Site Reliability Engineer area for the groupDefine and enhance the Observability and Monitoring Maturity Model and help uplift maturity levelsContinuous improvement of DevOps/SRE tooling and processes to enable to deliver of moreDefine and implement full-plant monitoring patterns including business and technical SLI, SLO, SLAsLead onboarding of new applications and ensure reliability as per defined service levelsShould have extensive working knowledge of deployments on cloud, on-p
+Easy Apply
+.Net Developer Position with Direct Client Waste Control Specialist//only US Citigens//W2 Position.
+IFINSOL Global LLC  Dallas, TX, USA
+IFINSOL Global LLC company logo
+ Contract
+ Posted 12 days ago - Updated 4 days ago
+Hi, Hope you are doing well. This is Suresh Reddy, US IT Recruiter from IFIN Global. I just received a new requirement from one of our clients. Please find below the detailed job description and let me know if this is something that you have been looking for. Please share with me the suitable consultants on W2 along with Complete Details(s) Please Find the Attached JD Title - .Net DeveloperLocation - Dallas, TXPosition Type- ContractDuration - 12 months Client – Waste Control Specialist
+Easy Apply
+Remote Senior Automation Test Engineer
+Kforce Technology Staffing  Remote or Plano, TX, USA
+Kforce Technology Staffing company logo
+ Full-time
+ Posted 33 days ago - Updated 2 hours ago
+RESPONSIBILITIES: Kforce's client, a growing company in Plano, TX is seeking an experienced and Remote Senior Automation Software Test Engineer who will help build quality assurance (QA) test suites in our team. A qualified candidate will have thought deeply about the relationship between unit, integration, functional, and user-interface (UI) testing - along with how to leverage each for maximum results and minimal redundancy. You will automate a test suite in a modern CI/CD (continuous integrat
+Quality Assurance Lead Engineer
+Charles Schwab & Co., Inc.  Austin, TX, USA
+Charles Schwab & Co., Inc. company logo
+ Full-time
+ Posted 60+ days ago - Updated 4 hours ago
+Your Opportunity Enterprise Risk Engine is a part of the Schwab Enterprise Middleware and Online Security organization. This position will help to support the quality assurance efforts for our ERE teams that play a critical role in maintaining our third party software for fraud detection and prevention. Enterprise Risk Engine is looking for a Quality Assurance Lead Engineer that has substantial hands-on experience in Software Automation. The individual should be extremely conversant with automa
+Core Java - Advanced
+Judge Group, Inc.  Plano, TX, USA
+Judge Group, Inc. company logo
+ Full-time
+ Posted 42 days ago - Updated 4 hours ago
+Location: Plano, TX Description: Our client is currently seeking a Core Java - Advanced Strictly W2 employment-NO C2C Hybrid (2 days a week on site) Contract to Hire s and Permanent Only For this role you must have: Minimum 5+ years of Java/JEE design and development skills. Must have strong analysis (both requirements and system) and design skills. Expertise in application, data and infrastructure architecture disciplines. Strong experience with performance testing, performance test to
+Sr Specialist - Software Development & Engineering
+Charles Schwab & Co., Inc.  Austin, TX, USA
+Charles Schwab & Co., Inc. company logo
+ Full-time
+ Posted 33 days ago - Updated 4 hours ago
+Your Opportunity The Retail Web Technology organization provides a high quality, common platform for all Schwab clients including advisors, individuals, and active investors. Each Retail Web Technology engineering team is responsible for test strategy and planning, authoring test plans and scripts, and automating functional and regression testing as part of our goal to deliver best-in-class features on Schwab.com. In RWT, we strive to embody Schwab's Through Clients' Eyes strategy through our p
+PeopleSoft CRM Lead Developer based in Plano, TX it is Onsite role and a Contract Position
+RHP Soft Inc.  Plano, TX, USA
+RHP Soft Inc. company logo
+ Contract, Third Party
+ Posted 45 days ago - Updated 1 hour ago
+Hello, Greetings from RHP Soft Inc., We are looking for a PeopleSoft CRM Lead Developer based in Plano, TX it is Onsite role and a Contract Position. If interested, please share your resume at PeopleSoft CRM Lead Developer Plano, TX it is Onsite Contract Position Interview Mode:-1 Phone Screen- 1 round of skypeMinimum 10+ years’ experience in People code hands-on coding including screen customizations and PeopleSoft Business Models (People Tools 8.54+ )Minimum 10+ years’ experience with
+Easy Apply
+Frontend Developer
+SPECTRAFORCE TECHNOLOGIES Inc.  Remote or Westlake, TX, USA
+SPECTRAFORCE TECHNOLOGIES Inc. company logo
+ Contract
+ Posted 10 days ago
+Frontend Developer Westlake, TX(Initially remote till pandemic) or Fully 100% Remote 6+ Months W2 Only Overview: Building new web app, plus API work – this is a new front end app that is going to be used for research and training platforms. This person will be part of developing a Web product which will be on Angular Tech stack (Front End Engineer)Web Front End (consuming APIs only) not working on any API devPrefer them to have page styling and accessibility (CSS)Additional skills: If they hav
+Easy Apply
+SRE/DevOps Architect
+Nityo Infotech Corporation  Remote or Houston, TX, USA
+Nityo Infotech Corporation company logo
+ Contract, Third Party
+ Posted 12 days ago - Updated 2 hours ago
+Job Title: SRE Architect/DevOps Architect Location : Houston, TX (Remote till Covid) Description: 10+ years of experience in Architecting, Coding, DevOps, IaC and SRE Bachelor’s degree in computer science or other highly technical, scientific discipline Experience with Java, .Net or any other leading application development technologies. Working knowledge of DevOps / CI/CD tools & process (GIT/Bitbucket, Maven, Gradle, Jenkins, Sonar), Scripting languages (Python, Bash, Perl, PowerShell) Experie
+Easy Apply
+Automation Engineer - Java
+Infinity Consulting Solutions  Plano, TX, USA
+Infinity Consulting Solutions company logo
+ Full-time
+ Posted 60+ days ago - Updated moments ago
+QA Automation Engineer Plano, Texas Contract to Hire Hybrid Onsite / Remote EXPERIENCE: 3-5 years' experience as a Automation Engineer creating new Component level automation Experience working on automation frameworks using java, python or a similar language Solid knowledge of SQL and web (micro) services consumption Experience doing performance test using blazEmeter ,jmeter etc Experience with API test automation frameworks against well-known protocols (REST, SOAP, etc) Experience with UI
+Fullstack Java Developer
+Resolution Technologies  Dallas, TX, USA
+Resolution Technologies company logo
+ Full-time
+ Posted 60+ days ago - Updated 4 hours ago
+FULLSTACK JAVA DEVELOPER CAREER OPPORTUNITY Our client is currently seeking a dynamic individual with high energy and drive to join their Work Force Management (WFM) software development team. This Software Engineer will primarily focus on the development of server-side component design, development, testing, and implementation. Experience with client-side development is a plus. FULLSTACK JAVA DEVELOPER JOB DUTIES AND RESPONSIBILITIES Design and develop quality, proficient and well documented t
+Easy Apply
+Senior .NET Developer Full Stack- Remote
+Charles Schwab & Co., Inc.  Austin, TX, USA
+Charles Schwab & Co., Inc. company logo
+ Full-time
+ Posted 18 days ago - Updated 4 hours ago
+Your Opportunity At Schwab Retirement Plan Services, we seek to transform people's lives by changing the way the world invests and manages their own retirement accounts. We craft innovative investing solutions for the consumer on Main Street and take pride in our consumer-focused culture of quality and excellence. We are in the midst of re-architecting and rebuilding our core enterprise software platforms to support our rapidly growing and evolving business. Our software engineers are hands-on
+Senior Software Test Engineer
+Verifi, Inc.  Austin, TX, USA
+Verifi, Inc. company logo
+ Full-time
+ Posted 46 days ago - Updated 4 hours ago
+Verifi, Inc., a Visa company, is currently hiring for a dynamic and collaborativeSenior Software Test Engineer to join our company! The Senior Software Test Engineer position demands strong overall knowledge of both development and operation processes and testing principles with a particular strength in working with scalable highly available software systems. At Verifi, you will be part of a dynamic environment that supports interdepartmental collaboration, fuels creativity and provides you wit
+Software Development Engineer - Python
+Charles Schwab & Co., Inc.  Austin, TX, USA
+Charles Schwab & Co., Inc. company logo
+ Full-time
+ Posted 6 days ago - Updated 4 hours ago
+Your Opportunity Workplace Flexibility Program: We're proud to support our employees in a working approach that allows you to bring your best self to work - whether that's in the office or remote. Most Schwabbies have the opportunity to voluntarily work in the office or at home based on their preference * When the firm is ready to fully return to the office, employees will have the flexibility of a hybrid work environment, spending some time working remote and some time in the office. Employee
+Frontend Developer
+SPECTRAFORCE TECHNOLOGIES Inc.  Westlake, TX, USA
+SPECTRAFORCE TECHNOLOGIES Inc. company logo
+ Contract
+ Posted 25 days ago - Updated 13 days ago
+Frontend Developer Westlake, TX| Durham, NC| Boston, MA| Merrimack, NH| Jersey City, NJ| Smithfield, RI – Initially remote till pandemic 6+ Months W2 Only The Expertise We’re Looking for Proven expertise in architecting, developing multi-tier internet facing web and mobile applications, APIs.Expertise in developing detailed technical specifications, architecture for complex systems.Proven expertise in mentoring engineers, managing technology roadmaps and facilitating collaboration across tech
+Easy Apply
+Sr. Java Full Stack Developer
+Hallmark Global Technologies  Dallas, TX, USA
+Hallmark Global Technologies company logo
+ Contract
+ Posted 33 days ago - Updated 20 hours ago
+Required Qualifications Bachelor’s degree in Computer Science, Computer Engineering, Technology, Information Systems (CIS/MIS), Engineering or related technical discipline, or equivalent experience/training 3 years of full Software Development Life Cycle (SDLC) experience designing, developing, and implementing large-scale applications in hosted production environments 3 years of professional, design, and open-source experience Proficiency in Full Stack Development Proficiency and demonstrated
+Easy Apply
+Java Microservices Development
+American Tech Vision Solutions LLC  Remote or Houston, TX, USA
+American Tech Vision Solutions LLC company logo
+ Contract
+ Posted 33 days ago - Updated 20 hours ago
+Who are we looking for? A senior Architect with a minimum of 8 years’ of relevant architecture/design experience who can spearhead, manage the need of the architectural & design need for projects across the account. Technical Skills: ·Expertise in JAVA, Spring boot §Must have Java 8 experience. §Must have knowledge on containerization (Openshift experience is added advantage). §Must have hands-on and should be able to debug CICD Pipeline issues. §Knowledge of Splunk is must. §Knowledge of P
+Easy Apply
+Software Developer
+InfoIMAGE Inc.  Coppell, TX, USA
+InfoIMAGE Inc. company logo
+ Full-time
+ Posted 60+ days ago - Updated 19 days ago
+InfoIMAGE is currently seeking a qualified Software Developer to assist in developing a series of web applications and web services. This opportunity requires strong programming knowledge and skills with experience building solid, secure, scalable web applications for financial institutions as well as corresponding consumers. Summary: Understand business requirements from product marketing and translate into practical technical solutions Execute client implementation based on core product platfo
+Easy Apply
+
+Sr. Angular Developer
+InfiCare Technologies  Dallas, TX, USA
+InfiCare Technologies company logo
+ Full-time, Third Party, Contract
+ Posted 5 days ago - Updated moments ago
+Role: Sr. Angular Developer Location: Dallas TX Qualifications: Bachelor's degree (BA/BS) in a related field such as information systems, mathematics, or computer science or equivalent work experience. Requires technical and business knowledge in multiple disciplines/processes. Typically has 6 years of relevant work experience. Excellent written and verbal communication skills. Strong organizational and analytical skills. Ability to provide efficient, timely, reliable and courteous service to
+Easy Apply
+Software Development Engineer in Test
+Jobot  Austin, TX, USA
+Jobot company logo
+ Full-time
+ Posted 5 days ago - Updated 3 hours ago
+100% Remote / Contribute your test automation skills to a fast growing SaaS based test automation and deployment platform start-up company This Jobot Job is hosted by: Blake Williams Are you a fit? Easy Apply now by clicking the "Apply Now" button and sending us your resume. Salary: $80,000 - $100,000 per year A bit about us: We are fast a growing SaaS platform company dedicated to innovating and modernizing enterprise deployments and lowering risk through a world-class test automation platfo
+Get personalized job recommendations today!
+A Dice profile with customized IntelliSearch™ Alerts is the most effective way for you to discover the best tech jobs, tailored to your experience!
+Software Developer
+InfoIMAGE Inc.  Coppell, TX, USA
+InfoIMAGE Inc. company logo
+ Full-time
+ Posted 60+ days ago - Updated 19 days ago
+InfoIMAGE is currently seeking a qualified Software Developer to assist in developing a series of web applications and web services. This opportunity requires strong programming knowledge and skills with experience building solid, secure, scalable web applications for financial institutions as well as corresponding consumers. Summary: Understand business requirements from product marketing and translate into practical technical solutions Execute client implementation based on core product platfo
+Easy Apply
+Java Developer
+Infinity Consulting Solutions  Plano, TX, USA
+Infinity Consulting Solutions company logo
+ Full-time
+ Posted 6 days ago - Updated moments ago
+ICS is seeking a talented Java Developer for one of our clients in Plano, TX 10+ years of experience in information technology with an emphasis on application development, demonstrated experience with applications development throughout the entire development lifecycle. Bachelor's degree in Computer Science or similar technical degree Java Development: ability to create medium/large sized Java web applications from start to finish on their own. This includes but is not limited to the following:
+.Net Developer
+AgreeYa Solutions  Dallas, TX, USA
+AgreeYa Solutions company logo
+ Contract
+ Posted 11 days ago - Updated 22 hours ago
+My name is Manik and I'm a Talent Acquisition Specialist with AgreeYa Solutions. I recently came across your profile and would like to share an opportunity that could be a great fit for you. We’re currently looking to hire a .Net Developer for one of our clients based in Dallas, TX. I’d like set up brief call, based on your availability, to discuss this opportunity and share how AgreeYa can assist you in your next career move. Job Title Field: .Net Developer Location Field: On-Site Job Type:
+Easy Apply
+Exciting Opportunity for Principal Cloud Architect in Houston, TX (Hybrid)
+Siri Infosolutions Inc  Houston, TX, USA
+Siri Infosolutions Inc company logo
+ Full-time, Part-time, Contract
+ Posted 12 days ago - Updated 1 hour ago
+Role: Principal Cloud Architect Location: Houston,TX (Hybrid) Job Description Summary Client is seeking a Cloud Principal Architect to lead and drive the automation and deployment of Hybrid Cloud platforms and processes. The Cloud Principal Architect will work as a key player in the creation of our CI/CD pipeline frameworks for the federal cloud-based services. The Cloud Principal Architect will work within the Amazon and Azure cloud environments to build repeatable frameworks, tools, and se
+Easy Apply
+Full Stack Developer - Advanced
+Judge Group, Inc.  The Colony, TX, USA
+Judge Group, Inc. company logo
+ Full-time
+ Posted 60+ days ago - Updated 4 hours ago
+Location: The Colony, TX Description: Our client is currently seeking a Full Stack Developer Qualifications & Requirements: BA/BS Degree in Computer Science or equivalent experience 8+ years leading test automation experience with Java and web solutionsExpert hands-on experience developing cloud native micro services per architecture principals with REST API developmentSoftware development of microsevices with Java8, SpringBoot, and deployment in Cloud Platforms eg PCFExpert knowledge of Re
+Remote Lead Automation Software Test Engineer
+Kforce Technology Staffing  Remote or Plano, TX, USA
+Kforce Technology Staffing company logo
+ Full-time
+ Posted 17 days ago - Updated 2 hours ago
+RESPONSIBILITIES: Kforce's client, a growing Medical Device Company is seeking a Remote Lead QA Test Automation Engineer. We are working directly with the Hiring Manager on this exclusive search assignment. The company offers a competitive compensation package including base salary, annual bonus, and stock. This position is 100% remote. The Lead Test Automation Engineer will spearhead the test automation effort on the Company's Next Generation Medical Platform. You will be responsible for techni
+.NET Full Stack Web Developer IV - Remote
+Charles Schwab & Co., Inc.  Austin, TX, USA
+Charles Schwab & Co., Inc. company logo
+ Full-time
+ Posted 53 days ago - Updated 4 hours ago
+Your Opportunity At Schwab Retirement Plan Services, we seek to transform people's lives by changing the way the world invests and manages their own retirement accounts. We craft innovative investing solutions for the consumer on Main Street and take pride in our consumer-focused culture of quality and excellence. We are in the midst of re-architecting and rebuilding our core enterprise software platforms to support our rapidly growing and evolving business. Our software engineers are hands-on
+QA Test Lead
+Data Resource Technologies  Frisco, TX, USA
+Data Resource Technologies company logo
+ Contract
+ Posted 39 days ago - Updated 1 day ago
+A Sr. QA/QA Lead provides technical leadership for manual and automated testing. A successful candidate in this role will lead the automation test effort, provide technical leadership in design and architecture of automation frameworks, and ensure adoption of the frameworks in the organization. They should be an expert in modern testing techniques and tools, including automation. Demonstrate high productivity and effectively multi-tasks across different initiatives. RESPONSIBILITIES: • Ownership
+Easy Apply
+Java Cloud Developer
+Infinity Consulting Solutions  Plano, TX, USA
+Infinity Consulting Solutions company logo
+ Full-time
+ Posted 26 days ago - Updated moments ago
+Java Cloud Developer Plano Texas Contract to Hire Cloud Native Microservices - Java8, Spring Boot, Kafka, Cassandra, PCF, PCC, DevOps, Jmeter, Blazemeter • BS/BA Degree in Computer Science or equivalent experience • Design and development for modules and event driven microservices with Java, spring boot exposing restful web services • Hands-on experience developing cloud native micro services per architecture principals with REST API development • Software development of microsevices with Java8
+Java Cloud Developer
+Infinity Consulting Solutions  Plano, TX, USA
+Infinity Consulting Solutions company logo
+ Full-time
+ Posted 27 days ago - Updated moments ago
+Java Cloud Developer Plano Texas Contract to Hire Cloud Native Microservices - Java8, Spring Boot, Kafka, Cassandra, PCF, PCC, DevOps, Jmeter, Blazemeter • BS/BA Degree in Computer Science or equivalent experience • 8+ years leading design and development for modules and event driven microservices with Java, spring boot exposing restful web services • Expert hands-on experience developing cloud native micro services per architecture principals with REST API development • Software development of
+Solutions Architect
+Luna Data Solutions, Inc.  Austin, TX, USA
+Luna Data Solutions, Inc. company logo
+ Contract
+ Posted 1 day ago
+We have an exciting opportunity for an experienced .Net Solutions Architect in support of an amazing client in Austin, TX. The primary responsibility of .Net Solution Architect is to work with Product Owners, Scrum-masters, and internal/external stakeholders to provide the overall technology guidance and structure for creating and maintaining the .Net and web/micro service-based web applications. If selected, you will direct the front-end and back-end design of new applications from conception t
+Easy Apply
+Sr. SDET
+Apex Systems  Austin, TX, USA
+Apex Systems company logo
+ Full-time
+ Posted 34 days ago - Updated 6 hours ago
+Position Overview: We are looking for an experienced engineer responsible for developing digital strategy, offers, and experiences to drive the growth and loyalty of existing and prospective clients and accelerate the banks digital transformation. You will be part of the Digital Services team at the bank, focused on improving the customer journey for our clients. The journey model is insights-driven and focuses on rapid iterations to drive innovation and transformation. This is a unique opportun
+Easy Apply
+.NET Front-End Engineer
+Y & L Consulting Inc.  Austin, TX, USA
+Y & L Consulting Inc. company logo
+ Contract
+ Posted 18 days ago
+Position: .NET Front-End Engineer Solicitation#: 304135088 Client: Texas Comptroller of Public Accounts Location: 111 E 17th Street Austin, Texas 78711 The Candidate will perform highly advanced front-end development work as part of the Administrative Applications’ project team(s) with direction and guidance from Project Manager and Applications Services Management. The primary responsibility of this position is to work with Product Owners and internal/external stakeholders to create and maint
+Easy Apply
+QA Engr Mid-level (Software Dev II)
+Charles Schwab & Co., Inc.  Westlake, TX, USA
+Charles Schwab & Co., Inc. company logo
+ Full-time
+ Posted 60+ days ago - Updated 4 hours ago
+Your Opportunity The Balance Position & Inquiry (BPI ) team provides client channel systems with timely balance and position data via a centralized calculation logic and computation. A highly available, high performance system that has evolved to meet customer demands. BPI offers a wide range of technology opportunities for the best and brightest people to grow and demonstrate their skills as they develop leading edge financial applications. What you are good at The QA Automation Engineer wi
+SDET in Test Automation Area
+InfoVision, Inc.  Dallas, TX, USA
+InfoVision, Inc. company logo
+ Contract, Third Party
+ Posted 60+ days ago - Updated 3 days ago
+SDET in Test Automation Area Location: Dallas TX Job Description: • Strong SDET Experience of experience in developing and maintaining automation framework for Web/REST APIs based applications • Experience of Automation testing tools and technologies such as Java, Maven, Selenium, RestAssured. • Experience in BDD and TDD based automation frameworks like Cucumber, JBehave, TestNG • Developing scripts for E2E test automation for Integration flows. • Developing and maintaining Test Scripts, analy
+Easy Apply
+Senior Java Developer - 10+ Years Experience Required
+PeopleCorp America Inc  Austin, TX, USA
+PeopleCorp America Inc company logo
+ Contract, Third Party
+ Posted 43 days ago - Updated 3 hours ago
+Senior Java Developer - 10+ Years Experience Required Austin, TX 12+ Months Job Description: Our Direct Client is seeking an experienced, full-time, dedicated Candidate, with skills and expertise as described in below requirement. Responsibilities: The Consultant will perform the following activities to accomplish the following goals: Performs application development, enhancement, maintenance, and support for State Portal, Workflow Management, Eligibility Web Services, Family Violence Program, E
+Easy Apply
+SDET- Software Development Engineer in Test
+Charles Schwab & Co., Inc.  Austin, TX, USA
+Charles Schwab & Co., Inc. company logo
+ Full-time
+ Posted 59 days ago - Updated 4 hours ago
+Your Opportunity This position will be part of the Trading eXperience Technology team at Schwab, focused on improving the Trading experience for our clients. We will focus on driving client-centricity, reducing time to market & increasing efficiency. Ideal candidates enjoy fast-paced environments, thrive under ambiguity and adopt change passionately. This is a unique opportunity to grow and transform our business through driving significant step-change in our time to market, building more integ
+Java Fullstack Developer
+Cortex Consultants  Dallas, TX, USA
+Cortex Consultants company logo
+ Third Party, Contract
+ Posted 60+ days ago - Updated moments ago
+Cortex is a premier staffing & managed Services Company providing an array of services to clients ranging from Start-ups to global Fortune 500 companies in North America for over a decade. We have an exciting contract opportunity for Java Fullstack Developer with one of the major client based in Dallas, TX Title: Java Full stack Developer Location: Dallas, TX Education: Bachelor's Degree Job Description: Core Skills: Java, Java Script, SQL, Angular, Spring Boot, RESTful, Microservices Pres
+Easy Apply
+.Net Solution Architect/ Dot net Solution architect- Remote -One time pick up to client location
+TexcelVision Inc.  Remote or Austin, TX, USA
+TexcelVision Inc. company logo
+ Third Party, Contract
+ Posted 1 day ago - Updated moments ago
+The Candidate will perform highly advanced design and development work as part of the Administrative Application's project team(s) with direction and guidance from the Scrum Master and Applications Services Management. The primary responsibility of this position is to work with Product Owners, Scrum-masters, and internal/external stakeholders to provide the overall technology guidance and structure for creating and maintaining the .Net and web/micro service-based web applications. The Candidate
+Easy Apply
+.Net Solution Architect
+Bansar Technologies Inc.  Austin, TX, USA
+Bansar Technologies Inc. company logo
+ Contract, Third Party
+ Posted 1 day ago
+Bansar Technologies has been serving the State of Texas agencies since 2005. DirectClient: Texas Comptroller of Public Accounts(CPA) Solicitation#304135405 Title: .Net Solution Architect Location: 111 E 17th Street Austin, Texas 78711 Duration: Until 8/31/2022 with possible extension to 8/31/2025 Last date for submission: May 2, 2022 (2.00 PM-CST) Disclaimer: The selected contractor(s) will be required to come in person to the LBJ Building to obtain CPA equipment, badge and initial assignments C
+Easy Apply
+Automation Developer (Occasional/Monthly travel required)
+Techtriad Team - T3  Irving, TX, USA
+Techtriad Team - T3 company logo
+ Contract, Third Party
+ Posted 18 days ago - Updated 1 day ago
+Job Description Role: Automation Developer (Java) Location: Irving, TX Remote for now. (Occasional/Monthly travel required) Duration: Long term How you’ll make an impact: We are looking for a motivated and passionate software craftsperson to help us create, extend, and maintain the core automation platform of our connected car software platform as we expand past our current offerings in services related to safety, security and convenience in order to take our business to the next level. Wha
+Easy Apply
+Senior Software Development Engineer in Test (SDET)
+Charles Schwab & Co., Inc.  Austin, TX, USA
+Charles Schwab & Co., Inc. company logo
+ Full-time
+ Posted 5 days ago - Updated 4 hours ago
+Your Opportunity Workplace Flexibility Program: We're proud to support our employees in a working approach that allows you to bring your best self to work - whether that's in the office or remote. Most Schwabbies have the opportunity to voluntarily work in the office or at home based on their preference * When the firm is ready to fully return to the office, employees will have the flexibility of a hybrid work environment, spending some time working remote and some time in the office. Employee
+Full Stack Developer
+Infinity Consulting Solutions  Plano, TX, USA
+Infinity Consulting Solutions company logo
+ Full-time
+ Posted 60+ days ago - Updated moments ago
+Full Stack Java Developer Plano Texas Contract to Hire BS/BA degree or equivalent experience •Expertise in application, data, and infrastructure architecture disciplines •Advanced knowledge of architecture and design across all systems •Proficiency in multiple modern programming languages •Knowledge of industry-wide technology trends and best practices •Keen understanding of financial control and budget management •Ability to work in large, collaborative teams to achieve organizational goals •Pa
+Full Stack Developer
+Infinity Consulting Solutions  Plano, TX, USA
+Infinity Consulting Solutions company logo
+ Full-time
+ Posted 60+ days ago - Updated moments ago
+Full Stack Developer Plano Texas Contract to Hire BS/BA degree or equivalent experience •Expertise in application, data, and infrastructure architecture disciplines •Advanced knowledge of architecture and design across all systems •Proficiency in multiple modern programming languages •Knowledge of industry-wide technology trends and best practices •Keen understanding of financial control and budget management •Ability to work in large, collaborative teams to achieve organizational goals •Passion
+Senior Software Engineer - Lead
+Charles Schwab & Co., Inc.  Westlake, TX, USA
+Charles Schwab & Co., Inc. company logo
+ Full-time
+ Posted 59 days ago - Updated 4 hours ago
+Your Opportunity The Client Services Technology Organization in Rep Technologies is looking for a dynamic Java Tech Lead who enjoys working with leading edge cloud based products and platforms in a fast-paced environment and thrives under ambiguity. This technical leadership role is in the integration space where the team delivers state of the art integration architecture, designs and solutions between Schwab and multiple cloud platforms like Salesforce, Genesys and Nice. The Tech Lead will be
+Lead SDET- Software Development Engineer in Test
+Charles Schwab & Co., Inc.  Austin, TX, USA
+Charles Schwab & Co., Inc. company logo
+ Full-time
+ Posted 59 days ago - Updated 4 hours ago
+Your Opportunity This position will be part of the Trading eXperience Technology team at Schwab, focused on improving the Trading experience for our clients. We will focus on driving client-centricity, reducing time to market & increasing efficiency. Ideal candidates enjoy fast-paced environments, thrive under ambiguity and adopt change passionately. This is a unique opportunity to grow and transform our business through driving significant step-change in our time to market, building more integ
+Sr. SDET- Software Development Engineer in Test
+Charles Schwab & Co., Inc.  Austin, TX, USA
+Charles Schwab & Co., Inc. company logo
+ Full-time
+ Posted 60+ days ago - Updated 4 hours ago
+Your Opportunity This position will be part of the Trading eXperience Technology team at Schwab, focused on improving the Trading experience for our clients. We will focus on driving client-centricity, reducing time to market & increasing efficiency. Ideal candidates enjoy fast-paced environments, thrive under ambiguity and adopt change passionately. This is a unique opportunity to grow and transform our business through driving significant step-change in our time to market, building more integ
+Software Developer Engineer in Test - III
+Charles Schwab & Co., Inc.  Austin, TX, USA
+Charles Schwab & Co., Inc. company logo
+ Full-time
+ Posted 60+ days ago - Updated 4 hours ago
+Your Opportunity The ACAR Development team is looking for a Software Engineer in Test who will excel in a dynamic fast-paced environment. The right candidate will enjoy being part of a highly interactive, Agile team. Web Services team offers a wide range of technology opportunities for the best and brightest people to grow and demonstrate their skills as they develop high-performance financial applications. What you are good at Be a hands-on advocate and leader for test automation, drive conti
+Java Software Engineer
+NICE Systems  Richardson, TX, USA
+NICE Systems company logo
+ Full-time
+ Posted 60+ days ago - Updated 6 hours ago
+Position at NICE Software Engineer - Workforce Management About the company NICE is a multinational software company with more than 7,000 employees worldwide that provides software solutions that includes the core technologies organizations need to deliver better customer experiences through more effective, engaged employees. Since 1986, NICE has been the recognized leader in this field, providing solutions which turn both structured and unstructured data into valuable and actionable informa
+Java Software Engineer
+NICE Systems  Richardson, TX, USA
+NICE Systems company logo
+ Full-time
+ Posted 60+ days ago - Updated 6 hours ago
+Position at NICE Software Engineer - Workforce Management About the company NICE is a multinational software company with more than 7,000 employees worldwide that provides software solutions that includes the core technologies organizations need to deliver better customer experiences through more effective, engaged employees. Since 1986, NICE has been the recognized leader in this field, providing solutions which turn both structured and unstructured data into valuable and actionable informa
+SDET
+Charles Schwab & Co., Inc.  Westlake, TX, USA
+Charles Schwab & Co., Inc. company logo
+ Full-time
+ Posted 24 days ago - Updated 4 hours ago
+Your Opportunity Workplace Flexibility Program: We're proud to support our employees in a working approach that allows you to bring your best self to work - whether that's in the office or remote. Most Schwabbies have the opportunity to voluntarily work in the office or at home based on their preference * When the firm is ready to fully return to the office, employees will have the flexibility of a hybrid work environment, spending some time working remote and sometime in the office. Employee
+Test Automation Engineer
+Spartan Solutions INC  Plano, TX, USA
+Spartan Solutions INC company logo
+ Third Party
+ Posted 60+ days ago - Updated 14 days ago
+Test Automation Engineer (Built automation framework from scratch is mandatory.) Minimum Qualifications • 5+ years of quality assurance and test engineering experience. • Experience in Java & Groovy coding language. • Experience in building a automated test framework from ground up • Experience in testing and debugging external customer facing web applications • Organizational, coordination, and multi-tasking experience. • Hands-on experience with test planning, test designing
+Easy Apply
+ASP.NET Developer, Blazor, Razor
+Computer Staff, Inc.  Addison, TX, USA
+Computer Staff, Inc. company logo
+ Contract
+ Posted 25 days ago - Updated 3 hours ago
+We have been retained by our client in Dallas, Texas (north Dallas) to deliver a .NET Developer on a contract basis to design and develop a new ERP application where you will work with latest in Microsoft .NET technology and modern web applications development. This contract consultant will perform ASP.NET Core, C#, Javascript, jQuery, SignalR, Blazor, web development including 90% UI work on the Front End, on an enterprise resource planning (ERP) tool, using cutting edge technologies. Since we
+Easy Apply
+Java Developer
+Charles Schwab & Co., Inc.  Austin, TX, USA
+Charles Schwab & Co., Inc. company logo
+ Full-time
+ Posted 60+ days ago - Updated 4 hours ago
+Your Opportunity Client Serving Technology's (CST) vision is to champion innovation and optimal technology enabled business capabilities. We are looking for a candidate with SDET mentality who will excel in dynamic team, in a fast-paced and agile environment, specializing in development/testing, test frameworks, test infrastructure, automation code, test tools and data. What you are good at Be a leader in enabling teams to use TDD/BDD/ATDD using Gherkin and ensure the automation is constantly
+Java Developer
+Infinity Consulting Solutions  Plano, TX, USA
+Infinity Consulting Solutions company logo
+ Full-time
+ Posted 60+ days ago - Updated moments ago
+Full Stack Developer 3-6 Month CTH Plano TX Full Stack Engineer This role requires a wide variety of strengths and capabilities, including: - Expertise in application, data and infrastructure architecture disciplines - Advanced knowledge of architecture, design and business processes - Proven working experience using NodeJS, ReactJS & ES6 / Webpack and associated ecosystems. - 6 - 8 years experience building web applications, user interfaces, HTML, CSS etc. - Memory/CPU usage profiling, optimi
+.NET Developer, C#, ASP.NET Core, UI
+Computer Staff, Inc.  Dallas, TX, USA
+Computer Staff, Inc. company logo
+ Contract
+ Posted 34 days ago - Updated 3 hours ago
+We have been retained by our client in Dallas, Texas (north Dallas) to deliver a .NET Developer on a contract basis to design and develop a new ERP application where you will work with latest in Microsoft .NET technology and modern web applications development. This contract consultant will perform ASP.NET Core, C#, Javascript, jQuery, web development including 90% UI work on the Front End, on an enterprise resource planning (ERP) tool, using cutting edge technologies. This team is working on:
+Easy Apply
+QA/SDET Engineer
+Charles Schwab & Co., Inc.  Austin, TX, USA
+Charles Schwab & Co., Inc. company logo
+ Full-time
+ Posted 34 days ago - Updated 4 hours ago
+Your Opportunity Workplace Flexibility Program: We're proud to support our employees in a working approach that allows you to bring your best self to work - whether that's in the office or remote. Most Schwabbies have the opportunity to voluntarily work in the office or at home based on their preference, through the remainder of 2021.* When the firm is ready to fully return to the office, employees will have the flexibility of a hybrid work environment, spending some time working remote and so
+Java fullstack developer
+BI Solutions Inc  Plano, TX, USA
+BI Solutions Inc company logo
+ Third Party
+ Posted 60+ days ago - Updated 11 days ago
+Java Fullstack Developer Plano, TX Long Term Strong ReactJS experience Responsibilities • Hands-on Design and development of cross-functional, multi-platform application systems • Track record of projects completed on time – you are a flawless executor, not a procrastinator. • You find satisfaction in a job well done and want to solve head-scratching challenges. • Experience with all phases of the software development life cycle, best practices and Agile Software Development. • Work with Leads
+Easy Apply
+Software Developer II
+Charles Schwab & Co., Inc.  Austin, TX, USA
+Charles Schwab & Co., Inc. company logo
+ Full-time
+ Posted 60+ days ago - Updated 4 hours ago
+Your Opportunity This position is for a Software Dev II in Schwab's Advisor Services Technology (AST) on one of multiple scrum teams focused on the Schwab Advisor Center (SAC). The AST team is responsible for building applications for independent, registered financial advisors. These solutions are essential to the success of the investment advisor and offer features such as client relationship management, portfolio accounting, trading, data integration, paperless transactions, reporting and muc
+Lead .Net AWS Cloud Developer
+Dutech Systems Inc  Austin, TX, USA
+Dutech Systems Inc company logo
+ Contract, Third Party
+ Posted 18 days ago
+highly motivated AWS Developer to join our IT team to design, develop, and maintain applications. The Candidate will perform highly advanced design and development work as part of the Administrative Application’s product team(s) with direction and guidance from the Applications Services Management. The primarily responsibility for this role is to develop a cost-effective plan to build new web applications on AWS cloud leveraging CPA’s cloud footprint. The Candidate must possess strong technical
+Easy Apply
+Senior IT Enterprise Software Quality Engineer
+3coast  Katy, TX, USA
+3coast company logo
+ Full-time
+ Posted 60+ days ago - Updated 1 hour ago
+Job: SC19535 SENIOR IT ENTERPRISE SOFTWARE QUALITY ENGINEER Location: Katy, TX Type: Permanent Qualifications Bachelor's degree in Computer Science, Computer Engineering, Systems Engineering or other related Engineering disciplineMinimum 7 years of experience testing Warehouse Management Systems(WMS) IBMi(AS/400)Minimum 7 years of Retail industry domain experienceStrong experience Familiarity with AS400 Query Tool and Working knowledge of SQLMinimum 7 years of hands on experience with HPQC/ALM
+Easy Apply
+Senior Java UI Developer (100% Remote)
+DatamanUSA, LLC  Austin, TX, USA
+DatamanUSA, LLC company logo
+ Full-time, Part-time, Contract, Third Party
+ Posted 60+ days ago - Updated 21 hours ago
+Currently, we have an opening for Senior Java UI Developer (Remote) in Austin, TX for our direct Client. The position details are below. If you are interested please apply. Title: Senior Java UI Developer Duration: 8+ Months (with the possibility of extension) Location: Austin, TX (remote) Job Description: As part of Client's IT Applications Medical and Social Services Applications, the worker will perform the following activities to accomplish the following goals: Performs application develo
+Easy Apply
+QA Analyst SQL Healthcare
+Yoh - A Day & Zimmerman Company  Carrollton, TX, USA
+Yoh - A Day & Zimmerman Company company logo
+ Contract
+ Posted 60+ days ago - Updated 7 hours ago
+Healthcare SQL QA Analyst 6 month contract-to-hire (W2 or only. No 3rd parties//H1) 100% remote Must be vaccinated QA Analyst with heavy SQL/Data warehouse testing experience in the Healthcare Industry RESPONSIBILITIES: Create Synthetic and/or Test Data using tools to validate functionality on the UI for which real test data is not yet available Analyze large scale datasets, identify data quality issues Design, implement, and improve data quality standards Preparation of test cases and te
+Full-Stack Java Developer
+Infinity Consulting Solutions  Plano, TX, USA
+Infinity Consulting Solutions company logo
+ Full-time
+ Posted 60+ days ago - Updated moments ago
+Full Stack Java Developer 3-6 Months Contract to Hire Plano, TX, Hybrid work from home ICS is working with a Fortune 500, industry leading financial institution in Wilmington, DE who is looking for a Senior Java Software Engineer. Can you picture yourself working for one of America's Ideal Employers? Our client has received numerous awards and accolades due in part to their commitment to diversity, veterans, and fostering innovation. They've been named one of Fortune Magazine's -World's Most Ad
+Architecture Senior Tech Lead - AI/ML
+Request Technology, LLC  Plano, TX, USA
+Request Technology, LLC company logo
+ Full-time
+ Posted 60+ days ago - Updated 29 days ago
+We are unable to sponsor as this is a permanent full time role A prestigious fortune 500 company is on the search for an Architecture Senior Tech Lead – AI/ML Data Systems. This position is focused on enterprise architecture of AI/ML. This tech lead with be working with the AI clearing house and AI/ML governance as well as enterprise review. They will work with Platform data solutions, DevOps, Containers, Infrastructure, and cloud. Responsibilities and platforms: Application Platforms: WebL
+Easy Apply
+Senior .Net Engineer
+Apex Systems  Austin, TX, USA
+Apex Systems company logo
+ Full-time
+ Posted 60+ days ago - Updated 6 hours ago
+SENIOR .NET ENGINEER We are currently looking for experienced Cloud Senior .Net Engineers to join our team in Austin, TX. (Remote Allowed) The Job MUST Have - Experienced Cloud Engineer - Microservice Architectures Experienced in .NET (C#) As Senior .Net Engineer, you will bring a collaborative style in leading efforts that raise the maturity levels of the professional engineering practices and cloud engineering. As a Sr. .Net Engineer you are expected to use your experience and voice as a tool
+Easy Apply
+.NET Developer
+SPECTRAFORCE TECHNOLOGIES Inc.  Fort Worth, TX, USA
+SPECTRAFORCE TECHNOLOGIES Inc. company logo
+ Contract, Third Party
+ Posted 60+ days ago - Updated 1 day ago
+Title: Sr. Full Stack Engineer Duraction: 3 Months- Potential to extend Location: Tulsa OK 74116 or Phoenix AZ 85034- 40% ONSITE FROM DAY 1 - Description: Top 3 to 5 skillsets / yrs. of experience: • Frontend – Angular, Typescript/JavaScript • Backend – Node, Java, .Net Core • Database – Mongo, Azure SQL, Postgres • Cloud – Azure • Monitoring - DynaTrace **What is the on-site requirement? 40% of the time What you'll do Sr. Developer working on maintenance product applications.Collaborates w
+Easy Apply
+Full Stack Developer
+Infinity Consulting Solutions  Plano, TX, USA
+Infinity Consulting Solutions company logo
+ Full-time
+ Posted 60+ days ago - Updated moments ago
+Full Stack Developer 3-6 Month CTH Plano TX Full Stack Engineer This role requires a wide variety of strengths and capabilities, including: - Expertise in application, data and infrastructure architecture disciplines - Advanced knowledge of architecture, design and business processes - Proven working experience using NodeJS, ReactJS & ES6 / Webpack and associated ecosystems. - 6 - 8 years experience building web applications, user interfaces, HTML, CSS etc. - Memory/CPU usage profiling, optimizi
+Java Full Stack Developer
+Infinity Consulting Solutions  Plano, TX, USA
+Infinity Consulting Solutions company logo
+ Full-time
+ Posted 60+ days ago - Updated moments ago
+Full Stack Developer 3-6 Month CTH Plano TX Full Stack Engineer This role requires a wide variety of strengths and capabilities, including: - Expertise in application, data and infrastructure architecture disciplines - Advanced knowledge of architecture, design and business processes - Proven working experience using NodeJS, ReactJS & ES6 / Webpack and associated ecosystems. - 6 - 8 years experience building web applications, user interfaces, HTML, CSS etc. - Memory/CPU usage profiling, optimi
+Full Stack Developer
+Infinity Consulting Solutions  Plano, TX, USA
+Infinity Consulting Solutions company logo
+ Full-time
+ Posted 60+ days ago - Updated moments ago
+Full Stack Developer 3-6 Month CTH Plano TX Full Stack Engineer This role requires a wide variety of strengths and capabilities, including: - Expertise in application, data and infrastructure architecture disciplines - Advanced knowledge of architecture, design and business processes - Proven working experience using NodeJS, ReactJS & ES6 / Webpack and associated ecosystems. - 6 - 8 years experience building web applications, user interfaces, HTML, CSS etc. - Memory/CPU usage profiling, optimi
+Full Stack React Developer - Remote Work Allowed
+PeopleCorp America Inc  Remote or Austin, TX, USA
+PeopleCorp America Inc company logo
+ Contract, Third Party
+ Posted 60+ days ago - Updated 3 hours ago
+Full Stack React Developer Austin, TX 12+ Months Job Description: Our Direct Client is seeking an experienced, full-time, dedicated Candidate, with skills and expertise as described in below requirement. Responsibilities: The Candidate will perform highly advanced design and development work as part of a project team with direction and guidance from Project Manager and Applications Services Management. The Candidate must have strong hands-on technical experience with React.JS development and pro
+Easy Apply
+JAVA developer-DIRECT CLIENT
+Whiztek Corp  Houston, TX, USA
+Whiztek Corp company logo
+ Contract, Third Party
+ Posted 60+ days ago - Updated 7 days ago
+Direct client Title: Senior /Lead Java Developer Location:chicago,IL Duration: Longterm Experience in Open Shift platform, Release Management experience, Documentation, and Java/REST APIs/Microservices experience is a must. Job Description: As a Software Developer you will be involved in design, developing, testing and deploying APIs and microservices in cloud native technologies. You will join a team of full stack JAVA developers building restful APIs and microservices. You will also be deve
+Easy Apply
+Senior Full Stack .Net Developers
+RedRiver Systems L.L.C.  Irving, TX, USA
+RedRiver Systems L.L.C. company logo
+ Contract, Third Party
+ Posted 60+ days ago - Updated 2 hours ago
+This is an opportunity for a Senior Full Stack C# ASP.NET Developer with Angular 4 or higher to work for a corporation in the Banking industry on a long-term project to re-platform all of their current applications. Many of the applications are also being developed and transitioned to the Cloud / Azure. They are looking for C# Developers that really want to do Full Stack Development including TDD or BDD to test your own code and your peer's code using tools like the Selenium Plugin, SSIS and ex
+Easy Apply
+Mobile Automation Tester
+Matlen Silver  Frisco, TX, USA
+Matlen Silver company logo
+ Contract
+ Posted 60+ days ago - Updated moments ago
+Must be onsite in Frisco, TX This team is responsible for Architecting Mobile Banking. They work on Licensed Software Product meaning they have a Core Product and customize for clients/users. This team works with Professional Services team on best processes sometimes need to support the end customer.QA AutomationMust have mobile testing backgroundAgile environment do more automated testing than writing test scriptsExpresso / XPS (look this up) Role Purpose and Context This position plays a cor
+Easy Apply
+Cloud Services - Advanced
+Infinity Consulting Solutions  Plano, TX, USA
+Infinity Consulting Solutions company logo
+ Full-time
+ Posted 60+ days ago - Updated moments ago
+Java Cloud Developer 3 month right to hire contract Plano TX Cloud Native Microservices - Java8, Spring Boot, Kafka, Cassandra, PCF, PCC, DevOps, Jmeter, Blazemeter • BS/BA Degree in Computer Science or equivalent experience • 8+ years leading design and development for modules and event driven microservices with Java, spring boot exposing restful web services • Expert hands-on experience developing cloud native micro services per architecture principals with REST API development • Software dev
+Platform Engineer - Bigdata
+Judge Group, Inc.  Irving, TX, USA
+Judge Group, Inc. company logo
+ Full-time
+ Posted 60+ days ago - Updated 4 hours ago
+Location: Irving, TX Description: Our client is currently seeking a Platform Engineer - Bigdata JOB DUTIES: ? Responsible for implementation and ongoing administration of Atlas data governance and IBM Cloud Pak infrastructure initiatives. ? Responsible for implementation and ongoing administration of Atlas and Hadoop infrastructure initiatives. ? Support our Kubernetes based projects to resolve critical and complex technical issue. ? Experience in CoreOS & Linux OS installations ? Experi
+QA Automation Engineer
+Primetime Technologies Inc  Remote or Dallas, TX, USA
+Primetime Technologies Inc company logo
+ Full-time
+ Posted 60+ days ago - Updated 18 hours ago
+Looking for an experienced Quality Engineer to join our e-commerce team to help us elevate our business to the next level, while having fun learning new technologies and solving complex problems. The Quality Engineer will ensure members have the best possible experience purchasing products on websites and mobile apps as well as supporting e-commerce business applications. You will be responsible for designing, developing, implementing, and maintaining automated test cases for eCommerce website
+Easy Apply
+Looking for Software Development Engineer (SDET) in Plano, TX
+VLink Inc  Plano, TX, USA
+VLink Inc company logo
+ Contract, Third Party
+ Posted 60+ days ago - Updated 2 hours ago
+Role: Software Development Engineer (SDET) Location: Plano, TX Duration: 12 Months Your future duties and responsibilities Develop a suite of automated functional, integration tests to increase software quality. Leverage a combination of automation tools to develop regression tests on an incremental basis and operate in a fast-based Agile environment. Employ automation techniques including screen recording, data-driven, and object-based scripting to expand automation capabilities on modernizat
+Easy Apply
+ETL/Backend Tester
+SPI  Irving, TX, USA
+SPI company logo
+ Contract, Third Party
+ Posted 60+ days ago - Updated 28 days ago
+7+ yrs. ExperienceExperienced QA lead who has worked in a high volume demanding ITS environment, who is held accountable to accomplish the project schedule deadlines.Exceptional QA project management skills both verbal and in writingExperience in both AGILE (Scrum) and Waterfall testing modelsStrong in ETL data validation using InformaticaStrong in Bl report validation using MicroStrategyExperience with crons, Linux and API testingExposure to tools: Toad for Oracle/ PL SQL Developer; Rapid SQL;
+Easy Apply
+«

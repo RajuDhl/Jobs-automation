@@ -1,0 +1,5 @@
+Flask==2.0.3
+setuptools==60.9.3
+openpyxl~=3.0.9
+Werkzeug==2.0.3
+pandas~=1.4.1

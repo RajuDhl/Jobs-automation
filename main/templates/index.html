@@ -1,0 +1,42 @@
+{% block content %}
+    {% include 'nav.html' %}
+    <div class="container">
+        <h1>Process to follow!!!</h1>
+        <ul>
+            <li>
+                <h4>Search for relevent data in linkedin, dice, indeed or glassdoor.</h4>
+            </li>
+            <li>
+                <h4> Save the data in a <code>.txt</code> file.</h4>
+            </li>
+            <li>
+                <h4>Use the <a href="text-to-csv">Convert Page</a> to convert the raw text data to a csv file.
+                    Each company is checked in existing record and if matched, the domain for the company is embedded in the file.</h4>
+            </li>
+            <li>
+                <h4>(Manual) Search for the companies in <code>Apollo</code> and enrich the domains.</h4>
+            </li>
+            <li>
+                <h4>Use the <a href="enrich">Enrich Page</a> to enrich domains for new companies in existing record.</h4>
+            </li>
+
+            <li>
+                <h4>Repeat step <a href="text-to-csv">1</a></h4>
+            </li>
+            <li>
+                <h4>(Manual) Search for people via API</h4>
+            </li>
+            <li>
+                <h4>Separate people based on states</h4>
+            </li>
+            <li>
+                <h4>(Manual) Enrich Email for filtered people</h4>
+            </li>
+            <li>
+                <h4>Combine final data </h4>
+            </li>
+        </ul>
+    </div>
+
+
+{% endblock %}

@@ -1,0 +1,1 @@
+Delete Processed jobs and people older than a month. Include timestamp for that purpose.
