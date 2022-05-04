@@ -1,4 +1,5 @@
 import csv
+import os
 import time
 
 import pandas as pd
@@ -8,6 +9,7 @@ import datetime as dt
 
 def save_file(request):
     items = {}
+    print(os.getcwd())
     f = request.files
     print("incoming files", f)
     for filename, file in request.files.items():
