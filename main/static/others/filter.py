@@ -2,7 +2,7 @@ import time
 
 import pandas as pd
 
-from main.static.others.states import states
+from static.others.states import states
 
 csv_header = ["organization", "first_name", "last_name", 'headline', 'city', 'state', 'country', 'website',
               'linkedin_url', 'email_status']

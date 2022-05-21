@@ -5,6 +5,7 @@ import time
 import pandas as pd
 from werkzeug.utils import secure_filename
 import datetime as dt
+from workers import *
 
 
 def save_file(request):
@@ -90,3 +91,8 @@ def enrich_domains(file, cwd):
     print(len(df))
     df.to_csv("data/static/temp/text2csv.csv", index=False)
     return "data/static/temp/text2csv.csv"
+
+
+def search_people_using_api(companies_path, jobs_path, start, total):
+    domains = initialize(companies_path)
+    return None
