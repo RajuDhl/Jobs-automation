@@ -19,7 +19,7 @@ def initialize(companies_path):
         temp.append(row)
     enriched = Enrich_csv(temp)
     domain = enriched['domain_text']
-    return
+    return domain
 
 
 def search(page, domain, titles):
@@ -46,8 +46,6 @@ def search(page, domain, titles):
 
 
 def start_process(start_page, total_pages):
-    pool = Pool()
-    print("max size")
 
     def check_data(result):
         data = result['data']
@@ -63,11 +61,5 @@ def start_process(start_page, total_pages):
                     final_data.append(data[cont])
             except:
                 pass
-
-    for k in range(start_page, start_page + total_pages):
-        pool.apply_async(search, args=(k,), callback=check_data)
-
-    pool.close()
-    pool.join()
 
     return {'final_data': final_data}
